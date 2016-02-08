@@ -1,0 +1,26 @@
+---
+output: bd::html_body
+---
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+source("vitae-md.R")
+```
+
+# Brecht Devleesschauwer
+
+## Scientific output
+
+### Peer-reviewed papers
+
+**[Google Scholar](https://scholar.google.com/citations?user=AFSxtd0AAAAJ) metrics: `r gs$total_cites` citations &middot; h-index `r gs$h_index` &middot; i10-index `r gs$i10_index`**
+
+```{r, echo=FALSE, results='asis', message=FALSE}
+wb <- loadWorkbook("publications.xlsx")
+setMissingValue(wb, value = "NA")
+
+db <- readWorksheet(wb, sheet = "published")
+db <- db[order(db$title), ]
+db <- db[order(db$date, decreasing = TRUE), ]
+db <- db[order(!is.na(db$volume)), ]
+for (i in seq(nrow(db))) print_article(db[i, ], nrow(db) - i + 1)
+```

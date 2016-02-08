@@ -1,0 +1,442 @@
+\documentclass[
+  a4paper, 12pt, oneside,
+  ]{scrartcl}
+
+%% PREAMBLE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\Sexpr{knit_child("cv_preamble.tex")}
+
+%% R FUNCTIONS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\Sexpr{knit_child("cv_functions.Rnw")}
+
+%% START DOCUMENT %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document} 
+
+%% HEADER %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\noindent
+{\LARGE \textbf{Brecht Devleesschauwer}}~~{\large($^\circ$09/09/1986)}
+
+\noindent
+\hrulefill
+
+\vspace{0.1in}
+\noindent
+\textbf{Assistant Scientist, Global Food Safety and Zoonoses, PhD DVM MVSc MStat}\\
+\textit{Emerging Pathogens Institute \& Department of Animal Sciences, University of Florida}\\
+\textit{Center for Burden and Risk Assessment---\href{http://www.cbra.be}{www.cbra.be}}\\
+\href{mailto:bdevleesschauwer@ufl.edu}{bdevleesschauwer@ufl.edu} $\mid$ \href{http://animal.ifas.ufl.edu/faculty/devleesschauwer/}{animal.ifas.ufl.edu/faculty/devleesschauwer} $\mid$ +1 352 392 1981\\
+2250 Shealy Drive, Gainesville, FL 32611, USA $\mid$ PO Box 110910
+
+\noindent
+\hrulefill
+
+
+%% RESEARCH INTERESTS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Research interests}
+\begin{itemize}
+  \setlength\itemsep{-0.1em}
+  \item Epidemiology, burden of disease, risk assessment, health economics;
+  \item Bayesian data analysis, true prevalence estimation, meta-analysis, disease mapping;
+  \item Zoonotic diseases, food safety, veterinary public health.
+\end{itemize}
+
+%% EMPLOYMENT %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Employment}
+\begin{itemize}
+  \setlength\itemsep{0em}
+  \item \textbf{Assistant scientist}, 06/2015--present \hfill \\
+    University of Florida, Gainesville, USA% \hfill \\
+    %Activities: 90\% research, 10\% teaching
+  \item \textbf{Post-doctoral researcher}, 04/2015 \hfill \\
+    Ghent University, Merelbeke, Belgium
+  \item \textbf{Contracted technical expert}, 09/2013--12/2013, 02/2014--03/2014 \hfill \\
+    World Health Organization, Geneva, Switzerland
+  \item \textbf{Doctoral researcher}, 10/2010--03/2015 \hfill \\
+     Ghent University, Merelbeke, Belgium \hfill \\
+     Universit\'{e} catholique de Louvain, Brussels, Belgium
+\end{itemize}
+
+%% EDUCATION %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Education}
+\subsection{Academic titles}
+\begin{itemize}
+  \setlength\itemsep{0em}
+  \item \textbf{Ph.D. Veterinary Sciences \& Ph.D. Public Health}, 2010--2015 \hfill \\
+    Ghent University, Merelbeke, Belgium \hfill \\
+    Universit\'{e} catholique de Louvain, Brussels, Belgium \hfill \\
+    Dissertation topic: ``\textit{The Burden of Zoonoses in Nepal}'' \hfill \\
+    Promoters: Prof. Dr. P. Dorny, Prof. Dr. N. Speybroeck, Prof. Dr. L. Duchateau
+
+  \item \textbf{Doctoral Training Programme}, 2010--2015 \hfill \\
+    Doctoral School of Life Sciences and Medicine, Ghent University, Belgium
+
+  \item \textbf{M.Sc. Statistics (biometrics)}, 2011--2014 \hfill \\
+    Katholieke Universiteit Leuven, Louvain, Belgium; Great distinction \hfill \\
+    Dissertation topic: ``\textit{Quantitative Microbial Risk Assessment with R}''\hfill \\
+    Promoters: Prof. Dr. G. Molenberghs, Prof. Dr. C. Faes
+
+  \item \textbf{M.Sc. Veterinary Medicine (research \& industry)}, 2007--2010 \hfill \\
+    Ghent University, Merelbeke, Belgium; Greatest distinction \hfill \\
+    Dissertation topic: ``\textit{The Epidemiology of \textrm{Taenia solium} in Nepal}'' \hfill \\
+    Promoter: Prof. Dr. P. Dorny
+
+  \item \textbf{B.Sc. Veterinary Medicine}, 2004--2007 \hfill \\
+    Ghent University, Merelbeke, Belgium; Greatest distinction
+\end{itemize}
+
+%% SHORT COURSES %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Short courses}
+\begin{itemize}
+  \setlength\itemsep{0em}
+<<echo=FALSE, results='asis', message=FALSE>>=
+wb <- loadWorkbook("short_courses.xlsx")
+db <- readWorksheet(wb, sheet = "index")
+
+db <- db[order(db$title), ]
+db <- db[order(db$year, decreasing = TRUE), ]
+
+for (i in seq(nrow(db))) {
+  cat("\\item \\textbf{", db$title[i], "}, ", db$year[i], " \\hfill \\\\ \n", sep = "")
+  cat(gsub("é", "\\\\'{e}", db$location[i]), "\n")
+}
+@
+\end{itemize}
+
+%% PROFESSIONAL EXPERIENCES %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Professional experiences}
+\subsection{Contributions to peer review}
+\begin{itemize}
+  \setlength\itemsep{0em}
+  \item \textbf{Associate Editor}, 2015--present\hfill \\
+    BMC Veterinary Research, Parasitology section
+  \item \textbf{Reviewer for international scientific journals}, e.g.:\hfill \\
+    Acta Tropica, Advances in Parasitology, BMC Infectious Diseases, BMJ Case Reports, Bulletin of the World Health Organization, Health Affairs, International Journal of Environmental Research and Public Health, Journal of Neurosciences in Rural Practice, Parasitology International, PLOS One, Risk Analysis, Transactions of the Royal Society of Tropical Medicine \& Hygiene, Vector-Borne and Zoonotic Diseases
+\end{itemize}
+
+\subsection{Participation in international projects}
+\begin{itemize}
+  \item \textbf{Risk forecasting workgroup vice-leader}, 2015--present \hfill \\
+    EU COST action FA1408 EURO-FBP
+  \item \textbf{Epidemiology workgroup leader}, 2013--present \hfill \\
+    EU COST action TD1302 CYSTINET---\href{http://www.cystinet.org}{www.cystinet.org}
+  
+  \item \textbf{Computational Task Force member}, 2011--present\hfill \\
+    \textbf{Country Studies Task Force member}, 2011--present\hfill \\
+    Foodborne Disease Burden Epidemiology Reference Group, WHO
+\end{itemize}
+
+\subsection{Participation in international development projects}
+\begin{itemize}
+  \item \textbf{USAID Feed the Future Innovation Lab on Livestock Systems}, 2015--2020\hfill \\
+    \emph{Project granted to UF, aiming to improve livestock systems in Mali, Burkina Faso, Ethiopia, Rwanda, Nepal and Cambodia}
+    \begin{itemize}
+    \setlength\itemsep{-0.1em}
+      \item Contribution to project proposal
+      \item Participation in ``Livestock Disease Management and Food Safety'' AOI
+    \end{itemize}
+    
+  \item \textbf{VLIR-UOS Institutional University Cooperation with Jimma University, Ethiopia}, 2012--2016\hfill \\
+    \emph{Collaboration between Jimma University and different Flemish universities to strenghten institutional capacity}
+    \begin{itemize}
+    \setlength\itemsep{-0.1em}
+      \item Organisation of a workshop on design of experiments
+      \item Supervision of Master students
+    \end{itemize}
+    
+  \item \textbf{Doctoral research in Nepal}, 2010--2015\hfill \\
+    \emph{Collection and analysis of data on the burden of zoonotic and foodborne diseases, during a 6 months' stay}
+    
+  \item \textbf{Impact assessment and control of cysticercosis in the Indian Subcontinent}, 2007--2009\hfill \\
+    \emph{VLIR-UOS collaboration between Institute of Tropical Medicine (Antwerp, Belgium) and National Zoonoses and Food Hygiene Research Centre (Kathmandu, Nepal)}
+    \begin{itemize}
+    \setlength\itemsep{-0.1em}
+      \item Field work, lab work, data analysis
+    \end{itemize}
+\end{itemize}
+
+\subsection{Contributions as invited expert}
+\begin{itemize}
+  \item Expert consultation to discuss preliminary results of the joint WHO/IHME analysis of causes of death among children aged 5--14 years in the WHO European Region. Copenhagen, Denmark; 2015.
+  \item Trend analysis applied to parameter/matrix combinations from the the control plan, Federal Agency for the Safety of the Food Chain. Brussels, Belgium; 2014.
+  \item FAO/WHO Expert Meeting on Risk-based examples for Control of \emph{Trichinella} spp. and \emph{Taenia saginata} in meat. Geneva, Switzerland; 2013--2014.
+\end{itemize}
+
+\subsection{Logistic responsibilities}
+\subsubsection{Management of research centers}
+\begin{itemize}
+  \item \textbf{Founding member}, 2014--present\hfill \\
+  Center for Burden and Risk Assessment, \href{http://www.cbra.be/}{www.cbra.be}
+\end{itemize}
+
+\subsubsection{Organisation of national and international conferences}
+\begin{itemize}
+  \item \textbf{Member of scientific committee}\hfill \\
+    1st International CYSTINET Conference, 3--4 November 2015, Belgrade, Serbia
+\end{itemize}
+
+\subsubsection{Other}
+\begin{itemize}
+  \item \textbf{Event organizer}, 2012--2014\hfill \\
+    RBelgium, the Belgian R user group
+  \item \textbf{Rapporteur}, November 2010\hfill \\
+    Fourth meeting of the Foodborne Disease Burden Epidemiology Reference Group\hfill \\
+    WHO Headquarters, Geneva, Switzerland
+\end{itemize}
+
+\pagebreak
+
+%% SKILLS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Skills}
+\subsection{Languages}
+\begin{itemize}
+  \setlength\itemsep{-0.1em}
+  \item
+    \begin{tabular}{@{}p{0.8in}p{1in}p{1in}p{1in}}
+    \textbf{Dutch}   & speaking$+++$ & reading$+++$ & writing$+++$ \\
+    \end{tabular}
+  \item
+    \begin{tabular}{@{}p{0.8in}p{1in}p{1in}p{1in}}
+    \textbf{English} & speaking$+++$ & reading$+++$ & writing$+++$ \\
+    \end{tabular}
+  \item
+    \begin{tabular}{@{}p{0.8in}p{1in}p{1in}p{1in}}
+    \textbf{French}  & speaking$++$  & reading$+++$ & writing$++$ \\
+    \end{tabular}
+  \item
+    \begin{tabular}{@{}p{0.8in}p{1in}p{1in}p{1in}}
+    \textbf{German}  & speaking$+$   & reading$++$  & writing$+$ \\
+    \end{tabular}
+  \item
+    \begin{tabular}{@{}p{0.8in}p{1in}p{1in}p{1in}}
+    \textbf{Nepali}  & speaking$+$   & reading$+$   & writing$+$ \\
+    \end{tabular}
+\end{itemize}
+
+\subsection{Computer skills}
+\begin{itemize}
+  \setlength\itemsep{-0.1em}
+  \item \textbf{Statistical software}: R, WinBUGS, OpenBUGS, JAGS, SAS, Stata
+  \item \textbf{Advanced R skills}: package development, Tcl/Tk interfaces, Shiny applications
+  \item \textbf{Design and programming}: html, javascript, php, mysql, \LaTeX, C++
+  \item \textbf{Windows and MS Office}: Word, Excel, Powerpoint, Access
+\end{itemize}
+
+%% TEACHING %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Teaching}
+\subsection{Organization of workshops}
+\begin{itemize}
+  \setlength\itemsep{0em}
+  \item \textbf{CYSTINET Epidemiology Training School}, 1--3 September 2014 \hfill \\
+    Institute of Tropical Medicine, Antwerp, Belgium \hfill \\
+    Contents: introduction to R, systematic review and meta-analysis, GIS
+  \item \textbf{National Workshop on Design of Experiments
+for Statisticians and Practitioners}, 28--29 March 2013 \hfill \\
+    Jimma University, Jimma, Ethiopia \hfill \\
+    Partims: introduction to R, analysis of variance
+\end{itemize}
+
+\subsection{University lectures}
+\begin{itemize}
+  \setlength\itemsep{0em}
+  \item \textbf{Food safety: an introduction}, 2015 \hfill \\
+    Environmental Health Concepts in Public Health, PHC 6313, University of Florida
+  \item \textbf{Concepts of health economics}, 2013--2014 \hfill \\
+    MSc Public Health, Universit\'{e} catholique de Louvain
+  \item \textbf{Burden of disease and the Disability-Adjusted Life Year}, 2013--2015 \hfill \\
+    MSc Public Health, Universit\'{e} catholique de Louvain \hfill \\
+    MSc Health and Development, Universit\'{e} catholique de Louvain \hfill \\
+    MSc Occupational Medicine, Universit\'{e} catholique de Louvain \hfill \\
+    BSc Biomedical Sciences, Universit\'{e} catholique de Louvain
+  \item \textbf{Diagnostic test characteristics and true prevalence}, 2013--2014 \hfill \\
+    MSc Public Health, Universit\'{e} catholique de Louvain \hfill \\
+    MSc Health and Development, Universit\'{e} catholique de Louvain
+  \item \textbf{Topics in tropical veterinary medicine}, 2013--2015 \hfill \\
+    MSc Veterinary Medicine, Ghent University
+\end{itemize}
+
+\subsection{Practicals}
+\begin{itemize}
+  \setlength\itemsep{0em}
+  \item \textbf{Biomedical statistics}, 2012--2014 \hfill \\
+    BSc Veterinary Medicine, Ghent University
+    \item \textbf{Applied biomedical statistics}, 2013--2014 \hfill \\
+    MSc Veterinary Medicine, Ghent University
+\end{itemize}
+
+\subsection{Promoter of 4 short-term scientific missions}
+\begin{itemize}
+  \setlength\itemsep{0em}
+  \item \textbf{Fabian Dupont}, October 2015 \hfill \\
+    MSc Medicine, Technische Universit\"{a}t M\"{u}nchen \hfill \\
+    Health and economic impact of \emph{Taenia solium} neurocysticercosis in Uganda
+  \item \textbf{Uffe Christian Braae}, December 2014 \hfill \\
+    PhD Veterinary Medicine, University of Copenhagen \hfill \\
+    Development of a \emph{Taenia solium} transmission model
+  \item \textbf{Dr Hardy Richter}, September 2014 \hfill \\
+    Research associate, Munich Global Neurology Group \hfill \\
+    Landscape analysis of \emph{Taenia solium} neurocysticercosis in Europe
+  \item \textbf{Chiara Trevisan}, July 2014 \hfill \\
+    PhD Veterinary Medicine, University of Copenhagen \hfill \\
+    Burden assessment of \emph{Taenia solium} cysticercosis in Tanzania
+\end{itemize}
+
+<<echo=FALSE,results='asis',message=FALSE>>=
+wb <- loadWorkbook("students.xlsx")
+setMissingValue(wb, value = "NA")
+db <- readWorksheet(wb, sheet = "students")
+
+db_msc <- db[db$grade == "MSc", ]
+db_msc <- db_msc[order(db_msc$year, decreasing = TRUE), ]
+
+cat("\\subsection{(Co)supervisor of",
+    nrow(db_msc), "MSc students}\n")
+
+cat("\\begin{itemize}\n")
+cat("\\setlength\\itemsep{0em}\n")
+for (i in seq(nrow(db_msc)))
+  print_student(db_msc[i, ], nrow(db_msc) - i + 1)
+cat("\\end{itemize}\n")
+
+db_bsc <- db[db$grade == "BSc", ]
+db_bsc <- db_bsc[order(db_bsc$year, decreasing = TRUE), ]
+
+cat("\\subsection{(Co)supervisor of",
+    nrow(db_bsc), "BSc students}\n")
+
+cat("\\begin{itemize}\n")
+cat("\\setlength\\itemsep{0em}\n")
+for (i in seq(nrow(db_bsc)))
+  print_student(db_bsc[i, ], nrow(db_bsc) - i + 1)
+cat("\\end{itemize}\n")
+@
+
+%% PUBLICATIONS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Scientific output}
+
+\subsection{Peer-reviewed papers}
+<<echo=FALSE, warning=FALSE>>=
+library(scholar)
+id <- "AFSxtd0AAAAJ"
+gs <- get_profile(id)
+@
+\textbf{Google Scholar metrics: \Sexpr{gs$total_cites} citations $\cdot$ h-index \Sexpr{gs$h_index} $\cdot$ i10-index \Sexpr{gs$i10_index}}
+%\textbf{Google Scholar metrics: 162 citations $\cdot$ h-index 8 $\cdot$ i10-index 5}
+
+\begin{itemize}
+  \setlength\itemsep{0em}
+<<echo=FALSE,results='asis',message=FALSE>>=
+wb <- loadWorkbook("publications.xlsx")
+setMissingValue(wb, value = "NA")
+
+db <- readWorksheet(wb, sheet = "published")
+db <- db[order(db$title), ]
+db <- db[order(db$date, decreasing = TRUE), ]
+db <- db[order(!is.na(db$volume)), ]
+for (i in seq(nrow(db))) print_article(db[i, ], nrow(db) - i + 1)
+@
+\end{itemize}
+
+%% SUBMITTED %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Submitted papers}
+
+\begin{itemize}
+  \setlength\itemsep{0em}
+<<echo=FALSE,results='asis',message=FALSE>>=
+db <- readWorksheet(wb, sheet = "submitted")
+db <- db[order(db$title), ]
+db <- db[order(db$date, decreasing = TRUE), ]
+for (i in seq(nrow(db))) print_article(db[i, ], nrow(db) - i + 1)
+@
+\end{itemize}
+
+%% TALKS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Oral presentations}
+\begin{itemize}
+  \setlength\itemsep{0em}
+<<echo=FALSE,results='asis',message=FALSE>>=
+wb <- loadWorkbook("presentations.xlsx")
+setMissingValue(wb, value = "NA")
+
+db <- readWorksheet(wb, sheet = "oral")
+db <- db[order(db$title), ]
+db <- db[order(db$month, decreasing = TRUE), ]
+db <- db[order(db$year, decreasing = TRUE), ]
+for (i in seq(nrow(db))) {
+  print_proceeding(db[i, ], nrow(db) - i + 1)
+}
+@
+\end{itemize}
+
+\subsection{Poster presentations}
+\begin{itemize}
+  \setlength\itemsep{0em}
+<<echo=FALSE,results='asis',message=FALSE>>=
+wb <- loadWorkbook("presentations.xlsx")
+setMissingValue(wb, value = "NA")
+
+db <- readWorksheet(wb, sheet = "poster")
+db <- db[order(db$title), ]
+db <- db[order(db$month, decreasing = TRUE), ]
+db <- db[order(db$year, decreasing = TRUE), ]
+for (i in seq(nrow(db))) {
+  print_proceeding(db[i, ], nrow(db) - i + 1)
+}
+@
+\end{itemize}
+
+\subsection{Reports}
+\begin{itemize}
+  \setlength\itemsep{0em}
+  \item[{[5]}] World Health Organization (2015) WHO estimates of the global burden of foodborne diseases. Foodborne diseases burden epidemiology reference group 2007-2015. Geneva: WHO Press.
+  \item[{[4]}] Smit S, \textbf{Devleesschauwer B}, Apers L, Macq J, Beutels P, Speybroeck N (2015) Evaluation of the cost-effectiveness of the tuberculosis policies in Flanders. Report submitted to the Agency for Care and Health.
+  \item[{[3]}] Food and Agriculture Organization of the United Nations, World Health Organization (2014) Risk based examples for control of \emph{Trichinella} spp. and \emph{Taenia saginata} in meat. Report of a joint FAO/WHO expert meeting, 22--25 October 2013, WHO Headquarters, Geneva, Switzerland.
+  \item[{[2]}] World Health Organization (2014) WHO initiative to estimate the global burden of foodborne diseases: fifth formal meeting of the Foodborne Disease Burden Epidemiology Reference Group (FERG), 8--12 April 2013, Geneva, Switzerland. Geneva: WHO Press.
+  \item[{[1]}] World Health Organization (2014) WHO initiative to estimate the global burden of foodborne diseases: fourth formal meeting of the Foodborne Disease Burden Epidemiology Reference Group (FERG): Sharing New Results, Making Future Plans, and Preparing Ground for the Countries. Geneva: WHO Press.
+\end{itemize}
+
+\subsection{R Packages}
+\begin{itemize}
+  \setlength\itemsep{0em}
+  \item[{[2]}] \textbf{Devleesschauwer B},  Torgerson P, Charlier J, Levecke B, Praet N, Roelandt S, Smit GSA, Dorny P, Berkvens D, Speybroeck N (2015). prevalence: Tools for Prevalence Assessment Studies. R package version 0.4.0. \url{http://cran.r-project.org/package=prevalence}
+  \item[{[1]}] \textbf{Devleesschauwer B}, McDonald S, Haagsma A, Praet N, Havelaar A, Speybroeck N (2014) DALY: The DALY Calculator---A GUI for stochastic DALY calculation in R. R package version 1.4.0. \url{http://cran.r-project.org/package=DALY}
+\end{itemize}
+
+\subsection{Vulgarizing articles}
+\begin{itemize}
+  \setlength\itemsep{0em}
+  \item[{[4]}] Havelaar AH, \textbf{Devleesschauwer B}. \textit{One in 10 globally suffer from foodborne diseases, WHO study finds.} EPI News, 3 December 2015.
+  \item[{[3]}] Speybroeck N, Maertens de Noordhout C, \textbf{Devleesschauwer B}. \textit{Des nombres pour des aliments s\^{u}rs.} La Libre Belgique, 12 April 2015.
+  \item[{[2]}] Speybroeck N, Maertens de Noordhout C, \textbf{Devleesschauwer B}. \textit{Comment les nombres rendent vos aliments plus s\^{u}rs.} Le Soir, 8 April 2015.
+  \item[{[1]}] Speybroeck N, Maertens de Noordhout C, \textbf{Devleesschauwer B}. \textit{Hoe getallen je voedsel veiliger maken.} De Morgen, 7 April 2015.
+\end{itemize}
+
+\section{Scientific honors and awards}
+\begin{itemize}
+  \setlength\itemsep{-0.1em}
+  \item \textbf{PhD Scholarship}, Special Research Fund (BOF), Ghent University; 2010
+  \item \textbf{Pfizer Award} for the best Master thesis in Veterinary Medicine; 2010
+  \item \textbf{Dr Paul Janssen Award} for the best Master student in Veterinary Medicine; 2010
+  \item \textbf{Floribert Jurion Fund}, Royal Academy for Overseas Sciences; 2009
+  \item \textbf{Travel grant}, BIOS, Ghent University; 2008
+  \item \textbf{Travel grant}, Flemish Inter-University Council---University Development Cooperation (VLIR-UOS); 2007
+\end{itemize}
+
+%%
+%%
+
+\vspace{0.75in}
+\hline
+\vspace{0.25in}
+
+\begingroup
+\parindent -3em
+\begin{picture}(100,100)
+\put(0,-20){\includegraphics{signature.pdf}}
+\put(45,20){\textsl{Brecht Devleesschauwer}}
+\put(38,0){
+\textsl{
+\Sexpr{format(Sys.Date(), "%d %B %Y")}
+}}
+\end{picture}
+\endgroup
+
+\end{document} 

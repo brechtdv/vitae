@@ -1,0 +1,9 @@
+Echinococcus granulosus
+Taenia asiatica
+Taenia saginata
+Taenia solium
+Toxocara vitulorum
+Aeromonas
+Trypanosoma cruzi
+Anopheles arabiensis
+Toxoplasma gondii

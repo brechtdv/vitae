@@ -1,0 +1,60 @@
+%% PREAMBLE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% packages
+\usepackage{amsmath,amssymb}        % mathematics
+\usepackage[table]{xcolor}          % use colors in tables
+\definecolor{lightgray}{gray}{0.9}  % define new color (used in tables)
+\usepackage{soul}                   % defines the \hl command
+\usepackage{float}                  % to use [H] as tab/fig position
+\usepackage{array}                  % to use >{...} construct in table
+\usepackage{lscape}                 % for landscape pages
+
+%% define left-aligned paragraph column
+\newcolumntype{L}[1]{%
+  >{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}p{#1}}
+
+%% set page margins
+\usepackage[margin=2.5cm,a4paper]{geometry}
+
+%% links
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks,
+    linkcolor=red,
+    urlcolor=blue,
+    citecolor=blue,
+    pdfpagemode=UseOutlines
+}
+
+\usepackage{lmodern}  %% for sans-serif plus bold plus italic
+\usepackage[square, numbers, sort&compress]{natbib}
+
+
+%% NEW COMMANDS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newcommand{\km}[1]{$\textrm{km}^{#1}$}
+\newcommand{\R}{\textsf{R}}
+\newcommand{\pkg}[1]{\textsf{#1}}
+\newcommand{\menu}[1]{\textsf{\emph{#1}}}
+\newcommand{\btn}[1]{\textsf{#1}}
+
+%\definecolor{knitred}{HTML}{BB5A64}
+%\definecolor{knitgrn}{HTML}{54AA54}
+\definecolor{knitgry}{HTML}{F7F7F7}
+\definecolor{knittxt}{HTML}{575757}
+\definecolor{knitred}{HTML}{575757} % BW
+\definecolor{knitgrn}{HTML}{575757} % BW
+
+\newcommand{\fun}[1]{%
+  \colorbox{knitgry}{\texttt{{\bfseries\color{knitred}#1}()}}}
+\newcommand{\op}[2][]{%
+  \colorbox{knitgry}{\texttt{{\bfseries\color{knitred}#2}\color{knittxt}#1}}}
+\newcommand{\ar}[1]{%
+  \colorbox{knitgry}{\texttt{{\bfseries\color{knitgrn}#1}}}}
+\newcommand{\aris}[2]{%
+  \colorbox{knitgry}{\texttt{{\bfseries\color{knitgrn}#1}{\color{knittxt}~=~#2}}}}
+\newcommand{\ob}[1]{%
+  \colorbox{knitgry}{\texttt{{\color{knittxt}#1}}}}
+
+%% LAYOUT SETTINGS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\linespread{1.2}
