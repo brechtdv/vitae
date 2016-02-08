@@ -11,7 +11,7 @@ source("vitae-md.R")
 Assistant Scientist, Global Food Safety and Zoonoses, PhD DVM MVSc MStat
 
 _Emerging Pathogens Institute & Department of Animal Sciences, University of Florida_  
-_Center for Burden and Risk Assessment_---[www.cbra.be](http://www.cbra.be})
+_Center for Burden and Risk Assessment_---[www.cbra.be](http://www.cbra.be)
 
 bdevleesschauwer@ufl.edu | [animal.ifas.ufl.edu/faculty/devleesschauwer](http://animal.ifas.ufl.edu/faculty/devleesschauwer) | +1 352 392 1981  
 2250 Shealy Drive, Gainesville, FL 32611, USA | PO Box 110910
@@ -66,13 +66,188 @@ bdevleesschauwer@ufl.edu | [animal.ifas.ufl.edu/faculty/devleesschauwer](http://
 
 ### Short courses
 
-## Scientific output
+```{r, echo=FALSE, results='asis', message=FALSE}
+db <- readWorksheetFromFile("short_courses.xlsx", "index")
+db <- db[order(db$title), ]
+db <- db[order(db$year, decreasing = TRUE), ]
 
-### Peer-reviewed papers
+for (i in seq(nrow(db))) {
+  cat("* **", db$title[i], "**, ", db$year[i], "  \n", sep = "")
+  cat("    ", db$location[i], "\n\n")
+}
+```
 
-**[Google Scholar](https://scholar.google.com/citations?user=AFSxtd0AAAAJ) metrics: `r gs$total_cites` citations &middot; h-index `r gs$h_index` &middot; i10-index `r gs$i10_index`**
+## Professional experiences
+
+### Contributions to peer review
+
+* **Associate Editor, 2015**--present  
+    BMC Veterinary Research, Parasitology section
+    
+* **Reviewer for international scientific journals**, e.g.:  
+    Acta Tropica, Advances in Parasitology, BMC Infectious Diseases, BMJ Case Reports, Bulletin of the World Health Organization, Health Affairs, International Journal of Environmental Research and Public Health, Journal of Neurosciences in Rural Practice, Parasitology International, PLOS One, Risk Analysis, Transactions of the Royal Society of Tropical Medicine & Hygiene, Vector-Borne and Zoonotic Diseases
+
+### Participation in international projects
+
+* **Risk forecasting workgroup vice-leader**, 2015--present   
+    EU COST action FA1408 EURO-FBP
+    
+* **Epidemiology workgroup leader**, 2013--present   
+    EU COST action TD1302 CYSTINET---[www.cystinet.org](http://www.cystinet.org)
+
+* **Computational Task Force member**, 2011--present  
+    **Country Studies Task Force member**, 2011--present  
+    Foodborne Disease Burden Epidemiology Reference Group, WHO
+
+### Participation in international development projects
+
+* **USAID Feed the Future Innovation Lab on Livestock Systems**, 2015--2020  
+    _Project granted to UF, aiming to improve livestock systems in Mali, Burkina Faso, Ethiopia, Rwanda, Nepal and Cambodia_
+    * Contribution to project proposal  
+    * Participation in Livestock Disease Management and Food Safety AOI  
+    
+* **VLIR-UOS Institutional University Cooperation with Jimma University, Ethiopia**, 2012--2016  
+    _Collaboration between Jimma University and different Flemish universities to strenghten institutional capacity_
+    * Organisation of a workshop on design of experiments
+    * Supervision of Master students  
+    
+* **Doctoral research in Nepal**, 2010--2015  
+    _Collection and analysis of data on the burden of zoonotic and foodborne diseases, during a 6 months' stay_
+    
+* **Impact assessment and control of cysticercosis in the Indian Subcontinent**, 2007--2009  
+    _VLIR-UOS collaboration between Institute of Tropical Medicine (Antwerp, Belgium) and National Zoonoses and Food Hygiene Research Centre (Kathmandu, Nepal)_
+    * Field work, lab work, data analysis
+    
+### Contributions as invited expert
+
+* Expert consultation to discuss preliminary results of the joint WHO/IHME analysis of causes of death among children aged 5--14 years in the WHO European Region. Copenhagen, Denmark; 2015.
+* Trend analysis applied to parameter/matrix combinations from the the control plan, Federal Agency for the Safety of the Food Chain. Brussels, Belgium; 2014.
+* FAO/WHO Expert Meeting on Risk-based examples for Control of _Trichinella} spp. and _Taenia saginata} in meat. Geneva, Switzerland; 2013--2014.
+
+### Logistic responsibilities
+
+#### Management of research centers
+
+* **Founding member**, 2014--present  
+    Center for Burden and Risk Assessment, [www.cbra.be](http://www.cbra.be)
+
+#### Organisation of national and international conferences
+
+* **Member of scientific committee**  
+    1st International CYSTINET Conference, 3--4 November 2015, Belgrade, Serbia
+
+#### Other
+
+* **Event organizer**, 2012--2014  
+    RBelgium, the Belgian R user group
+    
+* **Rapporteur**, November 2010  
+    Fourth meeting of the Foodborne Disease Burden Epidemiology Reference Group  
+    WHO Headquarters, Geneva, Switzerland
+
+## Skills
+
+### Languages
+
+Language | Speaking | Reading | Writing
+-------- | -------- | ------- | -------
+Dutch    | +++      | +++     | +++
+English  | +++      | +++     | +++
+French   | ++       | +++     | ++
+German   | +        | ++      | + 
+Nepali   | +        | +       | + 
+
+### Computer skills
+
+* **Statistical software**: R, WinBUGS, OpenBUGS, JAGS, SAS, Stata
+* **Advanced R skills**: package development, Tcl/Tk interfaces, Shiny applications
+* **Design and programming**: html, javascript, php, mysql, LaTeX, markdown, C++
+* **Windows and MS Office**: Word, Excel, Powerpoint, Access
+
+## Teaching
+
+### Organization of workshops
+
+* **CYSTINET Epidemiology Training School**, 1--3 September 2014   
+    Institute of Tropical Medicine, Antwerp, Belgium   
+    Contents: introduction to R, systematic review and meta-analysis, GIS
+    
+* **National Workshop on Design of Experiments for Statisticians and Practitioners**, 28--29 March 2013   
+    Jimma University, Jimma, Ethiopia   
+    Partims: introduction to R, analysis of variance
+
+### University lectures
+
+* **Food safety: an introduction**, 2015   
+    Environmental Health Concepts in Public Health, PHC 6313, University of Florida
+    
+* **Concepts of health economics**, 2013--2014   
+    MSc Public Health, Université catholique de Louvain
+    
+* **Burden of disease and the Disability-Adjusted Life Year**, 2013--2015   
+    MSc Public Health, Université catholique de Louvain   
+    MSc Health and Development, Université catholique de Louvain   
+    MSc Occupational Medicine, Université catholique de Louvain   
+    BSc Biomedical Sciences, Université catholique de Louvain
+    
+* **Diagnostic test characteristics and true prevalence**, 2013--2014   
+    MSc Public Health, Université catholique de Louvain   
+    MSc Health and Development, Université catholique de Louvain
+    
+* **Topics in tropical veterinary medicine**, 2013--2015   
+    MSc Veterinary Medicine, Ghent University
+
+### Practicals
+
+* **Biomedical statistics**, 2012--2014   
+    BSc Veterinary Medicine, Ghent University
+    
+* **Applied biomedical statistics**, 2013--2014   
+    MSc Veterinary Medicine, Ghent University
+
+
+### Promoter of 4 short-term scientific missions
+
+* **Fabian Dupont**, October 2015   
+    MSc Medicine, Technische Universit\"{a}t M\"{u}nchen   
+    Health and economic impact of _Taenia solium_ neurocysticercosis in Uganda
+    
+* **Uffe Christian Braae**, December 2014   
+    PhD Veterinary Medicine, University of Copenhagen   
+    Development of a _Taenia solium_ transmission model
+    
+* **Dr Hardy Richter**, September 2014   
+    Research associate, Munich Global Neurology Group   
+    Landscape analysis of _Taenia solium_ neurocysticercosis in Europe
+    
+* **Chiara Trevisan**, July 2014   
+    PhD Veterinary Medicine, University of Copenhagen   
+    Burden assessment of _Taenia solium_ cysticercosis in Tanzania
+
 
 ```{r, echo=FALSE, results='asis', message=FALSE}
+wb <- loadWorkbook("students.xlsx")
+setMissingValue(wb, value = "NA")
+db <- readWorksheet(wb, sheet = "students")
+
+db_msc <- db[db$grade == "MSc", ]
+db_msc <- db_msc[order(db_msc$year, decreasing = TRUE), ]
+cat(sprintf("### (Co)supervisor of %d MSc students\n", nrow(db_msc)))
+
+for (i in seq(nrow(db_msc)))
+  print_student(db_msc[i, ], nrow(db_msc) - i + 1)
+
+db_bsc <- db[db$grade == "BSc", ]
+db_bsc <- db_bsc[order(db_bsc$year, decreasing = TRUE), ]
+cat(sprintf("### (Co)supervisor of %d BSc students\n", nrow(db_bsc)))
+
+for (i in seq(nrow(db_bsc)))
+  print_student(db_bsc[i, ], nrow(db_bsc) - i + 1)
+```
+
+## Scientific output
+
+```{r, echo=FALSE, message=FALSE}
 wb <- loadWorkbook("publications.xlsx")
 setMissingValue(wb, value = "NA")
 
@@ -80,8 +255,98 @@ db <- readWorksheet(wb, sheet = "published")
 db <- db[order(db$title), ]
 db <- db[order(db$date, decreasing = TRUE), ]
 db <- db[order(!is.na(db$volume)), ]
+```
+
+```{r, echo=FALSE, results='asis'}
+cat(sprintf("### Peer-reviewed papers (%d)", nrow(db)))
+```
+
+**[Google Scholar](https://scholar.google.com/citations?user=AFSxtd0AAAAJ) metrics: `r gs$total_cites` citations &middot; h-index `r gs$h_index` &middot; i10-index `r gs$i10_index`**
+
+```{r, echo=FALSE, results='asis', message=FALSE}
 for (i in seq(nrow(db))) print_article(db[i, ], nrow(db) - i + 1)
 ```
+
+```{r, echo=FALSE, message=FALSE}
+db <- readWorksheet(wb, sheet = "submitted")
+db <- db[order(db$title), ]
+db <- db[order(db$date, decreasing = TRUE), ]
+```
+
+```{r, echo=FALSE, results='asis'}
+cat(sprintf("### Submitted papers (%d)", nrow(db)))
+```
+
+```{r, echo=FALSE, results='asis', message=FALSE}
+for (i in seq(nrow(db))) print_article(db[i, ], nrow(db) - i + 1)
+```
+
+```{r, echo=FALSE, message=FALSE}
+wb <- loadWorkbook("presentations.xlsx")
+setMissingValue(wb, value = "NA")
+
+db <- readWorksheet(wb, sheet = "oral")
+db <- db[order(db$title), ]
+db <- db[order(db$month, decreasing = TRUE), ]
+db <- db[order(db$year, decreasing = TRUE), ]
+```
+
+```{r, echo=FALSE, results='asis'}
+cat(sprintf("### Oral presentations (%d)", nrow(db)))
+```
+
+```{r, echo=FALSE, results='asis', message=FALSE}
+for (i in seq(nrow(db))) print_proceeding(db[i, ], nrow(db) - i + 1)
+```
+
+```{r, echo=FALSE, message=FALSE}
+db <- readWorksheet(wb, sheet = "poster")
+db <- db[order(db$title), ]
+db <- db[order(db$month, decreasing = TRUE), ]
+db <- db[order(db$year, decreasing = TRUE), ]
+```
+
+```{r, echo=FALSE, results='asis'}
+cat(sprintf("### Poster presentations (%d)", nrow(db)))
+```
+
+```{r, echo=FALSE, results='asis', message=FALSE}
+for (i in seq(nrow(db))) print_proceeding(db[i, ], nrow(db) - i + 1)
+```
+
+### Reports
+
+* World Health Organization (2015) WHO estimates of the global burden of foodborne diseases. Foodborne diseases burden epidemiology reference group 2007-2015. Geneva: WHO Press.
+
+* Smit S, **Devleesschauwer B**, Apers L, Macq J, Beutels P, Speybroeck N (2015) Evaluation of the cost-effectiveness of the tuberculosis policies in Flanders. Report submitted to the Agency for Care and Health.
+
+* Food and Agriculture Organization of the United Nations, World Health Organization (2014) Risk based examples for control of _Trichinella_ spp. and _Taenia saginata_ in meat. Report of a joint FAO/WHO expert meeting, 22--25 October 2013, WHO Headquarters, Geneva, Switzerland.
+
+* World Health Organization (2014) WHO initiative to estimate the global burden of foodborne diseases: fifth formal meeting of the Foodborne Disease Burden Epidemiology Reference Group (FERG), 8--12 April 2013, Geneva, Switzerland. Geneva: WHO Press.
+
+* World Health Organization (2014) WHO initiative to estimate the global burden of foodborne diseases: fourth formal meeting of the Foodborne Disease Burden Epidemiology Reference Group (FERG): Sharing New Results, Making Future Plans, and Preparing Ground for the Countries. Geneva: WHO Press.
+
+### R Packages
+
+* **Devleesschauwer B**,  Torgerson P, Charlier J, Levecke B, Praet N, Roelandt S, Smit GSA, Dorny P, Berkvens D, Speybroeck N (2015). prevalence: Tools for Prevalence Assessment Studies. R package version 0.4.0. http://cran.r-project.org/package=prevalence
+
+* **Devleesschauwer B**, McDonald S, Haagsma A, Praet N, Havelaar A, Speybroeck N (2014) DALY: The DALY Calculator---A GUI for stochastic DALY calculation in R. R package version 1.4.0. http://cran.r-project.org/package=DALY
+
+### Vulgarizing articles
+
+* Havelaar AH, **Devleesschauwer B**. _One in 10 globally suffer from foodborne diseases, WHO study finds._ EPI News, 3 December 2015.
+* Speybroeck N, Maertens de Noordhout C, **Devleesschauwer B**. _Des nombres pour des aliments sûrs._ La Libre Belgique, 12 April 2015.
+* Speybroeck N, Maertens de Noordhout C, **Devleesschauwer B**. _Comment les nombres rendent vos aliments plus sûrs._ Le Soir, 8 April 2015.
+* Speybroeck N, Maertens de Noordhout C, **Devleesschauwer B**. _Hoe getallen je voedsel veiliger maken._ De Morgen, 7 April 2015.
+
+## Scientific honors and awards
+
+* **PhD Scholarship**, Special Research Fund (BOF), Ghent University; 2010
+* **Pfizer Award** for the best Master thesis in Veterinary Medicine; 2010
+* **Dr Paul Janssen Award** for the best Master student in Veterinary Medicine; 2010
+* **Floribert Jurion Fund**, Royal Academy for Overseas Sciences; 2009
+* **Travel grant**, BIOS, Ghent University; 2008
+* **Travel grant**, Flemish Inter-University Council---University Development Cooperation (VLIR-UOS); 2007
 
 ---
 

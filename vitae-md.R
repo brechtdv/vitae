@@ -89,14 +89,14 @@ print_article <-
       doi_string <- ""
     }
 
-    cat("1. ")
+    cat("* ")
     cat(paste(authors_string, collapse = ", "))
     cat(year_string, " ", sep = "")
     cat(title_string, " ", sep = "")
     cat(journal_string)
     cat(vp_string)
     cat(doi_string)
-    cat("\n")
+    cat("\n\n")
   }
 
 print_student <-
@@ -119,13 +119,16 @@ print_student <-
       title_string <- gtag(title_string, needle[i], "_")
 
     ## print item
-    cat("\\item ", item$student, ", ", year_string, sep = "")
-    cat("\\hfill \\\\ \n")
-    cat(item$grade, " ", item$topic, ", ", item$univ, sep = "")
-    cat("\\hfill \\\\ \n")
+    cat("* ",
+        paste(item$student,
+              paste(item$grade, item$topic, sep = " "),
+              item$univ,
+              year_string,
+              sep = ", "))
+    cat("  \n")
     cat(title_string, " (", item$type, ")", sep = "")
-    cat("\\hfill \\\\ \n")
-    cat(pr, paste(pr_string, collapse = ", "), "\n")
+    cat("  \n")
+    cat(pr, paste(pr_string, collapse = ", "), "\n\n")
   }
 
 
@@ -154,14 +157,14 @@ print_proceeding <-
 
     ## reformat conference string
     conf_string <-
-      paste0("Presented at the \\emph{", conf, "}",
+      paste0("Presented at the _", item$conference, "_",
              "; ", item$day, " ", month.abb[item$month], " ", item$year,
-             "; ", location, ".")
+             "; ", item$location, ".")
     
-    cat("\\item[{[", id, "]}]", sep = "")
+    cat("* ")
     cat(paste(authors_string, collapse = ", "))
     cat(year_string, " ", sep = "")
     cat(title_string, " ", sep = "")
     cat(conf_string)
-    cat("\n")
+    cat("\n\n")
   }
