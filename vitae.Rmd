@@ -8,6 +8,64 @@ source("vitae-md.R")
 
 # Brecht Devleesschauwer
 
+Assistant Scientist, Global Food Safety and Zoonoses, PhD DVM MVSc MStat
+
+_Emerging Pathogens Institute & Department of Animal Sciences, University of Florida_  
+_Center for Burden and Risk Assessment_---[www.cbra.be](http://www.cbra.be})
+
+bdevleesschauwer@ufl.edu | [animal.ifas.ufl.edu/faculty/devleesschauwer](http://animal.ifas.ufl.edu/faculty/devleesschauwer) | +1 352 392 1981  
+2250 Shealy Drive, Gainesville, FL 32611, USA | PO Box 110910
+
+## Research interests
+
+* Epidemiology, burden of disease, risk assessment, health economics;
+* Bayesian data analysis, true prevalence estimation, meta-analysis, disease mapping;
+* Zoonotic diseases, food safety, veterinary public health.
+
+## Employment
+
+* **Assistant scientist**, 06/2015--present  
+    University of Florida, Gainesville, USA  
+    Activities: 90% research, 10% teaching
+    
+* **Post-doctoral researcher**, 04/2015  
+    Ghent University, Merelbeke, Belgium
+    
+* **Contracted technical expert**, 09/2013--12/2013, 02/2014--03/2014  
+    World Health Organization, Geneva, Switzerland
+    
+* **Doctoral researcher**, 10/2010--03/2015  
+    Ghent University, Merelbeke, Belgium  
+    Université catholique de Louvain, Brussels, Belgium
+
+## Education
+
+### Academic titles
+
+* **Ph.D. Veterinary Sciences & Ph.D. Public Health**, 2010--2015  
+    Ghent University, Merelbeke, Belgium  
+    Université catholique de Louvain, Brussels, Belgium  
+    Dissertation topic: _The Burden of Zoonoses in Nepal_  
+    Promoters: Prof. Dr. P. Dorny, Prof. Dr. N. Speybroeck, Prof. Dr. L. Duchateau
+
+* **Doctoral Training Programme**, 2010--2015  
+    Doctoral School of Life Sciences and Medicine, Ghent University, Belgium
+
+* **M.Sc. Statistics (biometrics)**, 2011--2014  
+    Katholieke Universiteit Leuven, Louvain, Belgium; Great distinction  
+    Dissertation topic: _Quantitative Microbial Risk Assessment with R_  
+    Promoters: Prof. Dr. G. Molenberghs, Prof. Dr. C. Faes
+
+* **M.Sc. Veterinary Medicine (research & industry)**, 2007--2010  
+    Ghent University, Merelbeke, Belgium; Greatest distinction  
+    Dissertation topic: _The Epidemiology of Taenia solium in Nepal_  
+    Promoter: Prof. Dr. P. Dorny
+
+* **B.Sc. Veterinary Medicine**, 2004--2007  
+    Ghent University, Merelbeke, Belgium; Greatest distinction
+
+### Short courses
+
 ## Scientific output
 
 ### Peer-reviewed papers
@@ -24,3 +82,7 @@ db <- db[order(db$date, decreasing = TRUE), ]
 db <- db[order(!is.na(db$volume)), ]
 for (i in seq(nrow(db))) print_article(db[i, ], nrow(db) - i + 1)
 ```
+
+---
+
+_Last update: `r Sys.Date()`_
