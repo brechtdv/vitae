@@ -120,9 +120,13 @@ for (i in seq(nrow(db))) {
     
 ### Contributions as invited expert
 
-* Expert consultation to discuss preliminary results of the joint WHO/IHME analysis of causes of death among children aged 5--14 years in the WHO European Region. Copenhagen, Denmark; 2015.
-* Trend analysis applied to parameter/matrix combinations from the the control plan, Federal Agency for the Safety of the Food Chain. Brussels, Belgium; 2014.
-* FAO/WHO Expert Meeting on Risk-based examples for Control of _Trichinella} spp. and _Taenia saginata} in meat. Geneva, Switzerland; 2013--2014.
+* Expert panel on FDA-iRisk DALY templates. Research Triangle International, NC, USA; 2016.
+
+* Expert consultation to discuss preliminary results of the joint WHO/IHME analysis of causes of death among children aged 5--14 years in the WHO European Region. WHO Regional Office for Europe, Copenhagen, Denmark; 2015.
+
+* Trend analysis applied to parameter/matrix combinations from the the control plan. Federal Agency for the Safety of the Food Chain, Brussels, Belgium; 2014.
+
+* FAO/WHO Expert Meeting on Risk-based examples for Control of _Trichinella_ spp. and _Taenia saginata_ in meat. World Health Organization, Geneva, Switzerland; 2013--2014.
 
 ### Logistic responsibilities
 
