@@ -8,3 +8,6 @@
 # RStudio files
 .Rproj.user/
 *.Rproj
+
+# Windows temp files
+~$*
