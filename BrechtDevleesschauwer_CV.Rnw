@@ -3,10 +3,10 @@
   ]{scrartcl}
 
 %% PREAMBLE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\Sexpr{knit_child("cv_preamble.tex")}
+\Sexpr{knitr::knit_child("cv_preamble.tex")}
 
 %% R FUNCTIONS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\Sexpr{knit_child("cv_functions.Rnw")}
+\Sexpr{source("vitae.R")}
 
 %% START DOCUMENT %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document} 
@@ -28,7 +28,6 @@
 
 \noindent
 \hrulefill
-
 
 %% RESEARCH INTERESTS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Research interests}
@@ -88,15 +87,13 @@
 \begin{itemize}
   \setlength\itemsep{0em}
 <<echo=FALSE, results='asis', message=FALSE>>=
-wb <- loadWorkbook("short_courses.xlsx")
-db <- readWorksheet(wb, sheet = "index")
-
+db <- readWorksheetFromFile("short_courses.xlsx", "index")
 db <- db[order(db$title), ]
 db <- db[order(db$year, decreasing = TRUE), ]
 
 for (i in seq(nrow(db))) {
   cat("\\item \\textbf{", db$title[i], "}, ", db$year[i], " \\hfill \\\\ \n", sep = "")
-  cat(gsub("é", "\\\\'{e}", db$location[i]), "\n")
+  cat(sanitize_specials(db$location[i], "latex"), "\n")
 }
 @
 \end{itemize}
@@ -155,9 +152,10 @@ for (i in seq(nrow(db))) {
 
 \subsection{Contributions as invited expert}
 \begin{itemize}
-  \item Expert consultation to discuss preliminary results of the joint WHO/IHME analysis of causes of death among children aged 5--14 years in the WHO European Region. Copenhagen, Denmark; 2015.
-  \item Trend analysis applied to parameter/matrix combinations from the the control plan, Federal Agency for the Safety of the Food Chain. Brussels, Belgium; 2014.
-  \item FAO/WHO Expert Meeting on Risk-based examples for Control of \emph{Trichinella} spp. and \emph{Taenia saginata} in meat. Geneva, Switzerland; 2013--2014.
+  \item Expert panel on FDA-iRisk DALY templates. Research Triangle International, NC, USA; 2016.
+  \item Expert consultation to discuss preliminary results of the joint WHO/IHME analysis of causes of death among children aged 5--14 years in the WHO European Region. WHO Regional Office for Europe, Copenhagen, Denmark; 2015.
+  \item Trend analysis applied to parameter/matrix combinations from the the control plan. Federal Agency for the Safety of the Food Chain, Brussels, Belgium; 2014.
+  \item FAO/WHO Expert Meeting on Risk-based examples for Control of \emph{Trichinella} spp. and \emph{Taenia saginata} in meat. World Health Organization, Geneva, Switzerland; 2013--2014.
 \end{itemize}
 
 \subsection{Logistic responsibilities}
@@ -216,7 +214,7 @@ for (i in seq(nrow(db))) {
   \setlength\itemsep{-0.1em}
   \item \textbf{Statistical software}: R, WinBUGS, OpenBUGS, JAGS, SAS, Stata
   \item \textbf{Advanced R skills}: package development, Tcl/Tk interfaces, Shiny applications
-  \item \textbf{Design and programming}: html, javascript, php, mysql, \LaTeX, C++
+  \item \textbf{Design and programming}: html, javascript, php, mysql, \LaTeX, markdown, C++
   \item \textbf{Windows and MS Office}: Word, Excel, Powerpoint, Access
 \end{itemize}
 
@@ -424,7 +422,7 @@ for (i in seq(nrow(db))) {
 %%
 
 \vspace{0.75in}
-\hline
+\hrule
 \vspace{0.25in}
 
 \begingroup
