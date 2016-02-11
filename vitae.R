@@ -1,5 +1,6 @@
 ## packages used
 library(XLConnect)
+library(bd)
 
 ## helper functions
 tag  <- function(x, tag) paste0("\\", tag, "{", x, "}")
@@ -18,19 +19,19 @@ abbr <- function(x) {
   names_vector <- sapply(names_vector, initial, USE.NAMES = FALSE)
   author <- paste0(x_split[[1]][1], " ",
                    paste(names_vector, collapse = ""))
-  author <- gsub("á", "\\\\'{a}", author)
-  author <- gsub("é", "\\\\'{e}", author)
-  author <- gsub("í", "\\\\'{i}", author)
-  author <- gsub("ë", "\\\\\"{e}", author)
-  author <- gsub("ö", "\\\\\"{o}", author)
-  author <- gsub("ü", "\\\\\"{u}", author)
-  author <- gsub("è", "\\\\`{e}", author)
-  author <- gsub("ê", "\\\\^{e}", author)
+  author <- sanitize_specials(author, "latex")
   if (x_split[[1]][1] == "Devleesschauwer") {
     author <- tag(author, "textbf")
   }
   return(author)
 }
+
+## needle
+needle <-
+  read.table("needle.txt", stringsAsFactors = FALSE, sep = "\t")$V1
+
+##
+##
 
 print_article <-
   function(item, id) {
@@ -49,17 +50,7 @@ print_article <-
     
     ## reformat title string
     title_string <- item$title
-    needle <-
-      c("Echinococcus granulosus",
-        "Taenia asiatica",
-        "Taenia saginata",
-        "Taenia solium",
-        "Toxocara vitulorum",
-        "Aeromonas",
-        "Trypanosoma cruzi",
-        "Anopheles arabiensis",
-        "Toxoplasma gondii")
-    
+
     for (i in seq_along(needle))
       title_string <- gtag(title_string, needle[i], "textit")
     
@@ -118,14 +109,7 @@ print_student <-
     
     ## reformat title string
     title_string <- item$title
-    needle <-
-      c("Taenia saginata",
-        "Taenia solium",
-        "Toxoplasma gondii",
-        "Opisthorchis",
-        "Anopheles",
-        "Echinococcus multilocularis")
-    
+
     for (i in seq_along(needle))
       title_string <- gtag(title_string, needle[i], "textit")
 
@@ -157,28 +141,19 @@ print_proceeding <-
     
     ## reformat title string
     title_string <- item$title
-    needle <-
-      c("Toxoplasma gondii")
-    
+
     for (i in seq_along(needle))
       title_string <- gtag(title_string, needle[i], "textit")
 
-    title_string <- gsub("é", "\\\\'{e}", title_string)
-    title_string <- gsub("è", "\\\\`{e}", title_string)
-    title_string <- gsub("É", "\\\\'{E}", title_string)
-    
+    title_string <- sanitize_specials(title_string, "latex")
+
     if (substring(title_string, nchar(title_string)) != "?")
       title_string <- paste0(title_string, ".")
 
     ## reformat conference string
-    conf <- item$conference
-    conf <- gsub("é", "\\\\'{e}", conf)
-    conf <- gsub("è", "\\\\`{e}", conf)
-    conf <- gsub("É", "\\\\'{E}", conf)
-  
-    location <- item$location
-    location <- gsub("è", "\\\\`{e}", location)
-    
+    conf <- sanitize_specials(item$conference, "latex")
+    location <- sanitize_specials(item$location, "latex")
+
     conf_string <-
       paste0("Presented at the \\emph{", conf, "}",
              "; ", item$day, " ", month.abb[item$month], " ", item$year,
