@@ -11,3 +11,9 @@
 
 # Windows temp files
 ~$*
+
+# PDF version
+signature.pdf
+*.tex
+*.log
+*.synctex.gz
