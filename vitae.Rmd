@@ -95,29 +95,27 @@ for (i in seq(nrow(db))) {
 * **Epidemiology workgroup leader**, 2013--present   
     EU COST action TD1302 CYSTINET---[www.cystinet.org](http://www.cystinet.org)
 
-* **Computational Task Force member**, 2011--present  
-    **Country Studies Task Force member**, 2011--present  
-    Foodborne Disease Burden Epidemiology Reference Group, WHO
-
-### Participation in international development projects
-
-* **USAID Feed the Future Innovation Lab on Livestock Systems**, 2015--2020  
+* **USAID Feed the Future Innovation Lab on Livestock Systems**, 2015--2016  
     _Project granted to UF, aiming to improve livestock systems in Mali, Burkina Faso, Ethiopia, Rwanda, Nepal and Cambodia_
     * Contribution to project proposal  
     * Participation in Livestock Disease Management and Food Safety AOI  
+
+* **Computational Task Force member**, 2011--2015  
+    **Country Studies Task Force member**, 2011--2015  
+    [Foodborne Disease Burden Epidemiology Reference Group](http://www.who.int/foodsafety/areas_work/foodborne-diseases/ferg/en/), WHO  
     
-* **VLIR-UOS Institutional University Cooperation with Jimma University, Ethiopia**, 2012--2016  
+* **VLIR-UOS Institutional University Cooperation with Jimma University, Ethiopia**, 2012--2015 
     _Collaboration between Jimma University and different Flemish universities to strenghten institutional capacity_
     * Organisation of a workshop on design of experiments
     * Supervision of Master students  
     
 * **Doctoral research in Nepal**, 2010--2015  
-    _Collection and analysis of data on the burden of zoonotic and foodborne diseases, during a 6 months' stay_
+    _Collection and analysis of data on the burden of zoonotic and foodborne diseases, during a 6 months' stay_  
     
 * **Impact assessment and control of cysticercosis in the Indian Subcontinent**, 2007--2009  
     _VLIR-UOS collaboration between Institute of Tropical Medicine (Antwerp, Belgium) and National Zoonoses and Food Hygiene Research Centre (Kathmandu, Nepal)_
     * Field work, lab work, data analysis
-    
+
 ### Contributions as invited expert
 
 * Expert panel on FDA-iRisk DALY templates. Research Triangle International, NC, USA; 2016.
@@ -213,7 +211,7 @@ Nepali   | +        | +       | +
 ### Promoter of 4 short-term scientific missions
 
 * **Fabian Dupont**, October 2015   
-    MSc Medicine, Technische Universit\"{a}t M\"{u}nchen   
+    MSc Medicine, Technische Universität München   
     Health and economic impact of _Taenia solium_ neurocysticercosis in Uganda
     
 * **Uffe Christian Braae**, December 2014   
@@ -320,7 +318,7 @@ for (i in seq(nrow(db))) print_proceeding(db[i, ], nrow(db) - i + 1)
 
 ### Reports
 
-* World Health Organization (2015) WHO estimates of the global burden of foodborne diseases. Foodborne diseases burden epidemiology reference group 2007-2015. Geneva: WHO Press.
+* World Health Organization (2015) WHO estimates of the global burden of foodborne diseases. Foodborne diseases burden epidemiology reference group 2007--2015. Geneva: WHO Press.
 
 * Smit S, **Devleesschauwer B**, Apers L, Macq J, Beutels P, Speybroeck N (2015) Evaluation of the cost-effectiveness of the tuberculosis policies in Flanders. Report submitted to the Agency for Care and Health.
 
