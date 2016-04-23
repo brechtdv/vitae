@@ -20,11 +20,11 @@
 
 \vspace{0.1in}
 \noindent
-\textbf{Assistant Scientist, Global Food Safety and Zoonoses, PhD DVM MVSc MStat}\\
-\textit{Emerging Pathogens Institute \& Department of Animal Sciences, University of Florida}\\
+\textbf{Epidemiologist, PhD DVM MVSc MStat}\\
+\textit{Scientific Institute of Public Health (WIV-ISP), Dept Public Health and Surveillance}\\
 \textit{Center for Burden and Risk Assessment---\href{http://www.cbra.be}{www.cbra.be}}\\
-\href{mailto:bdevleesschauwer@ufl.edu}{bdevleesschauwer@ufl.edu} $\mid$ \href{http://animal.ifas.ufl.edu/faculty/devleesschauwer/}{animal.ifas.ufl.edu/faculty/devleesschauwer} $\mid$ +1 352 392 1981\\
-2250 Shealy Drive, Gainesville, FL 32611, USA $\mid$ PO Box 110910
+\href{mailto:brecht.devleesschauwer@wiv-isp.be}{brecht.devleesschauwer@wiv-isp.be} $\mid$ Skype: wiv-isp.brecht.devleesschauwer\\
+Rue Juliette Wytsmanstraat 14, 1050 Brussels, Belgium $\mid$ +32 2 642 5035
 
 \noindent
 \hrulefill
@@ -42,7 +42,9 @@
 \section{Employment}
 \begin{itemize}
   \setlength\itemsep{0em}
-  \item \textbf{Assistant scientist}, 06/2015--present \hfill \\
+  \item \textbf{Epidemiologist}, 04/2016--present \hfill \\
+    Scientific Institute of Public Health (WIV-ISP), Brussels, Belgium
+  \item \textbf{Assistant scientist, global food safety and zoonoses}, 06/2015--03/2016 \hfill \\
     University of Florida, Gainesville, USA% \hfill \\
     %Activities: 90\% research, 10\% teaching
   \item \textbf{Post-doctoral researcher}, 04/2015 \hfill \\
@@ -106,7 +108,7 @@ for (i in seq(nrow(db))) {
   \item \textbf{Associate Editor}, 2015--present\hfill \\
     BMC Veterinary Research, Parasitology section
   \item \textbf{Reviewer for international scientific journals}, e.g.:\hfill \\
-    Acta Tropica, Advances in Parasitology, BMC Infectious Diseases, BMJ Case Reports, Bulletin of the World Health Organization, Health Affairs, International Journal of Environmental Research and Public Health, Journal of Neurosciences in Rural Practice, Parasitology International, PLOS One, Risk Analysis, Transactions of the Royal Society of Tropical Medicine \& Hygiene, Vector-Borne and Zoonotic Diseases
+    Acta Tropica, Advances in Parasitology, BMC Infectious Diseases, BMJ Case Reports, Bulletin of the World Health Organization, Health Affairs, International Journal of Environmental Research and Public Health, Journal of Neurosciences in Rural Practice, Parasitology International, PLOS Neglected Tropical Diseases, PLOS One, Risk Analysis, Transactions of the Royal Society of Tropical Medicine \& Hygiene, Vector-Borne and Zoonotic Diseases
 \end{itemize}
 
 \subsection{Participation in international projects}
@@ -180,8 +182,6 @@ for (i in seq(nrow(db))) {
     WHO Headquarters, Geneva, Switzerland
 \end{itemize}
 
-\pagebreak
-
 %% SKILLS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Skills}
 \subsection{Languages}
@@ -235,6 +235,8 @@ for Statisticians and Practitioners}, 28--29 March 2013 \hfill \\
 \subsection{University lectures}
 \begin{itemize}
   \setlength\itemsep{0em}
+  \item \textbf{Topics in tropical veterinary medicine}, 2013--2016 \hfill \\
+    MSc Veterinary Medicine, Ghent University
   \item \textbf{Food safety: an introduction}, 2015 \hfill \\
     Environmental Health Concepts in Public Health, PHC 6313, University of Florida
   \item \textbf{Concepts of health economics}, 2013--2014 \hfill \\
@@ -247,8 +249,6 @@ for Statisticians and Practitioners}, 28--29 March 2013 \hfill \\
   \item \textbf{Diagnostic test characteristics and true prevalence}, 2013--2014 \hfill \\
     MSc Public Health, Universit\'{e} catholique de Louvain \hfill \\
     MSc Health and Development, Universit\'{e} catholique de Louvain
-  \item \textbf{Topics in tropical veterinary medicine}, 2013--2015 \hfill \\
-    MSc Veterinary Medicine, Ghent University
 \end{itemize}
 
 \subsection{Practicals}

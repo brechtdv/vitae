@@ -8,13 +8,13 @@ source("vitae-md.R")
 
 # Brecht Devleesschauwer
 
-Assistant Scientist, Global Food Safety and Zoonoses, PhD DVM MVSc MStat
+Epidemiologist, PhD DVM MVSc MStat
 
-_Emerging Pathogens Institute & Department of Animal Sciences, University of Florida_  
+_Scientific Institute of Public Health (WIV-ISP), Department of Public Health and Surveillance_  
 _Center for Burden and Risk Assessment_---[www.cbra.be](http://www.cbra.be)
 
-bdevleesschauwer@ufl.edu | [animal.ifas.ufl.edu/faculty/devleesschauwer](http://animal.ifas.ufl.edu/faculty/devleesschauwer) | +1 352 392 1981  
-2250 Shealy Drive, Gainesville, FL 32611, USA | PO Box 110910
+brecht.devleesschauwer@wiv-isp.be | Skype: wiv-isp.brecht.devleesschauwer  
+Rue Juliette Wytsmanstraat 14, 1050 Brussels, Belgium | +32 2 642 5035
 
 ## Research interests
 
@@ -24,9 +24,11 @@ bdevleesschauwer@ufl.edu | [animal.ifas.ufl.edu/faculty/devleesschauwer](http://
 
 ## Employment
 
-* **Assistant scientist**, 06/2015--present  
-    University of Florida, Gainesville, USA  
-    Activities: 90% research, 10% teaching
+* **Epidemiologist**, 04/2016--present  
+    Scientific Institute of Public Health (WIV-ISP), Brussels, Belgium
+    
+* **Assistant scientist**, 06/2015--03/2016  
+    University of Florida, Gainesville, FL, USA
     
 * **Post-doctoral researcher**, 04/2015  
     Ghent University, Merelbeke, Belgium
@@ -85,7 +87,7 @@ for (i in seq(nrow(db))) {
     BMC Veterinary Research, Parasitology section
     
 * **Reviewer for international scientific journals**, e.g.:  
-    Acta Tropica, Advances in Parasitology, BMC Infectious Diseases, BMJ Case Reports, Bulletin of the World Health Organization, Health Affairs, International Journal of Environmental Research and Public Health, Journal of Neurosciences in Rural Practice, Parasitology International, PLOS One, Risk Analysis, Transactions of the Royal Society of Tropical Medicine & Hygiene, Vector-Borne and Zoonotic Diseases
+    Acta Tropica, Advances in Parasitology, BMC Infectious Diseases, BMJ Case Reports, Bulletin of the World Health Organization, Health Affairs, International Journal of Environmental Research and Public Health, Journal of Neurosciences in Rural Practice, Parasitology International, PLOS Neglected Tropical Diseases, PLOS One, Risk Analysis, Transactions of the Royal Society of Tropical Medicine & Hygiene, Vector-Borne and Zoonotic Diseases
 
 ### Participation in international projects
 
@@ -180,6 +182,9 @@ Nepali   | +        | +       | +
 
 ### University lectures
 
+* **Topics in tropical veterinary medicine**, 2013--2016  
+    MSc Veterinary Medicine, Ghent University
+    
 * **Food safety: an introduction**, 2015   
     Environmental Health Concepts in Public Health, PHC 6313, University of Florida
     
@@ -195,9 +200,6 @@ Nepali   | +        | +       | +
 * **Diagnostic test characteristics and true prevalence**, 2013--2014   
     MSc Public Health, Université catholique de Louvain   
     MSc Health and Development, Université catholique de Louvain
-    
-* **Topics in tropical veterinary medicine**, 2013--2015   
-    MSc Veterinary Medicine, Ghent University
 
 ### Practicals
 

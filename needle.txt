@@ -2,6 +2,7 @@ Aeromonas
 Anopheles
 Anopheles arabiensis
 Echinococcus granulosus
+Giardia
 Opisthorchis
 Taenia asiatica
 Taenia saginata
