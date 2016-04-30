@@ -87,7 +87,7 @@ for (i in seq(nrow(db))) {
     BMC Veterinary Research, Parasitology section
     
 * **Reviewer for international scientific journals**, e.g.:  
-    Acta Tropica, Advances in Parasitology, BMC Infectious Diseases, BMJ Case Reports, Bulletin of the World Health Organization, Health Affairs, International Journal of Environmental Research and Public Health, Journal of Neurosciences in Rural Practice, Parasitology International, PLOS Neglected Tropical Diseases, PLOS One, Risk Analysis, Transactions of the Royal Society of Tropical Medicine & Hygiene, Vector-Borne and Zoonotic Diseases
+    Acta Tropica, Advances in Parasitology, BMC Infectious Diseases, BMJ Case Reports, Bulletin of the World Health Organization, Health Affairs, Journal of Neurosciences in Rural Practice, Lancet, Parasitology International, PLOS Neglected Tropical Diseases, PLOS One, Risk Analysis, Transactions of the Royal Society of Tropical Medicine & Hygiene, Vector-Borne and Zoonotic Diseases
 
 ### Participation in international projects
 
@@ -99,8 +99,8 @@ for (i in seq(nrow(db))) {
 
 * **USAID Feed the Future Innovation Lab on Livestock Systems**, 2015--2016  
     _Project granted to UF, aiming to improve livestock systems in Mali, Burkina Faso, Ethiopia, Rwanda, Nepal and Cambodia_
-    * Contribution to project proposal  
-    * Participation in Livestock Disease Management and Food Safety AOI  
+    * Contribution to project proposal
+    * Participation in Livestock Disease Management and Food Safety AOI   
 
 * **Computational Task Force member**, 2011--2015  
     **Country Studies Task Force member**, 2011--2015  
@@ -109,7 +109,7 @@ for (i in seq(nrow(db))) {
 * **VLIR-UOS Institutional University Cooperation with Jimma University, Ethiopia**, 2012--2015 
     _Collaboration between Jimma University and different Flemish universities to strenghten institutional capacity_
     * Organisation of a workshop on design of experiments
-    * Supervision of Master students  
+    * Supervision of Master students   
     
 * **Doctoral research in Nepal**, 2010--2015  
     _Collection and analysis of data on the burden of zoonotic and foodborne diseases, during a 6 months' stay_  

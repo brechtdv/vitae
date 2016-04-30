@@ -108,7 +108,7 @@ for (i in seq(nrow(db))) {
   \item \textbf{Associate Editor}, 2015--present\hfill \\
     BMC Veterinary Research, Parasitology section
   \item \textbf{Reviewer for international scientific journals}, e.g.:\hfill \\
-    Acta Tropica, Advances in Parasitology, BMC Infectious Diseases, BMJ Case Reports, Bulletin of the World Health Organization, Health Affairs, International Journal of Environmental Research and Public Health, Journal of Neurosciences in Rural Practice, Parasitology International, PLOS Neglected Tropical Diseases, PLOS One, Risk Analysis, Transactions of the Royal Society of Tropical Medicine \& Hygiene, Vector-Borne and Zoonotic Diseases
+    Acta Tropica, Advances in Parasitology, BMC Infectious Diseases, BMJ Case Reports, Bulletin of the World Health Organization, Health Affairs, Journal of Neurosciences in Rural Practice, Lancet, Parasitology International, PLOS Neglected Tropical Diseases, PLOS One, Risk Analysis, Transactions of the Royal Society of Tropical Medicine \& Hygiene, Vector-Borne and Zoonotic Diseases
 \end{itemize}
 
 \subsection{Participation in international projects}
@@ -281,6 +281,9 @@ for Statisticians and Practitioners}, 28--29 March 2013 \hfill \\
 wb <- loadWorkbook("students.xlsx")
 setMissingValue(wb, value = "NA")
 db <- readWorksheet(wb, sheet = "students")
+
+db$univ <- sanitize_specials(db$univ, "latex")
+db$title <- sanitize_specials(db$title, "latex")
 
 db_msc <- db[db$grade == "MSc", ]
 db_msc <- db_msc[order(db_msc$year, decreasing = TRUE), ]
