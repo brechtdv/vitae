@@ -87,7 +87,11 @@ for (i in seq(nrow(db))) {
     BMC Veterinary Research, Parasitology section
     
 * **Reviewer for international scientific journals**, e.g.:  
-    Acta Tropica, Advances in Parasitology, BMC Infectious Diseases, BMJ Case Reports, Bulletin of the World Health Organization, Health Affairs, Journal of Neurosciences in Rural Practice, Lancet, Parasitology International, PLOS Neglected Tropical Diseases, PLOS One, Risk Analysis, Transactions of the Royal Society of Tropical Medicine & Hygiene, Vector-Borne and Zoonotic Diseases
+```{r, echo=FALSE, results='asis', message=FALSE}
+journals <-
+  read.table("journals.txt", stringsAsFactors = FALSE, sep = "\t")$V1
+cat(sanitize_specials(paste(sort(journals), collapse = ", "), "html"))
+```
 
 ### Participation in international projects
 
