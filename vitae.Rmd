@@ -174,7 +174,12 @@ Nepali   | +        | +       | +
 
 ## Teaching
 
-### Organization of workshops
+### Courses
+
+* **Quantitative microbial risk assessment of pathogens in food systems**  
+    ANS 6932 / FOS 6936, University of Florida, February 26--March 4, 2016  
+
+### Workshops
 
 * **CYSTINET Epidemiology Training School**, 1--3 September 2014   
     Institute of Tropical Medicine, Antwerp, Belgium   
@@ -184,7 +189,7 @@ Nepali   | +        | +       | +
     Jimma University, Jimma, Ethiopia   
     Partims: introduction to R, analysis of variance
 
-### University lectures
+### Lectures
 
 * **Topics in tropical veterinary medicine**, 2013--2016  
     MSc Veterinary Medicine, Ghent University
