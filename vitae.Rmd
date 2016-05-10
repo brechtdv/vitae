@@ -83,9 +83,11 @@ for (i in seq(nrow(db))) {
 
 ### Contributions to peer review
 
+<!--
 * **Associate Editor, 2015**--present  
     BMC Veterinary Research, Parasitology section
-    
+-->
+
 * **Reviewer for international scientific journals**, e.g.:  
 ```{r, echo=FALSE, results='asis', message=FALSE}
 journals <-

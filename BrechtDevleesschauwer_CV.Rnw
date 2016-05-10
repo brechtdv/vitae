@@ -105,8 +105,8 @@ for (i in seq(nrow(db))) {
 \subsection{Contributions to peer review}
 \begin{itemize}
   \setlength\itemsep{0em}
-  \item \textbf{Associate Editor}, 2015--present\hfill \\
-    BMC Veterinary Research, Parasitology section
+%  \item \textbf{Associate Editor}, 2015--present\hfill \\
+%    BMC Veterinary Research, Parasitology section
   \item \textbf{Reviewer for international scientific journals}, e.g.:\hfill \\
 <<echo=FALSE, results='asis'>>=
 journals <-
