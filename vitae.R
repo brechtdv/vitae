@@ -166,3 +166,32 @@ print_proceeding <-
     cat(conf_string)
     cat("\n")
   }
+
+
+print_package <-
+  function(item, id) {
+    ## reformat authors string
+    authors_string <- strsplit(item$authors, ";")[[1]]
+    authors_string <- sapply(authors_string, trim, USE.NAMES = FALSE)
+    authors_string <- sapply(authors_string, abbr, USE.NAMES = FALSE)
+    
+    ## reformat title string
+    title_string <- item$title
+    
+    for (i in seq_along(needle))
+      title_string <- gtag(title_string, needle[i], "textit")
+    
+    title_string <- sanitize_specials(title_string, "latex")
+    
+    if (substring(title_string, nchar(title_string)) != "?")
+      title_string <- paste0(title_string, ".")
+    
+    cat("\\item[{[", id, "]}] ", sep = "")
+    cat(paste(authors_string, collapse = ", "))
+    cat( " (", format(item$date, "%Y"), ") ", sep = "")
+    cat("\\textsf{", item$package, "}: ", sep = "")
+    cat(title_string)
+    cat(" R package version ", item$version, ". ", sep = "")
+    cat("\\url{", item$url, "}", sep = "")
+    cat("\n")
+  }

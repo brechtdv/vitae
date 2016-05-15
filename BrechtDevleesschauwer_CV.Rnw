@@ -409,8 +409,13 @@ for (i in seq(nrow(db))) {
 \subsection{R Packages}
 \begin{itemize}
   \setlength\itemsep{0em}
-  \item[{[2]}] \textbf{Devleesschauwer B},  Torgerson P, Charlier J, Levecke B, Praet N, Roelandt S, Smit GSA, Dorny P, Berkvens D, Speybroeck N (2015). prevalence: Tools for Prevalence Assessment Studies. R package version 0.4.0. \url{http://cran.r-project.org/package=prevalence}
-  \item[{[1]}] \textbf{Devleesschauwer B}, McDonald S, Haagsma A, Praet N, Havelaar A, Speybroeck N (2014) DALY: The DALY Calculator---A GUI for stochastic DALY calculation in R. R package version 1.4.0. \url{http://cran.r-project.org/package=DALY}
+<<echo=FALSE,results='asis',message=FALSE>>=
+db <- readWorksheetFromFile("Rpackages.xlsx", sheet = "tab")
+db <- db[order(db$date, decreasing = TRUE), ]
+for (i in seq(nrow(db))) {
+  print_package(db[i, ], nrow(db) - i + 1)
+}
+@
 \end{itemize}
 
 \subsection{Vulgarizing articles}
