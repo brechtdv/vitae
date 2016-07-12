@@ -8,7 +8,7 @@ source("vitae-md.R")
 
 # Brecht Devleesschauwer
 
-Epidemiologist, PhD DVM MVSc MStat
+Senior epidemiologist, PhD DVM MVSc MStat
 
 _Scientific Institute of Public Health (WIV-ISP), Department of Public Health and Surveillance_  
 _Center for Burden and Risk Assessment_---[www.cbra.be](http://www.cbra.be)
@@ -24,7 +24,7 @@ Rue Juliette Wytsmanstraat 14, 1050 Brussels, Belgium | +32 2 642 5035
 
 ## Employment
 
-* **Epidemiologist**, 04/2016--present  
+* **Senior epidemiologist**, 04/2016--present  
     Scientific Institute of Public Health (WIV-ISP), Brussels, Belgium
     
 * **Assistant scientist**, 06/2015--03/2016  
@@ -97,16 +97,16 @@ cat(sanitize_specials(paste(sort(journals), collapse = ", "), "html"))
 
 ### Participation in international projects
 
-* **Risk forecasting workgroup vice-leader**, 2015--present   
-    EU COST action FA1408 EURO-FBP
-    
 * **Epidemiology workgroup leader**, 2013--present   
     EU COST action TD1302 CYSTINET---[www.cystinet.org](http://www.cystinet.org)
 
+* **Risk forecasting workgroup vice-leader**, 2015--2016   
+    EU COST action FA1408 EURO-FBP
+    
 * **USAID Feed the Future Innovation Lab on Livestock Systems**, 2015--2016  
     _Project granted to UF, aiming to improve livestock systems in Mali, Burkina Faso, Ethiopia, Rwanda, Nepal and Cambodia_
     * Contribution to project proposal
-    * Participation in Livestock Disease Management and Food Safety AOI   
+    * Participation in Livestock Disease Management and Food Safety AOI  
 
 * **Computational Task Force member**, 2011--2015  
     **Country Studies Task Force member**, 2011--2015  
@@ -125,6 +125,10 @@ cat(sanitize_specials(paste(sort(journals), collapse = ", "), "html"))
     * Field work, lab work, data analysis
 
 ### Contributions as invited expert
+
+* FAO/WHO expert meeting on verotoxigenic _Escherichia coli_ (VTEC) / Shigatoxigenic _E. coli_ (STEC). World Health Organization, Geneva, Switzerland; 2016.
+
+* Expert consultation on diet-related health problems to support the development of food-based dietary guidelines. Superior Health Council, Brussels, Belgium; 2016.
 
 * Expert panel on FDA-iRisk DALY templates. Research Triangle International, NC, USA; 2016.
 
@@ -178,11 +182,17 @@ Nepali   | +        | +       | +
 
 ### Courses
 
+* **Health economic evaluations**  
+    WFSP2103, Université catholique de Louvain, March--April 2017  
+
 * **Quantitative microbial risk assessment of pathogens in food systems**  
-    ANS 6932 / FOS 6936, University of Florida, February 26--March 4, 2016  
+    ANS 6932 / FOS 6936, University of Florida, February 26--March 4 2016  
 
 ### Workshops
 
+* **Burden of Disease and the DALY metric**, 5--6 October 2016   
+    WIV-ISP, Brussels, Belgium
+    
 * **CYSTINET Epidemiology Training School**, 1--3 September 2014   
     Institute of Tropical Medicine, Antwerp, Belgium   
     Contents: introduction to R, systematic review and meta-analysis, GIS
