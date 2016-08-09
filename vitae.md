@@ -6,7 +6,7 @@ output: bd::html_body
 
 # Brecht Devleesschauwer
 
-Epidemiologist, PhD DVM MVSc MStat
+Senior epidemiologist, PhD DVM MVSc MStat
 
 _Scientific Institute of Public Health (WIV-ISP), Department of Public Health and Surveillance_  
 _Center for Burden and Risk Assessment_---[www.cbra.be](http://www.cbra.be)
@@ -22,10 +22,13 @@ Rue Juliette Wytsmanstraat 14, 1050 Brussels, Belgium | +32 2 642 5035
 
 ## Employment
 
-* **Epidemiologist**, 04/2016--present  
+* **Senior epidemiologist, coordinator national burden of disease studies**, 04/2016--present  
     Scientific Institute of Public Health (WIV-ISP), Brussels, Belgium
+
+* **Guest lecturer, health economic evaluations**, 2016--2017  
+    Université catholique de Louvain, Brussels, Belgium
     
-* **Assistant scientist**, 06/2015--03/2016  
+* **Assistant scientist, global food safety and zoonoses**, 06/2015--03/2016  
     University of Florida, Gainesville, FL, USA
     
 * **Post-doctoral researcher**, 04/2015  
@@ -103,24 +106,26 @@ Rue Juliette Wytsmanstraat 14, 1050 Brussels, Belgium | +32 2 642 5035
 
 ### Contributions to peer review
 
+<!--
 * **Associate Editor, 2015**--present  
     BMC Veterinary Research, Parasitology section
-    
+-->
+
 * **Reviewer for international scientific journals**, e.g.:  
-    Acta Tropica, Advances in Parasitology, BMC Infectious Diseases, BMJ Case Reports, Bulletin of the World Health Organization, Health Affairs, Journal of Neurosciences in Rural Practice, Lancet, Parasitology International, PLOS Neglected Tropical Diseases, PLOS One, Risk Analysis, Transactions of the Royal Society of Tropical Medicine & Hygiene, Vector-Borne and Zoonotic Diseases
+Acta Tropica, Advances in Parasitology, Archives of Public Health, BMC Infectious Diseases, BMJ Case Reports, Bulletin of the World Health Organization, Health Affairs, Parasitology International, PLOS Neglected Tropical Diseases, PLOS ONE, Risk Analysis, The Lancet, Transactions of the Royal Society of Tropical Medicine &amp; Hygiene, Vector-Borne and Zoonotic Diseases
 
 ### Participation in international projects
 
-* **Risk forecasting workgroup vice-leader**, 2015--present   
-    EU COST action FA1408 EURO-FBP
-    
 * **Epidemiology workgroup leader**, 2013--present   
     EU COST action TD1302 CYSTINET---[www.cystinet.org](http://www.cystinet.org)
 
+* **Risk forecasting workgroup vice-leader**, 2015--2016   
+    EU COST action FA1408 EURO-FBP
+    
 * **USAID Feed the Future Innovation Lab on Livestock Systems**, 2015--2016  
     _Project granted to UF, aiming to improve livestock systems in Mali, Burkina Faso, Ethiopia, Rwanda, Nepal and Cambodia_
     * Contribution to project proposal
-    * Participation in Livestock Disease Management and Food Safety AOI   
+    * Participation in Livestock Disease Management and Food Safety AOI  
 
 * **Computational Task Force member**, 2011--2015  
     **Country Studies Task Force member**, 2011--2015  
@@ -139,6 +144,10 @@ Rue Juliette Wytsmanstraat 14, 1050 Brussels, Belgium | +32 2 642 5035
     * Field work, lab work, data analysis
 
 ### Contributions as invited expert
+
+* FAO/WHO expert meeting on verotoxigenic _Escherichia coli_ (VTEC) / Shigatoxigenic _E. coli_ (STEC). World Health Organization, Geneva, Switzerland; 2016.
+
+* Expert consultation on diet-related health problems to support the development of food-based dietary guidelines. Superior Health Council, Brussels, Belgium; 2016.
 
 * Expert panel on FDA-iRisk DALY templates. Research Triangle International, NC, USA; 2016.
 
@@ -190,8 +199,19 @@ Nepali   | +        | +       | +
 
 ## Teaching
 
-### Organization of workshops
+### Courses
 
+* **Health economic evaluations**  
+    WFSP2103, Université catholique de Louvain, March--April 2017  
+
+* **Quantitative microbial risk assessment of pathogens in food systems**  
+    ANS 6932 / FOS 6936, University of Florida, February 26--March 4 2016  
+
+### Workshops
+
+* **Burden of Disease and the DALY metric**, 5--6 October 2016   
+    WIV-ISP, Brussels, Belgium
+    
 * **CYSTINET Epidemiology Training School**, 1--3 September 2014   
     Institute of Tropical Medicine, Antwerp, Belgium   
     Contents: introduction to R, systematic review and meta-analysis, GIS
@@ -200,7 +220,7 @@ Nepali   | +        | +       | +
     Jimma University, Jimma, Ethiopia   
     Partims: introduction to R, analysis of variance
 
-### University lectures
+### Lectures
 
 * **Topics in tropical veterinary medicine**, 2013--2016  
     MSc Veterinary Medicine, Ghent University
@@ -351,13 +371,19 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 
 
-### Peer-reviewed papers (47)
+### Peer-reviewed papers (50)
 
-**[Google Scholar](https://scholar.google.com/citations?user=AFSxtd0AAAAJ) metrics: 303 citations &middot; h-index 10 &middot; i10-index 10**
+**[Google Scholar](https://scholar.google.com/citations?user=AFSxtd0AAAAJ) metrics: 422 citations &middot; h-index 13 &middot; i10-index 17**
+
+* Tromme I, Legrand C, **Devleesschauwer B**, Leiter U, Suciu S, Eggermont A, Sacré L, Baurain J-F, Thomas L, Beutels P, Speybroeck N (2016)  Cost-effectiveness analysis in melanoma detection: a transition model applied to dermoscopy. _Eur J Cancer_, in press
 
 * Trevisan C, **Devleesschauwer B**, Schmidt V, Winkler AS, Harrison W, Johansen MV (2016)  The societal cost of _Taenia solium_ cysticercosis in Tanzania. _Acta Trop_, in press. doi: [10.1016/j.actatropica.2015.12.021](http://dx.doi.org/10.1016/j.actatropica.2015.12.021)
 
 * **Devleesschauwer B**, Allepuz A, Dermauw V, Johansen MV, Laranjo-González M, Smit GSA, Sotiraki S, Trevisan C, Wardrop NA, Dorny P, Gabriël S (2016)  _Taenia solium_ in Europe: still endemic? _Acta Trop_, in press. doi: [10.1016/j.actatropica.2015.08.006](http://dx.doi.org/10.1016/j.actatropica.2015.08.006)
+
+* Maertens de Noordhout C, **Devleesschauwer B**, Maertens de Noordhout A, Blocher J, Haagsma JA, Havelaar AH, Speybroeck N (2016)  Comorbidities and factors associated with central nervous system infections and death in non-perinatal listeriosis: a clinical case series. _BMC Infect Dis_ 16:256. doi: [10.1186/s12879-016-1602-3](http://dx.doi.org/10.1186/s12879-016-1602-3)
+
+* Robertson LJ, **Devleesschauwer B**, de Noya BA, Noya González O, Torgerson PR (2016)  _Trypanosoma cruzi_---time for international recognition as a foodborne pathogen. _PLOS Negl Trop Dis_ 10:e0004656. doi: [10.1371/journal.pntd.0004656](http://dx.doi.org/10.1371/journal.pntd.0004656)
 
 * Sharma BK, Manandhar S, **Devleesschauwer B** (2016)  Serological evidence of type 2 (North American genotype) porcine reproductive and respiratory syndrome virus in Nepal. _Trop Anim Health Prod_ 48:663-666. doi: [10.1007/s11250-015-0986-1](http://dx.doi.org/10.1007/s11250-015-0986-1)
 
@@ -453,25 +479,25 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 ### Submitted papers (11)
 
+* Zeilmaker MJ, **Devleesschauwer B**, Mengelers MJB, Brandon E, Bokkers BGH. Health impact assessment of dioxins: a global perspective. _Risk Anal_
+
+* van de Velde N, **Devleesschauwer B**, Leopold M, Begeman L, Ijsseldijk LL, Hiemstra S, Ijzer J, Brownlow A, Davison N, Jauniaux T, Siebert U, Dorny P, De Craeye S. _Toxoplasma gondii_ in stranded marine mammals from the North Sea and Atlantic Ocean: findings and diagnostic difficulties. _Vet Parasitol_
+
+* Braae UC, **Devleesschauwer B**, Gabriël S, Dorny P, Speybroeck N, Magnussen P, Torgerson P, Johansen MV. cystiSim---an agent-based model for _Taenia solium_ transmission and control. _PLOS Negl Trop Dis_
+
+* Goudet S, Jayaraman A, Chanani S, Osrin D, **Devleesschauwer B**, Bogin B, Madise N, Griffiths P. Cost effectiveness of a programme for community management of acute malnutrition in Mumbai slums, India. _Cost Eff Resour Alloc_
+
 * **Devleesschauwer B**, Dorny P, Faes C, Havelaar AH, Torgerson PR, Speybroeck N. Burden and Risk Assessment of Foodborne Parasites [Book Chapter]. _In: Ortega Y, Sterling C (eds) Foodborne Parasites, 2nd ed_
 
 * **Devleesschauwer B**, Bouwknegt M, Mangen M-JJ, Havelaar AH. Health and Economic Burden of Campylobacter [Book Chapter]. _In: Klein G (ed) Campylobacter: Features, Detection, and Prevention of Foodborne Disease_
 
 * Maertens de Noordhout C, **Devleesschauwer B**, Gielens L, Plasmans MHD, Haagsma JA, Speybroeck N. Mapping EQ-5D utilities to GBD 2010 and GBD 2013 disability weights: results of two pilot studies in Belgium. _Popul Health Metr_
 
-* van de Velde N, **Devleesschauwer B**, Leopold M, Begeman L, Ijsseldijk LL, Hiemstra S, Ijzer J, Brownlow A, Davison N, Jauniaux T, Siebert U, Dorny P, De Craeye S. _Toxoplasma gondii_ in stranded marine mammals from the North Sea and Atlantic Ocean: findings and diagnostic difficulties. _Vet Parasitol_
-
 * Smit GSA, Apers L, Arrazole de Onate W, Beutels P, Dorny P, Forier A-M, Janssens K, Macq J, Mak R, Schol S, Wildemeersch D, Speybroeck N, **Devleesschauwer B**. Cost-effectiveness of tuberculosis screening policies in Flanders, Belgium. _Bull World Health Org_
 
 * Asale A, Huisman G, **Devleesschauwer B**, Speybroeck N, Duchateau L, Yewhalaw D. Zooprophylaxis as a malaria control strategy for _Anopheles_ arabiensis: a systematic review. _Med Vet Entomol_
 
-* Robertson LJ, **Devleesschauwer B**, de Noya BA, Noya González O, Torgerson PR. _Trypanosoma cruzi_---underestimated as a foodborne pathogen. _PLOS Negl Trop Dis_
-
-* Maertens de Noordhout C, **Devleesschauwer B**, Maertens de Noordhout A, Blocher J, Haagsma JA, Havelaar AH, Speybroeck N. Comorbidities and factors associated with central nervous system infections and death in non-perinatal listeriosis: a clinical case series. _BMC Public Health_
-
 * McDonald SA, **Devleesschauwer B**, Wallinga J. The impact of individual-level heterogeneity on estimated infectious disease burden: a simulation study. _Popul Health Metr_
-
-* Goudet S, Jayaraman A, Chanani S, Bagra A, **Devleesschauwer B**, Griffiths P, Bogin B, Madise N. Cost effectiveness of a programme for community management of acute malnutrition in Mumbai slums, India. _Health Policy Plan_
 
 * Rahman AA, Smit S, **Devleesschauwer B**, Abatih E, Saegerman C, Ahmed MU, Shamsuddin M, Speybroeck N, Berkvens D. Bayesian estimation of the true exposure prevalence, sensitivity and specificity of three serological tests for the diagnosis of bovine brucellosis in Bangladesh. _PLOS ONE_
 
@@ -499,7 +525,7 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 * **Devleesschauwer B** (2015)  Quantifying uncertainty in Disability-Adjusted Life Year calculations. Presented at the _6th SIMID Workshop_; 29 Apr 2015; Antwerp, Belgium.
 
-* **Devleesschauwer B**, Torgerson P, Charlier J, Levecke B, Praet N, Roelandt S, Smit S, Dorny P, Berkvens D, Speybroeck N (2014)  Bayesian estimation of true prevalence from apparent prevalence in R: Introducing the ``prevalence'' package. Presented at the _Berliner Kolloquium---Statistische Methoden in der Empirischen Forschung_; 9 Dec 2014; Berlin, Germany.
+* **Devleesschauwer B**, Torgerson P, Charlier J, Levecke B, Praet N, Roelandt S, Smit S, Dorny P, Berkvens D, Speybroeck N (2014)  Bayesian estimation of true prevalence from apparent prevalence in R: Introducing the "prevalence" package. Presented at the _Berliner Kolloquium---Statistische Methoden in der Empirischen Forschung_; 9 Dec 2014; Berlin, Germany.
 
 * **Devleesschauwer B** (2014)  Unravelling the burden of zoonoses in Nepal. Presented at the _University of Florida, Emerging Pathogens Institute, Seminar Series_; 18 Nov 2014; Gainesville, FL, USA.
 
@@ -527,13 +553,15 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 
 
-### Poster presentations (5)
+### Poster presentations (6)
+
+* Steckling N, Plass D, Winkelnkemper J, Fischer F, **Devleesschauwer B**, Krämer A, Hornberg C, Bose-O'Reilly S (2016)  Disability weights for chronic metallic mercury vapor intoxication to improve estimates of the burden of disease resulting from mercury use in gold mining. Presented at the _28th Annual Conference of the International Society For Environmental Epidemiology_; 1-4 Sep 2016; Rome, Italy.
 
 * Smit GSA, Padalko E, Van Acker J, Dorny P, Speybroeck N, Claerebout E, **Devleesschauwer B** (2016)  The public health impact of congenital cytomegalovirus infection in Belgium. Presented at the _European Congenital Cytomegalovirus Initiative Conference_; 24-26 Apr 2016; Venice, Italy.
 
 * van de Velde N, **Devleesschauwer B**, Decraeye S, Barnett J, Begeman L, Brownlow A, Davison N, Ijzer J, Jauniaux T, Hiemstra S, Siebert U, Dorny P (2014)  _Toxoplasma gondii_ in marine mammals. Presented at the _28th Annual Conference of the European Cetacean Society: Marine mammals as sentinels of a changing environment_; 5-9 Apr 2014; Liège, Belgium.
 
-* **Devleesschauwer B**, Havelaar A, Haagsma J, Praet N, Dorny P, Duchateau L, Speybroeck N (2012)  Le ``DALY Calculator'' : une interface graphique pour le calcul des DALYs en R. Presented at the _5ième Congrès international d'Épidémiologie (ADELF-EPITER): Épidémiologie et santé mondialisée_; 12-14 Sep 2012; Brussels, Belgium.
+* **Devleesschauwer B**, Havelaar A, Haagsma J, Praet N, Dorny P, Duchateau L, Speybroeck N (2012)  Le "DALY Calculator" : une interface graphique pour le calcul des DALYs en R. Presented at the _5ième Congrès international d'Épidémiologie (ADELF-EPITER): Épidémiologie et santé mondialisée_; 12-14 Sep 2012; Brussels, Belgium.
 
 * Nalon E, Maes D, **Devleesschauwer B**, Millet S, Van Riet M, Janssens G, Tuyttens F (2012)  Assessment of mechanical nociception thresholds in lame versus non-lame sows with two methods. Presented at the _4th European symposium of Porcine Health Management_; 25-27 Apr 2012; Bruges, Belgium.
 
@@ -553,9 +581,21 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 ### R Packages
 
-* **Devleesschauwer B**,  Torgerson P, Charlier J, Levecke B, Praet N, Roelandt S, Smit GSA, Dorny P, Berkvens D, Speybroeck N (2015). prevalence: Tools for Prevalence Assessment Studies. R package version 0.4.0. http://cran.r-project.org/package=prevalence
+* **Devleesschauwer B**, Braae UC (2016) **cystiSim**: Agent-Based Model for _Taenia solium_ Transmission and Control. R package version 0.1.0. http://cran.r-project.org/package=cystiSim
 
-* **Devleesschauwer B**, McDonald S, Haagsma A, Praet N, Havelaar A, Speybroeck N (2014) DALY: The DALY Calculator---A GUI for stochastic DALY calculation in R. R package version 1.4.0. http://cran.r-project.org/package=DALY
+* **Devleesschauwer B** (2016) **bd**: brechtdv's helper functions. R package version 0.0.11. https://github.com/brechtdv/bd
+
+* **Devleesschauwer B**, Faes C, Havelaar A, Speybroeck N (2016) **QMRA**: Parametric Models for Quantitative Microbial Risk Assessment. R package version 0.0.14. https://github.com/brechtdv/QMRA
+
+* **Devleesschauwer B** (2016) **HFA**: R Interface to European Health for All Database (HFA-DB). R package version 0.0.0.9004. https://github.com/brechtdv/HFA
+
+* **Devleesschauwer B**, McDonald S (2015) **FERG**: DALY Calculation Framework for WHO/FERG. R package version 0.1.0. https://github.com/brechtdv/FERG
+
+* **Devleesschauwer B**, Willimès S, Van Malderen C, Konings P, Speybroeck N (2015) **rineq**: Statistical Analysis of Health Inequalities. R package version 0.0.1. https://github.com/brechtdv/rineq
+
+* **Devleesschauwer B**, Torgerson PR, Charlier J, Levecke B, Praet N, Roelandt S, Smit G, Dorny P, Berkvens D, Speybroeck N (2015) **prevalence**: Tools for Prevalence Assessment Studies. R package version 0.4.0. http://cran.r-project.org/package=prevalence
+
+* **Devleesschauwer B**, McDonald S, Haagsma J, Praet N, Havelaar A, Speybroeck N (2014) **DALY**: The DALY Calculator---A GUI for stochastic DALY calculation in R. R package version 1.4.0. http://cran.r-project.org/package=DALY
 
 ### Vulgarizing articles
 
@@ -575,4 +615,4 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 ---
 
-_Last update: 2016-05-03_
+_Last update: 2016-08-09_
