@@ -112,7 +112,7 @@ Rue Juliette Wytsmanstraat 14, 1050 Brussels, Belgium | +32 2 642 5035
 -->
 
 * **Reviewer for international scientific journals**, e.g.:  
-Acta Tropica, Advances in Parasitology, Archives of Public Health, BMC Infectious Diseases, BMJ Case Reports, Bulletin of the World Health Organization, Health Affairs, Parasitology International, PLOS Neglected Tropical Diseases, PLOS ONE, Risk Analysis, The Lancet, Transactions of the Royal Society of Tropical Medicine &amp; Hygiene, Vector-Borne and Zoonotic Diseases
+Acta Tropica, Advances in Parasitology, Archives of Public Health, BMC Infectious Diseases, BMJ Case Reports, Bulletin of the World Health Organization, Epidemiology and Infection, Health Affairs, Parasitology International, PLOS Neglected Tropical Diseases, PLOS ONE, Risk Analysis, The Lancet, Transactions of the Royal Society of Tropical Medicine &amp; Hygiene, Vector-Borne and Zoonotic Diseases
 
 ### Participation in international projects
 
@@ -373,7 +373,7 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 ### Peer-reviewed papers (50)
 
-**[Google Scholar](https://scholar.google.com/citations?user=AFSxtd0AAAAJ) metrics: 422 citations &middot; h-index 13 &middot; i10-index 17**
+**[Google Scholar](https://scholar.google.com/citations?user=AFSxtd0AAAAJ) metrics: 434 citations &middot; h-index 13 &middot; i10-index 17**
 
 * Tromme I, Legrand C, **Devleesschauwer B**, Leiter U, Suciu S, Eggermont A, Sacré L, Baurain J-F, Thomas L, Beutels P, Speybroeck N (2016)  Cost-effectiveness analysis in melanoma detection: a transition model applied to dermoscopy. _Eur J Cancer_, in press
 
@@ -615,4 +615,4 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 ---
 
-_Last update: 2016-08-09_
+_Last update: 2016-08-22_
