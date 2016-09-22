@@ -373,13 +373,13 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 ### Peer-reviewed papers (50)
 
-**[Google Scholar](https://scholar.google.com/citations?user=AFSxtd0AAAAJ) metrics: 434 citations &middot; h-index 13 &middot; i10-index 17**
-
-* Tromme I, Legrand C, **Devleesschauwer B**, Leiter U, Suciu S, Eggermont A, Sacré L, Baurain J-F, Thomas L, Beutels P, Speybroeck N (2016)  Cost-effectiveness analysis in melanoma detection: a transition model applied to dermoscopy. _Eur J Cancer_, in press
+**[Google Scholar](https://scholar.google.com/citations?user=AFSxtd0AAAAJ) metrics: 476 citations &middot; h-index 13 &middot; i10-index 17**
 
 * Trevisan C, **Devleesschauwer B**, Schmidt V, Winkler AS, Harrison W, Johansen MV (2016)  The societal cost of _Taenia solium_ cysticercosis in Tanzania. _Acta Trop_, in press. doi: [10.1016/j.actatropica.2015.12.021](http://dx.doi.org/10.1016/j.actatropica.2015.12.021)
 
 * **Devleesschauwer B**, Allepuz A, Dermauw V, Johansen MV, Laranjo-González M, Smit GSA, Sotiraki S, Trevisan C, Wardrop NA, Dorny P, Gabriël S (2016)  _Taenia solium_ in Europe: still endemic? _Acta Trop_, in press. doi: [10.1016/j.actatropica.2015.08.006](http://dx.doi.org/10.1016/j.actatropica.2015.08.006)
+
+* Tromme I, Legrand C, **Devleesschauwer B**, Leiter U, Suciu S, Eggermont A, Sacré L, Baurain J-F, Thomas L, Beutels P, Speybroeck N (2016)  Cost-effectiveness analysis in melanoma detection: a transition model applied to dermoscopy. _Eur J Cancer_ 67:38-45. doi: [10.1016/j.ejca.2016.07.020](http://dx.doi.org/10.1016/j.ejca.2016.07.020)
 
 * Maertens de Noordhout C, **Devleesschauwer B**, Maertens de Noordhout A, Blocher J, Haagsma JA, Havelaar AH, Speybroeck N (2016)  Comorbidities and factors associated with central nervous system infections and death in non-perinatal listeriosis: a clinical case series. _BMC Infect Dis_ 16:256. doi: [10.1186/s12879-016-1602-3](http://dx.doi.org/10.1186/s12879-016-1602-3)
 
@@ -477,7 +477,11 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 
 
-### Submitted papers (11)
+### Submitted papers (13)
+
+* Renard F, Gadeyne S, **Devleesschauwer B**, Tafforeau J, De Boosere P. Trends in educational inequalities in premature mortality in Belgium between the 1990s and the 2000s: the contribution of specific causes of deaths. _J Epidemiol Community Health_
+
+* Al-Kappany YM, Abbas IEA, **Devleesschauwer B**, Dorny P, Jennes M, Cox E. Seroprevalence of anti-_Toxoplasma gondii_ antibodies in filter paper elutes from sera of Egyptian sheep and goats. _Korean J Parasitol_
 
 * Zeilmaker MJ, **Devleesschauwer B**, Mengelers MJB, Brandon E, Bokkers BGH. Health impact assessment of dioxins: a global perspective. _Risk Anal_
 
@@ -615,4 +619,4 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 ---
 
-_Last update: 2016-08-22_
+_Last update: 2016-09-22_
