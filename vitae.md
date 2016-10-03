@@ -371,9 +371,11 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 
 
-### Peer-reviewed papers (50)
+### Peer-reviewed papers (51)
 
-**[Google Scholar](https://scholar.google.com/citations?user=AFSxtd0AAAAJ) metrics: 476 citations &middot; h-index 13 &middot; i10-index 17**
+**[Google Scholar](https://scholar.google.com/citations?user=AFSxtd0AAAAJ) metrics: 490 citations &middot; h-index 13 &middot; i10-index 17**
+
+* Smit GSA, Apers L, Arrazole de Onate W, Beutels P, Dorny P, Forier A-M, Janssens K, Macq J, Mak R, Schol S, Wildemeersch D, Speybroeck N, **Devleesschauwer B** (2016)  Cost-effectiveness of tuberculosis screening policies in Flanders, Belgium. _Bull World Health Org_, in press
 
 * Trevisan C, **Devleesschauwer B**, Schmidt V, Winkler AS, Harrison W, Johansen MV (2016)  The societal cost of _Taenia solium_ cysticercosis in Tanzania. _Acta Trop_, in press. doi: [10.1016/j.actatropica.2015.12.021](http://dx.doi.org/10.1016/j.actatropica.2015.12.021)
 
@@ -479,6 +481,8 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 ### Submitted papers (13)
 
+* Steckling N, **Devleesschauwer B**, Winkelnkemper J, Fischer F, Ericson B, Krämer A, Hornberg C, Fuller R, Plass D, Bose-O'Reilly S. Disability weights for chronic mercury intoxication resulting from gold mining activities: results from an online pairwise comparisons survey. _Environ Health Perspect_
+
 * Renard F, Gadeyne S, **Devleesschauwer B**, Tafforeau J, De Boosere P. Trends in educational inequalities in premature mortality in Belgium between the 1990s and the 2000s: the contribution of specific causes of deaths. _J Epidemiol Community Health_
 
 * Al-Kappany YM, Abbas IEA, **Devleesschauwer B**, Dorny P, Jennes M, Cox E. Seroprevalence of anti-_Toxoplasma gondii_ antibodies in filter paper elutes from sera of Egyptian sheep and goats. _Korean J Parasitol_
@@ -497,8 +501,6 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 * Maertens de Noordhout C, **Devleesschauwer B**, Gielens L, Plasmans MHD, Haagsma JA, Speybroeck N. Mapping EQ-5D utilities to GBD 2010 and GBD 2013 disability weights: results of two pilot studies in Belgium. _Popul Health Metr_
 
-* Smit GSA, Apers L, Arrazole de Onate W, Beutels P, Dorny P, Forier A-M, Janssens K, Macq J, Mak R, Schol S, Wildemeersch D, Speybroeck N, **Devleesschauwer B**. Cost-effectiveness of tuberculosis screening policies in Flanders, Belgium. _Bull World Health Org_
-
 * Asale A, Huisman G, **Devleesschauwer B**, Speybroeck N, Duchateau L, Yewhalaw D. Zooprophylaxis as a malaria control strategy for _Anopheles_ arabiensis: a systematic review. _Med Vet Entomol_
 
 * McDonald SA, **Devleesschauwer B**, Wallinga J. The impact of individual-level heterogeneity on estimated infectious disease burden: a simulation study. _Popul Health Metr_
@@ -507,7 +509,13 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 
 
-### Oral presentations (23)
+### Oral presentations (26)
+
+* Hobbs EC, Mwape KE, Zulu G, Mambwe M, Chembensofu M, Phiri IK, Masuku M, Berkvens D, Bottieau E, **Devleesschauwer B**, Speybroeck N, Colston A, Willingham AL, Dorny P, Gabriël S (2016)  Assessment of the computer-based _Taenia solium_ educational program 'The Vicious Worm' on knowledge update in primary school children in Katete district in Eastern Zambia. Presented at the _6th CYSTINET Working Group Meeting_; 27 Sep 2016; Ljubljana, Slovenia.
+
+* Bouwknegt M, Graham H, **Devleesschauwer B**, Robertson L, van der Giessen J (2016)  Ranking foodborne parasites in Europe using multicriteria decision analyses. Presented at the _Joint EURO-FBP and CYSTINET Meeting_; 28 Sep 2016; Ljubljana, Slovenia.
+
+* Dupont F, **Devleesschauwer B**, Kaducu J, Lauseker M, Schmidt V, Ovuga E, Winkler A (2016)  Risk factor analysis in patients with neurocysticercosis associated epilepsy in northern Uganda. Presented at the _6th CYSTINET Working Group Meeting_; 27 Sep 2016; Ljubljana, Slovenia.
 
 * Hoffmann S, Cooke R, Aspinall W, **Devleesschauwer B**, Hald T (2016)  Global food attribution estimates for 11 major pathogens for the global burden of foodborne disease initiative. Presented at the _IAFP 2016_; 3 Aug 2016; St. Louis, MO, USA.
 
@@ -619,4 +627,4 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 ---
 
-_Last update: 2016-09-22_
+_Last update: 2016-10-03_
