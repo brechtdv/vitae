@@ -371,9 +371,19 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 
 
-### Peer-reviewed papers (51)
+### Book chapters (3)
 
-**[Google Scholar](https://scholar.google.com/citations?user=AFSxtd0AAAAJ) metrics: 490 citations &middot; h-index 13 &middot; i10-index 17**
+* **Devleesschauwer B**, Dorny P, Faes C, Havelaar AH, Torgerson PR, Speybroeck N (2016)  Burden and Risk Assessment of Foodborne Parasites. In: Ortega Y, Sterling C (eds) _Foodborne Parasites, 2nd ed_, in press
+
+* **Devleesschauwer B**, Bouwknegt M, Mangen M-JJ, Havelaar AH (2016)  Health and Economic Burden of Campylobacter. In: Klein G (ed) _Campylobacter: Features, Detection, and Prevention of Foodborne Disease_, pp 27-40. doi: [10.1016/B978-0-12-803623-5.00002-2](http://dx.doi.org/10.1016/B978-0-12-803623-5.00002-2)
+
+* Levecke B, Anderson RM, Berkvens D, Charlier J, **Devleesschauwer B**, Speybroeck N, Vercruysse J, Van Aelst S (2015)  Mathematical inference on helminth egg counts in stool and its applications in mass drug administration programmes to control soil-transmitted helminthiasis in public health. In: Anderson RM, Basáñez MG (eds) _Advances in Parasitology, Volume 87, Mathematical Models for Neglected Tropical Diseases: Essential Tools for Control and Elimination, Part A_, pp 193-247. doi: [10.1016/bs.apar.2015.01.001](http://dx.doi.org/10.1016/bs.apar.2015.01.001)
+
+
+
+### Peer-reviewed papers (50)
+
+**[Google Scholar](https://scholar.google.com/citations?user=AFSxtd0AAAAJ) metrics: 504 citations &middot; h-index 13 &middot; i10-index 17**
 
 * Smit GSA, Apers L, Arrazole de Onate W, Beutels P, Dorny P, Forier A-M, Janssens K, Macq J, Mak R, Schol S, Wildemeersch D, Speybroeck N, **Devleesschauwer B** (2016)  Cost-effectiveness of tuberculosis screening policies in Flanders, Belgium. _Bull World Health Org_, in press
 
@@ -431,8 +441,6 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 * McDonald SA, **Devleesschauwer B**, Speybroeck N, Hens N, Praet N, Torgerson PR, Havelaar AH, Wu F, Tremblay M, Amene EW, Döpfer D (2015)  Data-driven methods for imputing national-level incidence rates in global burden of disease studies. _Bull World Health Org_ 93:228-236. doi: [10.2471/BLT.14.139972](http://dx.doi.org/10.2471/BLT.14.139972)
 
-* Levecke B, Anderson RM, Berkvens D, Charlier J, **Devleesschauwer B**, Speybroeck N, Vercruysse J, Van Aelst S (2015)  Mathematical inference on helminth egg counts in stool and its applications in mass drug administration programmes to control soil-transmitted helminthiasis in public health. _Adv Parasitol_ 87:193-247. doi: [10.1016/bs.apar.2015.01.001](http://dx.doi.org/10.1016/bs.apar.2015.01.001)
-
 * Speybroeck N, **Devleesschauwer B**, Depoorter P, Dewulf J, Berkvens D, Van Huffel X, Saegerman C (2015)  Needs and expectations regarding risk ranking in the food chain: a pilot survey amongst decision makers and stakeholders. _Food Control_ 54:135-143. doi: [10.1016/j.foodcont.2014.12.041](http://dx.doi.org/10.1016/j.foodcont.2014.12.041)
 
 * **Devleesschauwer B**, Praet N, Speybroeck N, Torgerson PR, Haagsma JA, De Smet K, Murrell D, Pozio E, Dorny P (2015)  The low global burden of trichinellosis: evidence and implications. _Int J Parasitol_ 45:95-99. doi: [10.1016/j.ijpara.2014.05.006](http://dx.doi.org/10.1016/j.ijpara.2014.05.006)
@@ -481,11 +489,15 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 ### Submitted papers (13)
 
+* Maertens de Noordhout C, **Devleesschauwer B**, Gielens L, Plasmans MHD, Haagsma JA, Speybroeck N. Mapping EQ-5D utilities to GBD 2010 and GBD 2013 disability weights: results of two pilot studies in Belgium. _Arch Public Health_
+
+* Torgerson PR, Rüegg S, **Devleesschauwer B**, Abela-Ridder B, Havelaar AH, Shaw A, Rushton J, Speybroeck N. zDALY: an adjusted indicator for the burden of zoonotic diseases. _PLOS Negl Trop Dis_
+
 * Steckling N, **Devleesschauwer B**, Winkelnkemper J, Fischer F, Ericson B, Krämer A, Hornberg C, Fuller R, Plass D, Bose-O'Reilly S. Disability weights for chronic mercury intoxication resulting from gold mining activities: results from an online pairwise comparisons survey. _Environ Health Perspect_
 
 * Renard F, Gadeyne S, **Devleesschauwer B**, Tafforeau J, De Boosere P. Trends in educational inequalities in premature mortality in Belgium between the 1990s and the 2000s: the contribution of specific causes of deaths. _J Epidemiol Community Health_
 
-* Al-Kappany YM, Abbas IEA, **Devleesschauwer B**, Dorny P, Jennes M, Cox E. Seroprevalence of anti-_Toxoplasma gondii_ antibodies in filter paper elutes from sera of Egyptian sheep and goats. _Korean J Parasitol_
+* Al-Kappany YM, Abbas IEA, **Devleesschauwer B**, Dorny P, Jennes M, Cox E. Seroprevalence of anti-_Toxoplasma gondii_ antibodies in filter paper elutes from sera of Egyptian sheep and goats. _Trop Animal Health Prod_
 
 * Zeilmaker MJ, **Devleesschauwer B**, Mengelers MJB, Brandon E, Bokkers BGH. Health impact assessment of dioxins: a global perspective. _Risk Anal_
 
@@ -497,15 +509,11 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 * **Devleesschauwer B**, Dorny P, Faes C, Havelaar AH, Torgerson PR, Speybroeck N. Burden and Risk Assessment of Foodborne Parasites [Book Chapter]. _In: Ortega Y, Sterling C (eds) Foodborne Parasites, 2nd ed_
 
-* **Devleesschauwer B**, Bouwknegt M, Mangen M-JJ, Havelaar AH. Health and Economic Burden of Campylobacter [Book Chapter]. _In: Klein G (ed) Campylobacter: Features, Detection, and Prevention of Foodborne Disease_
-
-* Maertens de Noordhout C, **Devleesschauwer B**, Gielens L, Plasmans MHD, Haagsma JA, Speybroeck N. Mapping EQ-5D utilities to GBD 2010 and GBD 2013 disability weights: results of two pilot studies in Belgium. _Popul Health Metr_
-
 * Asale A, Huisman G, **Devleesschauwer B**, Speybroeck N, Duchateau L, Yewhalaw D. Zooprophylaxis as a malaria control strategy for _Anopheles_ arabiensis: a systematic review. _Med Vet Entomol_
 
 * McDonald SA, **Devleesschauwer B**, Wallinga J. The impact of individual-level heterogeneity on estimated infectious disease burden: a simulation study. _Popul Health Metr_
 
-* Rahman AA, Smit S, **Devleesschauwer B**, Abatih E, Saegerman C, Ahmed MU, Shamsuddin M, Speybroeck N, Berkvens D. Bayesian estimation of the true exposure prevalence, sensitivity and specificity of three serological tests for the diagnosis of bovine brucellosis in Bangladesh. _PLOS ONE_
+* Rahman AA, Smit S, **Devleesschauwer B**, Abatih E, Saegerman C, Ahmed MU, Shamsuddin M, Speybroeck N, Berkvens D. Bayesian estimation of the true exposure prevalence, sensitivity and specificity of three serological tests for the diagnosis of bovine brucellosis in Bangladesh. _Prev Vet Med_
 
 
 
@@ -627,4 +635,4 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 ---
 
-_Last update: 2016-10-03_
+_Last update: 2016-10-13_

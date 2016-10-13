@@ -334,6 +334,21 @@ cat("\\end{itemize}\n")
 %% PUBLICATIONS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Scientific output}
 
+\subsection{Book chapters}
+
+\begin{itemize}
+  \setlength\itemsep{0em}
+<<echo=FALSE,results='asis',message=FALSE>>=
+wb <- loadWorkbook("publications.xlsx")
+setMissingValue(wb, value = "NA")
+
+db <- readWorksheet(wb, sheet = "chapters")
+db <- db[order(db$title), ]
+db <- db[order(db$date, decreasing = TRUE), ]
+for (i in seq(nrow(db))) print_chapter(db[i, ], nrow(db) - i + 1)
+@
+\end{itemize}
+
 \subsection{Peer-reviewed papers}
 <<echo=FALSE, warning=FALSE>>=
 library(scholar)
@@ -349,7 +364,7 @@ gs <- get_profile(id)
 wb <- loadWorkbook("publications.xlsx")
 setMissingValue(wb, value = "NA")
 
-db <- readWorksheet(wb, sheet = "published")
+db <- readWorksheet(wb, sheet = "papers")
 db <- db[order(db$title), ]
 db <- db[order(db$date, decreasing = TRUE), ]
 db <- db[order(!is.na(db$volume)), ]
