@@ -319,7 +319,7 @@ db <- db[order(db$date, decreasing = TRUE), ]
 ```
 
 ```{r, echo=FALSE, results='asis'}
-cat(sprintf("### Submitted papers (%d)", nrow(db)))
+cat(sprintf("### Submitted manuscripts (%d)", nrow(db)))
 ```
 
 ```{r, echo=FALSE, results='asis', message=FALSE}

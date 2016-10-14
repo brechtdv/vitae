@@ -42,10 +42,11 @@ print_article <-
     
     ## reformat year string
     year_string <- item$year
-    if (!is.na(item$year)){
-      year_string <- paste0(" (", item$year, ") ")
-    } else {
+    if (is.null(item$year) || is.na(item$year)){
       year_string <- "."
+    } else {
+      year_string <- paste0(" (", item$year, ") ")
+
     }
     
     ## reformat title string
@@ -62,7 +63,7 @@ print_article <-
     journal_string <- tag(journal_string, "textit")
 
     ## reformat volume/page string
-    if (is.na(item$year)) {
+    if (is.null(item$year) || is.na(item$year)) {
       vp_string <- ""
       
     } else if (is.na(item$volume)) {

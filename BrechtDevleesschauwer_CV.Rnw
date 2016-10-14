@@ -373,7 +373,7 @@ for (i in seq(nrow(db))) print_article(db[i, ], nrow(db) - i + 1)
 \end{itemize}
 
 %% SUBMITTED %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{Submitted papers}
+\subsection{Submitted manuscripts}
 
 \begin{itemize}
   \setlength\itemsep{0em}

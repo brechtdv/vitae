@@ -487,7 +487,9 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 
 
-### Submitted papers (13)
+### Submitted papers (14)
+
+* Maertens de Noordhout C, **Devleesschauwer B**, Salomon JA, Turner H, Cassini A, Colzani E, Speybroeck N, Polinder S, Kretzschmar ME, Havelaar AH, Haagsma JA. Disability weights for infectious diseases in four European countries: comparison between countries and across respondent characteristics. _Bull World Health Org_
 
 * Maertens de Noordhout C, **Devleesschauwer B**, Gielens L, Plasmans MHD, Haagsma JA, Speybroeck N. Mapping EQ-5D utilities to GBD 2010 and GBD 2013 disability weights: results of two pilot studies in Belgium. _Arch Public Health_
 
@@ -635,4 +637,4 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 ---
 
-_Last update: 2016-10-13_
+_Last update: 2016-10-14_
