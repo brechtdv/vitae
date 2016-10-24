@@ -269,7 +269,15 @@ Nepali   | +        | +       | +
     Burden assessment of _Taenia solium_ cysticercosis in Tanzania
 
 
-### (Co)supervisor of 16 MSc students
+### (Co)supervisor of 18 MSc students
+*  Kinda Atiyeh, MSc Public Health, Université catholique de Louvain, 2016--17  
+Overall and cause-specific mortality in Belgium (original research)  
+Promoters: Speybroeck N, **Devleesschauwer B** 
+
+*  Angela Vega Rodriguez, MSc Public Health, Université catholique de Louvain, 2016--17  
+The burden of diabetes in Belgium and Spain (original research)  
+Promoters: Speybroeck N, **Devleesschauwer B** 
+
 *  Louise Vanhecke, MSc Veterinary Medicine, Ghent University, 2015--16  
 Vector-borne diseases in Nepal (literature review)  
 Promoters: **Devleesschauwer B**, Dorny P 
@@ -381,9 +389,11 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 
 
-### Peer-reviewed papers (50)
+### Peer-reviewed papers (51)
 
-**[Google Scholar](https://scholar.google.com/citations?user=AFSxtd0AAAAJ) metrics: 504 citations &middot; h-index 13 &middot; i10-index 17**
+**[Google Scholar](https://scholar.google.com/citations?user=AFSxtd0AAAAJ) metrics: 518 citations &middot; h-index 13 &middot; i10-index 18**
+
+* van de Velde N, **Devleesschauwer B**, Leopold M, Begeman L, Ijsseldijk LL, Hiemstra S, Ijzer J, Brownlow A, Davison N, Jauniaux T, Siebert U, Dorny P, De Craeye S (2016)  _Toxoplasma gondii_ in stranded marine mammals from the North Sea and Atlantic Ocean: findings and diagnostic difficulties. _Vet Parasitol_, in press. doi: [10.1016/j.vetpar.2016.10.021](http://dx.doi.org/10.1016/j.vetpar.2016.10.021)
 
 * Smit GSA, Apers L, Arrazole de Onate W, Beutels P, Dorny P, Forier A-M, Janssens K, Macq J, Mak R, Schol S, Wildemeersch D, Speybroeck N, **Devleesschauwer B** (2016)  Cost-effectiveness of tuberculosis screening policies in Flanders, Belgium. _Bull World Health Org_, in press
 
@@ -487,9 +497,11 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 
 
-### Submitted papers (14)
+### Submitted manuscripts (14)
 
-* Maertens de Noordhout C, **Devleesschauwer B**, Salomon JA, Turner H, Cassini A, Colzani E, Speybroeck N, Polinder S, Kretzschmar ME, Havelaar AH, Haagsma JA. Disability weights for infectious diseases in four European countries: comparison between countries and across respondent characteristics. _Bull World Health Org_
+* McKenzie JS, Dahal R, Kakkar M, Debnath N, Rahman M, Dorjee S, Naeem K, Wijayathilaka T, Sharma B, Maidanwal N, Halimi A, Kim E, Chatterjee P, **Devleesschauwer B**. One Health research and training and government support for One Health in South Asia. _Infect Ecol Epidemiol_
+
+* Maertens de Noordhout C, **Devleesschauwer B**, Salomon JA, Turner H, Cassini A, Colzani E, Speybroeck N, Polinder S, Kretzschmar ME, Havelaar AH, Haagsma JA. Disability weights for infectious diseases in four European countries: comparison between countries and across respondent characteristics. _Eur J Pub Health_
 
 * Maertens de Noordhout C, **Devleesschauwer B**, Gielens L, Plasmans MHD, Haagsma JA, Speybroeck N. Mapping EQ-5D utilities to GBD 2010 and GBD 2013 disability weights: results of two pilot studies in Belgium. _Arch Public Health_
 
@@ -502,8 +514,6 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 * Al-Kappany YM, Abbas IEA, **Devleesschauwer B**, Dorny P, Jennes M, Cox E. Seroprevalence of anti-_Toxoplasma gondii_ antibodies in filter paper elutes from sera of Egyptian sheep and goats. _Trop Animal Health Prod_
 
 * Zeilmaker MJ, **Devleesschauwer B**, Mengelers MJB, Brandon E, Bokkers BGH. Health impact assessment of dioxins: a global perspective. _Risk Anal_
-
-* van de Velde N, **Devleesschauwer B**, Leopold M, Begeman L, Ijsseldijk LL, Hiemstra S, Ijzer J, Brownlow A, Davison N, Jauniaux T, Siebert U, Dorny P, De Craeye S. _Toxoplasma gondii_ in stranded marine mammals from the North Sea and Atlantic Ocean: findings and diagnostic difficulties. _Vet Parasitol_
 
 * Braae UC, **Devleesschauwer B**, Gabriël S, Dorny P, Speybroeck N, Magnussen P, Torgerson P, Johansen MV. cystiSim---an agent-based model for _Taenia solium_ transmission and control. _PLOS Negl Trop Dis_
 
@@ -637,4 +647,4 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 ---
 
-_Last update: 2016-10-14_
+_Last update: 2016-10-24_
