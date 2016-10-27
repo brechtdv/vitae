@@ -44,6 +44,8 @@ Rue Juliette Wytsmanstraat 14, 1050 Brussels, Belgium $\mid$ +32 2 642 5035
   \setlength\itemsep{0em}
   \item \textbf{Senior epidemiologist}, 04/2016--present \hfill \\
     Scientific Institute of Public Health (WIV-ISP), Brussels, Belgium
+  \item \textbf{Guest lecturer, health economic evaluations}, 2016--2017 \hfill \\
+    Universit\'{e} catholique de Louvain, Brussels, Belgium
   \item \textbf{Assistant scientist, global food safety and zoonoses}, 06/2015--03/2016 \hfill \\
     University of Florida, Gainesville, USA% \hfill \\
     %Activities: 90\% research, 10\% teaching
@@ -332,6 +334,21 @@ cat("\\end{itemize}\n")
 %% PUBLICATIONS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Scientific output}
 
+\subsection{Book chapters}
+
+\begin{itemize}
+  \setlength\itemsep{0em}
+<<echo=FALSE,results='asis',message=FALSE>>=
+wb <- loadWorkbook("publications.xlsx")
+setMissingValue(wb, value = "NA")
+
+db <- readWorksheet(wb, sheet = "chapters")
+db <- db[order(db$title), ]
+db <- db[order(db$date, decreasing = TRUE), ]
+for (i in seq(nrow(db))) print_chapter(db[i, ], nrow(db) - i + 1)
+@
+\end{itemize}
+
 \subsection{Peer-reviewed papers}
 <<echo=FALSE, warning=FALSE>>=
 library(scholar)
@@ -347,7 +364,7 @@ gs <- get_profile(id)
 wb <- loadWorkbook("publications.xlsx")
 setMissingValue(wb, value = "NA")
 
-db <- readWorksheet(wb, sheet = "published")
+db <- readWorksheet(wb, sheet = "papers")
 db <- db[order(db$title), ]
 db <- db[order(db$date, decreasing = TRUE), ]
 db <- db[order(!is.na(db$volume)), ]
@@ -356,7 +373,7 @@ for (i in seq(nrow(db))) print_article(db[i, ], nrow(db) - i + 1)
 \end{itemize}
 
 %% SUBMITTED %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{Submitted papers}
+\subsection{Submitted manuscripts}
 
 \begin{itemize}
   \setlength\itemsep{0em}

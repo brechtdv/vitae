@@ -279,7 +279,24 @@ for (i in seq(nrow(db_bsc)))
 wb <- loadWorkbook("publications.xlsx")
 setMissingValue(wb, value = "NA")
 
-db <- readWorksheet(wb, sheet = "published")
+db <- readWorksheet(wb, sheet = "chapters")
+db <- db[order(db$title), ]
+db <- db[order(db$date, decreasing = TRUE), ]
+```
+
+```{r, echo=FALSE, results='asis'}
+cat(sprintf("### Book chapters (%d)", nrow(db)))
+```
+
+```{r, echo=FALSE, results='asis', message=FALSE}
+for (i in seq(nrow(db))) print_chapter(db[i, ], nrow(db) - i + 1)
+```
+
+```{r, echo=FALSE, message=FALSE}
+wb <- loadWorkbook("publications.xlsx")
+setMissingValue(wb, value = "NA")
+
+db <- readWorksheet(wb, sheet = "papers")
 db <- db[order(db$title), ]
 db <- db[order(db$date, decreasing = TRUE), ]
 db <- db[order(!is.na(db$volume)), ]
@@ -302,7 +319,7 @@ db <- db[order(db$date, decreasing = TRUE), ]
 ```
 
 ```{r, echo=FALSE, results='asis'}
-cat(sprintf("### Submitted papers (%d)", nrow(db)))
+cat(sprintf("### Submitted manuscripts (%d)", nrow(db)))
 ```
 
 ```{r, echo=FALSE, results='asis', message=FALSE}
