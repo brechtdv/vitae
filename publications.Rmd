@@ -1,0 +1,23 @@
+---
+output: bd::html_body
+---
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+source("vitae-md.R")
+```
+
+## Scientific output
+
+```{r, echo=FALSE, message=FALSE}
+wb <- loadWorkbook("publications.xlsx")
+setMissingValue(wb, value = "NA")
+
+db <- readWorksheet(wb, sheet = "published")
+db <- db[order(db$title), ]
+db <- db[order(db$date, decreasing = TRUE), ]
+db <- db[order(!is.na(db$volume)), ]
+```
+
+```{r, echo=FALSE, results='asis', message=FALSE}
+for (i in seq(nrow(db))) print_article2(db[i, ], nrow(db) - i + 1)
+```
