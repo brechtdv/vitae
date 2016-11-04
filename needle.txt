@@ -4,6 +4,7 @@ Anopheles arabiensis
 Echinococcus granulosus
 Giardia
 Opisthorchis
+Salmonella
 Taenia asiatica
 Taenia saginata
 Taenia solium
