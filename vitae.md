@@ -389,13 +389,17 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 
 
-### Peer-reviewed papers (51)
+### Peer-reviewed papers (53)
 
-**[Google Scholar](https://scholar.google.com/citations?user=AFSxtd0AAAAJ) metrics: 518 citations &middot; h-index 13 &middot; i10-index 18**
+**[Google Scholar](https://scholar.google.com/citations?user=AFSxtd0AAAAJ) metrics: 548 citations &middot; h-index 13 &middot; i10-index 19**
+
+* Renard F, Gadeyne S, **Devleesschauwer B**, Tafforeau J, De Boosere P (2016)  Trends in educational inequalities in premature mortality in Belgium between the 1990s and the 2000s: the contribution of specific causes of deaths. _J Epidemiol Community Health_, in press
+
+* McKenzie JS, Dahal R, Kakkar M, Debnath N, Rahman M, Dorjee S, Naeem K, Wijayathilaka T, Sharma B, Maidanwal N, Halimi A, Kim E, Chatterjee P, **Devleesschauwer B** (2016)  One Health research and training and government support for One Health in South Asia. _Infect Ecol Epidemiol_, in press
 
 * van de Velde N, **Devleesschauwer B**, Leopold M, Begeman L, Ijsseldijk LL, Hiemstra S, Ijzer J, Brownlow A, Davison N, Jauniaux T, Siebert U, Dorny P, De Craeye S (2016)  _Toxoplasma gondii_ in stranded marine mammals from the North Sea and Atlantic Ocean: findings and diagnostic difficulties. _Vet Parasitol_, in press. doi: [10.1016/j.vetpar.2016.10.021](http://dx.doi.org/10.1016/j.vetpar.2016.10.021)
 
-* Smit GSA, Apers L, Arrazole de Onate W, Beutels P, Dorny P, Forier A-M, Janssens K, Macq J, Mak R, Schol S, Wildemeersch D, Speybroeck N, **Devleesschauwer B** (2016)  Cost-effectiveness of tuberculosis screening policies in Flanders, Belgium. _Bull World Health Org_, in press
+* Smit GSA, Apers L, Arrazole de Onate W, Beutels P, Dorny P, Forier A-M, Janssens K, Macq J, Mak R, Schol S, Wildemeersch D, Speybroeck N, **Devleesschauwer B** (2016)  Cost-effectiveness of screening for active cases of tuberculosis in Flanders, Belgium. _Bull World Health Org_, in press. doi: [10.2471/BLT.16.169383](http://dx.doi.org/10.2471/BLT.16.169383)
 
 * Trevisan C, **Devleesschauwer B**, Schmidt V, Winkler AS, Harrison W, Johansen MV (2016)  The societal cost of _Taenia solium_ cysticercosis in Tanzania. _Acta Trop_, in press. doi: [10.1016/j.actatropica.2015.12.021](http://dx.doi.org/10.1016/j.actatropica.2015.12.021)
 
@@ -497,19 +501,17 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 
 
-### Submitted manuscripts (14)
+### Submitted manuscripts (12)
 
-* McKenzie JS, Dahal R, Kakkar M, Debnath N, Rahman M, Dorjee S, Naeem K, Wijayathilaka T, Sharma B, Maidanwal N, Halimi A, Kim E, Chatterjee P, **Devleesschauwer B**. One Health research and training and government support for One Health in South Asia. _Infect Ecol Epidemiol_
+* **Devleesschauwer B**, Marvasi M, Giurcanu MC, Hochmuth GJ, Speybroeck N, Havelaar AH, Teplitski M. High relative humidity pre-harvest reduces post-harvest proliferation of _Salmonella_ in tomatoes. _Food Microbiol_
 
-* Maertens de Noordhout C, **Devleesschauwer B**, Salomon JA, Turner H, Cassini A, Colzani E, Speybroeck N, Polinder S, Kretzschmar ME, Havelaar AH, Haagsma JA. Disability weights for infectious diseases in four European countries: comparison between countries and across respondent characteristics. _Eur J Pub Health_
+* Maertens de Noordhout C, **Devleesschauwer B**, Salomon JA, Turner H, Cassini A, Colzani E, Speybroeck N, Polinder S, Kretzschmar ME, Havelaar AH, Haagsma JA. Disability weights for infectious diseases in four European countries: comparison between countries and across respondent characteristics. _Eur J Public Health_
 
 * Maertens de Noordhout C, **Devleesschauwer B**, Gielens L, Plasmans MHD, Haagsma JA, Speybroeck N. Mapping EQ-5D utilities to GBD 2010 and GBD 2013 disability weights: results of two pilot studies in Belgium. _Arch Public Health_
 
 * Torgerson PR, Rüegg S, **Devleesschauwer B**, Abela-Ridder B, Havelaar AH, Shaw A, Rushton J, Speybroeck N. zDALY: an adjusted indicator for the burden of zoonotic diseases. _PLOS Negl Trop Dis_
 
-* Steckling N, **Devleesschauwer B**, Winkelnkemper J, Fischer F, Ericson B, Krämer A, Hornberg C, Fuller R, Plass D, Bose-O'Reilly S. Disability weights for chronic mercury intoxication resulting from gold mining activities: results from an online pairwise comparisons survey. _Environ Health Perspect_
-
-* Renard F, Gadeyne S, **Devleesschauwer B**, Tafforeau J, De Boosere P. Trends in educational inequalities in premature mortality in Belgium between the 1990s and the 2000s: the contribution of specific causes of deaths. _J Epidemiol Community Health_
+* Steckling N, **Devleesschauwer B**, Winkelnkemper J, Fischer F, Ericson B, Krämer A, Hornberg C, Fuller R, Plass D, Bose-O'Reilly S. Disability weights for chronic mercury intoxication resulting from gold mining activities: results from an online pairwise comparisons survey. _Int J Environ Res Public Health_
 
 * Al-Kappany YM, Abbas IEA, **Devleesschauwer B**, Dorny P, Jennes M, Cox E. Seroprevalence of anti-_Toxoplasma gondii_ antibodies in filter paper elutes from sera of Egyptian sheep and goats. _Trop Animal Health Prod_
 
@@ -518,8 +520,6 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 * Braae UC, **Devleesschauwer B**, Gabriël S, Dorny P, Speybroeck N, Magnussen P, Torgerson P, Johansen MV. cystiSim---an agent-based model for _Taenia solium_ transmission and control. _PLOS Negl Trop Dis_
 
 * Goudet S, Jayaraman A, Chanani S, Osrin D, **Devleesschauwer B**, Bogin B, Madise N, Griffiths P. Cost effectiveness of a programme for community management of acute malnutrition in Mumbai slums, India. _Cost Eff Resour Alloc_
-
-* **Devleesschauwer B**, Dorny P, Faes C, Havelaar AH, Torgerson PR, Speybroeck N. Burden and Risk Assessment of Foodborne Parasites [Book Chapter]. _In: Ortega Y, Sterling C (eds) Foodborne Parasites, 2nd ed_
 
 * Asale A, Huisman G, **Devleesschauwer B**, Speybroeck N, Duchateau L, Yewhalaw D. Zooprophylaxis as a malaria control strategy for _Anopheles_ arabiensis: a systematic review. _Med Vet Entomol_
 
@@ -549,7 +549,7 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 * **Devleesschauwer B**, Claes L, Dorny P (2015)  Foodborne parasites in Belgium. Presented at the _1st EURO-FBP Working Group Meeting_; 26 Oct 2015; Zagreb, Croatia.
 
-* Maertens de Noordhout C, **Devleesschauwer B**, Lamarrana D, Haagsma J, Havelaar A, Quoilin S, Bertrand S, Dupont Y, Vandenberg O, Brandt P, Speybroeck N (2015)  Current and future Disability-Adjusted Life Years (DALYs) of Salmonella and Campylobacter in Belgium. Presented at the _Methods in Epidemiology Symposium_; 17 Sep 2015; Leuven, Belgium.
+* Maertens de Noordhout C, **Devleesschauwer B**, Lamarrana D, Haagsma J, Havelaar A, Quoilin S, Bertrand S, Dupont Y, Vandenberg O, Brandt P, Speybroeck N (2015)  Current and future Disability-Adjusted Life Years (DALYs) of _Salmonella_ and Campylobacter in Belgium. Presented at the _Methods in Epidemiology Symposium_; 17 Sep 2015; Leuven, Belgium.
 
 * Pires S, Hall A, Fischer-Walker C, Lanata C, **Devleesschauwer B**, Duarte AS, Kirk M, Black RE, Angulo F (2015)  Global and regional incidence and mortality of diarrheal diseases commonly transmitted through food: Estimates from the WHO Foodborne Epidemiology Reference Group. Presented at the _IAFP 2015_; 28 Jul 2015; Portland, OR, USA.
 
@@ -647,4 +647,4 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 ---
 
-_Last update: 2016-10-24_
+_Last update: 2016-11-08_
