@@ -361,15 +361,17 @@ for (i in seq(nrow(db))) print_proceeding(db[i, ], nrow(db) - i + 1)
 
 ### Reports
 
-* World Health Organization (2015) WHO estimates of the global burden of foodborne diseases. Foodborne diseases burden epidemiology reference group 2007--2015. Geneva: WHO Press. http://apps.who.int/iris/bitstream/10665/199350/1/9789241565165_eng.pdf
+* Graham H, Martijn Bouwknegt M, **Devleesschauwer B**, Robertson L, van der Giessen L (2016) COST Action FA1408: European ranking of foodborne parasites. Results of a workshop held to prioritise foodborne parasites in Europe using multicriteria decision analyses, 8--12 February 2016, RIVM Bilthoven.
+
+* World Health Organization (2015) WHO estimates of the global burden of foodborne diseases. Foodborne diseases burden epidemiology reference group 2007--2015. Geneva: WHO Press. http://www.who.int/foodsafety/publications/foodborne_disease/fergreport/en/
 
 * Smit S, **Devleesschauwer B**, Apers L, Macq J, Beutels P, Speybroeck N (2015) Evaluation of the cost-effectiveness of the tuberculosis policies in Flanders. Report submitted to the Agency for Care and Health.
 
-* Food and Agriculture Organization of the United Nations, World Health Organization (2014) Risk based examples for control of _Trichinella_ spp. and _Taenia saginata_ in meat. Report of a joint FAO/WHO expert meeting, 22--25 October 2013, WHO Headquarters, Geneva, Switzerland.
+* Food and Agriculture Organization of the United Nations, World Health Organization (2014) Risk based examples for control of _Trichinella_ spp. and _Taenia saginata_ in meat. Report of a joint FAO/WHO expert meeting, 22--25 October 2013, WHO Headquarters, Geneva, Switzerland. ftp://ftp.fao.org/codex/meetings/CCFH/ccfh46/Trichinella%20Mtg%20Report%20241014.pdf
 
-* World Health Organization (2014) WHO initiative to estimate the global burden of foodborne diseases: fifth formal meeting of the Foodborne Disease Burden Epidemiology Reference Group (FERG), 8--12 April 2013, Geneva, Switzerland. Geneva: WHO Press.
+* World Health Organization (2014) WHO initiative to estimate the global burden of foodborne diseases: fifth formal meeting of the Foodborne Disease Burden Epidemiology Reference Group (FERG), 8--12 April 2013, Geneva, Switzerland. Geneva: WHO Press. http://www.who.int/foodsafety/publications/ferg5/en/
 
-* World Health Organization (2014) WHO initiative to estimate the global burden of foodborne diseases: fourth formal meeting of the Foodborne Disease Burden Epidemiology Reference Group (FERG): Sharing New Results, Making Future Plans, and Preparing Ground for the Countries. Geneva: WHO Press.
+* World Health Organization (2014) WHO initiative to estimate the global burden of foodborne diseases: fourth formal meeting of the Foodborne Disease Burden Epidemiology Reference Group (FERG): Sharing New Results, Making Future Plans, and Preparing Ground for the Countries. Geneva: WHO Press. http://www.who.int/foodsafety/publications/ferg4/en/
 
 ### R Packages
 
