@@ -381,29 +381,31 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 ### Book chapters (3)
 
-* **Devleesschauwer B**, Dorny P, Faes C, Havelaar AH, Torgerson PR, Speybroeck N (2016)  Burden and Risk Assessment of Foodborne Parasites. In: Ortega Y, Sterling C (eds) _Foodborne Parasites, 2nd ed_, in press
+* **Devleesschauwer B**, Dorny P, Faes C, Havelaar AH, Torgerson PR, Speybroeck N (2017)  Burden and Risk Assessment of Foodborne Parasites. In: Ortega Y, Sterling C (eds) _Foodborne Parasites, 2nd ed_, in press
 
-* **Devleesschauwer B**, Bouwknegt M, Mangen M-JJ, Havelaar AH (2016)  Health and Economic Burden of Campylobacter. In: Klein G (ed) _Campylobacter: Features, Detection, and Prevention of Foodborne Disease_, pp 27-40. doi: [10.1016/B978-0-12-803623-5.00002-2](http://dx.doi.org/10.1016/B978-0-12-803623-5.00002-2)
+* **Devleesschauwer B**, Bouwknegt M, Mangen M-JJ, Havelaar AH (2017)  Health and Economic Burden of Campylobacter. In: Klein G (ed) _Campylobacter: Features, Detection, and Prevention of Foodborne Disease_, pp 27-40. doi: [10.1016/B978-0-12-803623-5.00002-2](http://dx.doi.org/10.1016/B978-0-12-803623-5.00002-2)
 
 * Levecke B, Anderson RM, Berkvens D, Charlier J, **Devleesschauwer B**, Speybroeck N, Vercruysse J, Van Aelst S (2015)  Mathematical inference on helminth egg counts in stool and its applications in mass drug administration programmes to control soil-transmitted helminthiasis in public health. In: Anderson RM, Basáñez MG (eds) _Advances in Parasitology, Volume 87, Mathematical Models for Neglected Tropical Diseases: Essential Tools for Control and Elimination, Part A_, pp 193-247. doi: [10.1016/bs.apar.2015.01.001](http://dx.doi.org/10.1016/bs.apar.2015.01.001)
 
 
 
-### Peer-reviewed papers (53)
+### Peer-reviewed papers (54)
 
-**[Google Scholar](https://scholar.google.com/citations?user=AFSxtd0AAAAJ) metrics: 548 citations &middot; h-index 13 &middot; i10-index 19**
+**[Google Scholar](https://scholar.google.com/citations?user=AFSxtd0AAAAJ) metrics: 555 citations &middot; h-index 13 &middot; i10-index 19**
+
+* Braae UC, **Devleesschauwer B**, Gabriël S, Dorny P, Speybroeck N, Magnussen P, Torgerson P, Johansen MV (2016)  cystiSim---an agent-based model for _Taenia solium_ transmission and control. _PLOS Negl Trop Dis_, in press
 
 * Renard F, Gadeyne S, **Devleesschauwer B**, Tafforeau J, De Boosere P (2016)  Trends in educational inequalities in premature mortality in Belgium between the 1990s and the 2000s: the contribution of specific causes of deaths. _J Epidemiol Community Health_, in press
 
 * McKenzie JS, Dahal R, Kakkar M, Debnath N, Rahman M, Dorjee S, Naeem K, Wijayathilaka T, Sharma B, Maidanwal N, Halimi A, Kim E, Chatterjee P, **Devleesschauwer B** (2016)  One Health research and training and government support for One Health in South Asia. _Infect Ecol Epidemiol_, in press
-
-* van de Velde N, **Devleesschauwer B**, Leopold M, Begeman L, Ijsseldijk LL, Hiemstra S, Ijzer J, Brownlow A, Davison N, Jauniaux T, Siebert U, Dorny P, De Craeye S (2016)  _Toxoplasma gondii_ in stranded marine mammals from the North Sea and Atlantic Ocean: findings and diagnostic difficulties. _Vet Parasitol_, in press. doi: [10.1016/j.vetpar.2016.10.021](http://dx.doi.org/10.1016/j.vetpar.2016.10.021)
 
 * Smit GSA, Apers L, Arrazole de Onate W, Beutels P, Dorny P, Forier A-M, Janssens K, Macq J, Mak R, Schol S, Wildemeersch D, Speybroeck N, **Devleesschauwer B** (2016)  Cost-effectiveness of screening for active cases of tuberculosis in Flanders, Belgium. _Bull World Health Org_, in press. doi: [10.2471/BLT.16.169383](http://dx.doi.org/10.2471/BLT.16.169383)
 
 * Trevisan C, **Devleesschauwer B**, Schmidt V, Winkler AS, Harrison W, Johansen MV (2016)  The societal cost of _Taenia solium_ cysticercosis in Tanzania. _Acta Trop_, in press. doi: [10.1016/j.actatropica.2015.12.021](http://dx.doi.org/10.1016/j.actatropica.2015.12.021)
 
 * **Devleesschauwer B**, Allepuz A, Dermauw V, Johansen MV, Laranjo-González M, Smit GSA, Sotiraki S, Trevisan C, Wardrop NA, Dorny P, Gabriël S (2016)  _Taenia solium_ in Europe: still endemic? _Acta Trop_, in press. doi: [10.1016/j.actatropica.2015.08.006](http://dx.doi.org/10.1016/j.actatropica.2015.08.006)
+
+* van de Velde N, **Devleesschauwer B**, Leopold M, Begeman L, Ijsseldijk LL, Hiemstra S, Ijzer J, Brownlow A, Davison N, Jauniaux T, Siebert U, Dorny P, De Craeye S (2016)  _Toxoplasma gondii_ in stranded marine mammals from the North Sea and Atlantic Ocean: findings and diagnostic difficulties. _Vet Parasitol_ 230:25-32. doi: [10.1016/j.vetpar.2016.10.021](http://dx.doi.org/10.1016/j.vetpar.2016.10.021)
 
 * Tromme I, Legrand C, **Devleesschauwer B**, Leiter U, Suciu S, Eggermont A, Sacré L, Baurain J-F, Thomas L, Beutels P, Speybroeck N (2016)  Cost-effectiveness analysis in melanoma detection: a transition model applied to dermoscopy. _Eur J Cancer_ 67:38-45. doi: [10.1016/j.ejca.2016.07.020](http://dx.doi.org/10.1016/j.ejca.2016.07.020)
 
@@ -501,7 +503,7 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 
 
-### Submitted manuscripts (12)
+### Submitted manuscripts (11)
 
 * **Devleesschauwer B**, Marvasi M, Giurcanu MC, Hochmuth GJ, Speybroeck N, Havelaar AH, Teplitski M. High relative humidity pre-harvest reduces post-harvest proliferation of _Salmonella_ in tomatoes. _Food Microbiol_
 
@@ -516,8 +518,6 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 * Al-Kappany YM, Abbas IEA, **Devleesschauwer B**, Dorny P, Jennes M, Cox E. Seroprevalence of anti-_Toxoplasma gondii_ antibodies in filter paper elutes from sera of Egyptian sheep and goats. _Trop Animal Health Prod_
 
 * Zeilmaker MJ, **Devleesschauwer B**, Mengelers MJB, Brandon E, Bokkers BGH. Health impact assessment of dioxins: a global perspective. _Risk Anal_
-
-* Braae UC, **Devleesschauwer B**, Gabriël S, Dorny P, Speybroeck N, Magnussen P, Torgerson P, Johansen MV. cystiSim---an agent-based model for _Taenia solium_ transmission and control. _PLOS Negl Trop Dis_
 
 * Goudet S, Jayaraman A, Chanani S, Osrin D, **Devleesschauwer B**, Bogin B, Madise N, Griffiths P. Cost effectiveness of a programme for community management of acute malnutrition in Mumbai slums, India. _Cost Eff Resour Alloc_
 
@@ -601,7 +601,7 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 ### Reports
 
-* World Health Organization (2015) WHO estimates of the global burden of foodborne diseases. Foodborne diseases burden epidemiology reference group 2007--2015. Geneva: WHO Press.
+* World Health Organization (2015) WHO estimates of the global burden of foodborne diseases. Foodborne diseases burden epidemiology reference group 2007--2015. Geneva: WHO Press. http://apps.who.int/iris/bitstream/10665/199350/1/9789241565165_eng.pdf
 
 * Smit S, **Devleesschauwer B**, Apers L, Macq J, Beutels P, Speybroeck N (2015) Evaluation of the cost-effectiveness of the tuberculosis policies in Flanders. Report submitted to the Agency for Care and Health.
 
@@ -647,4 +647,4 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 ---
 
-_Last update: 2016-11-08_
+_Last update: 2016-11-16_
