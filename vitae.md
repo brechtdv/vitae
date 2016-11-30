@@ -391,19 +391,19 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 ### Peer-reviewed papers (54)
 
-**[Google Scholar](https://scholar.google.com/citations?user=AFSxtd0AAAAJ) metrics: 555 citations &middot; h-index 13 &middot; i10-index 19**
+**[Google Scholar](https://scholar.google.com/citations?user=AFSxtd0AAAAJ) metrics: 569 citations &middot; h-index 13 &middot; i10-index 19**
 
 * Braae UC, **Devleesschauwer B**, Gabriël S, Dorny P, Speybroeck N, Magnussen P, Torgerson P, Johansen MV (2016)  cystiSim---an agent-based model for _Taenia solium_ transmission and control. _PLOS Negl Trop Dis_, in press
 
-* Renard F, Gadeyne S, **Devleesschauwer B**, Tafforeau J, De Boosere P (2016)  Trends in educational inequalities in premature mortality in Belgium between the 1990s and the 2000s: the contribution of specific causes of deaths. _J Epidemiol Community Health_, in press
-
-* McKenzie JS, Dahal R, Kakkar M, Debnath N, Rahman M, Dorjee S, Naeem K, Wijayathilaka T, Sharma B, Maidanwal N, Halimi A, Kim E, Chatterjee P, **Devleesschauwer B** (2016)  One Health research and training and government support for One Health in South Asia. _Infect Ecol Epidemiol_, in press
+* Renard F, Gadeyne S, **Devleesschauwer B**, Tafforeau J, De Boosere P (2016)  Trends in educational inequalities in premature mortality in Belgium between the 1990s and the 2000s: the contribution of specific causes of deaths. _J Epidemiol Community Health_, in press. doi: [10.1136/jech-2016-208370 ](http://dx.doi.org/10.1136/jech-2016-208370 )
 
 * Smit GSA, Apers L, Arrazole de Onate W, Beutels P, Dorny P, Forier A-M, Janssens K, Macq J, Mak R, Schol S, Wildemeersch D, Speybroeck N, **Devleesschauwer B** (2016)  Cost-effectiveness of screening for active cases of tuberculosis in Flanders, Belgium. _Bull World Health Org_, in press. doi: [10.2471/BLT.16.169383](http://dx.doi.org/10.2471/BLT.16.169383)
 
 * Trevisan C, **Devleesschauwer B**, Schmidt V, Winkler AS, Harrison W, Johansen MV (2016)  The societal cost of _Taenia solium_ cysticercosis in Tanzania. _Acta Trop_, in press. doi: [10.1016/j.actatropica.2015.12.021](http://dx.doi.org/10.1016/j.actatropica.2015.12.021)
 
 * **Devleesschauwer B**, Allepuz A, Dermauw V, Johansen MV, Laranjo-González M, Smit GSA, Sotiraki S, Trevisan C, Wardrop NA, Dorny P, Gabriël S (2016)  _Taenia solium_ in Europe: still endemic? _Acta Trop_, in press. doi: [10.1016/j.actatropica.2015.08.006](http://dx.doi.org/10.1016/j.actatropica.2015.08.006)
+
+* McKenzie JS, Dahal R, Kakkar M, Debnath N, Rahman M, Dorjee S, Naeem K, Wijayathilaka T, Sharma B, Maidanwal N, Halimi A, Kim E, Chatterjee P, **Devleesschauwer B** (2016)  One Health research and training and government support for One Health in South Asia. _Infect Ecol Epidemiol_ 6:33842. doi: [10.3402/iee.v6.33842](http://dx.doi.org/10.3402/iee.v6.33842)
 
 * van de Velde N, **Devleesschauwer B**, Leopold M, Begeman L, Ijsseldijk LL, Hiemstra S, Ijzer J, Brownlow A, Davison N, Jauniaux T, Siebert U, Dorny P, De Craeye S (2016)  _Toxoplasma gondii_ in stranded marine mammals from the North Sea and Atlantic Ocean: findings and diagnostic difficulties. _Vet Parasitol_ 230:25-32. doi: [10.1016/j.vetpar.2016.10.021](http://dx.doi.org/10.1016/j.vetpar.2016.10.021)
 
@@ -503,7 +503,11 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 
 
-### Submitted manuscripts (11)
+### Submitted manuscripts (14)
+
+* Smit GSA, Vu Thi Lam B, Do Trung D, Speybroeck N, **Devleesschauwer B**, Padalko E, Roets E, Dorny P. Prenatal diagnosis and prevention of toxoplasmosis in pregnant women in Northern Vietnam: study protocol. _BMC Infect Dis_
+
+* Bouwknegt M, **Devleesschauwer B**, Graham H, Robertson LJ, van der Giessen J. Prioritization of foodborne parasites in Europe. _Proc Natl Acad Sci U S A_
 
 * **Devleesschauwer B**, Marvasi M, Giurcanu MC, Hochmuth GJ, Speybroeck N, Havelaar AH, Teplitski M. High relative humidity pre-harvest reduces post-harvest proliferation of _Salmonella_ in tomatoes. _Food Microbiol_
 
@@ -518,6 +522,8 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 * Al-Kappany YM, Abbas IEA, **Devleesschauwer B**, Dorny P, Jennes M, Cox E. Seroprevalence of anti-_Toxoplasma gondii_ antibodies in filter paper elutes from sera of Egyptian sheep and goats. _Trop Animal Health Prod_
 
 * Zeilmaker MJ, **Devleesschauwer B**, Mengelers MJB, Brandon E, Bokkers BGH. Health impact assessment of dioxins: a global perspective. _Risk Anal_
+
+* Maertens de Noordhout C, **Devleesschauwer B**, Haagsma JA, Havelaar AH, Bertrand S, Vandenberg O, Quoilin S, Brandt PT, Speybroeck N. Current and future burden of salmonellosis, campylobacteriosis and listeriosis in Belgium: a time series analysis. _Euro Surveill_
 
 * Goudet S, Jayaraman A, Chanani S, Osrin D, **Devleesschauwer B**, Bogin B, Madise N, Griffiths P. Cost effectiveness of a programme for community management of acute malnutrition in Mumbai slums, India. _Cost Eff Resour Alloc_
 
@@ -601,19 +607,23 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 ### Reports
 
-* World Health Organization (2015) WHO estimates of the global burden of foodborne diseases. Foodborne diseases burden epidemiology reference group 2007--2015. Geneva: WHO Press. http://apps.who.int/iris/bitstream/10665/199350/1/9789241565165_eng.pdf
+* Graham H, Martijn Bouwknegt M, **Devleesschauwer B**, Robertson L, van der Giessen L (2016) COST Action FA1408: European ranking of foodborne parasites. Results of a workshop held to prioritise foodborne parasites in Europe using multicriteria decision analyses, 8--12 February 2016, RIVM Bilthoven.
+
+* World Health Organization (2015) WHO estimates of the global burden of foodborne diseases. Foodborne diseases burden epidemiology reference group 2007--2015. Geneva: WHO Press. http://www.who.int/foodsafety/publications/foodborne_disease/fergreport/en/
 
 * Smit S, **Devleesschauwer B**, Apers L, Macq J, Beutels P, Speybroeck N (2015) Evaluation of the cost-effectiveness of the tuberculosis policies in Flanders. Report submitted to the Agency for Care and Health.
 
-* Food and Agriculture Organization of the United Nations, World Health Organization (2014) Risk based examples for control of _Trichinella_ spp. and _Taenia saginata_ in meat. Report of a joint FAO/WHO expert meeting, 22--25 October 2013, WHO Headquarters, Geneva, Switzerland.
+* Food and Agriculture Organization of the United Nations, World Health Organization (2014) Risk based examples for control of _Trichinella_ spp. and _Taenia saginata_ in meat. Report of a joint FAO/WHO expert meeting, 22--25 October 2013, WHO Headquarters, Geneva, Switzerland. ftp://ftp.fao.org/codex/meetings/CCFH/ccfh46/Trichinella%20Mtg%20Report%20241014.pdf
 
-* World Health Organization (2014) WHO initiative to estimate the global burden of foodborne diseases: fifth formal meeting of the Foodborne Disease Burden Epidemiology Reference Group (FERG), 8--12 April 2013, Geneva, Switzerland. Geneva: WHO Press.
+* World Health Organization (2014) WHO initiative to estimate the global burden of foodborne diseases: fifth formal meeting of the Foodborne Disease Burden Epidemiology Reference Group (FERG), 8--12 April 2013, Geneva, Switzerland. Geneva: WHO Press. http://www.who.int/foodsafety/publications/ferg5/en/
 
-* World Health Organization (2014) WHO initiative to estimate the global burden of foodborne diseases: fourth formal meeting of the Foodborne Disease Burden Epidemiology Reference Group (FERG): Sharing New Results, Making Future Plans, and Preparing Ground for the Countries. Geneva: WHO Press.
+* World Health Organization (2014) WHO initiative to estimate the global burden of foodborne diseases: fourth formal meeting of the Foodborne Disease Burden Epidemiology Reference Group (FERG): Sharing New Results, Making Future Plans, and Preparing Ground for the Countries. Geneva: WHO Press. http://www.who.int/foodsafety/publications/ferg4/en/
 
 ### R Packages
 
-* **Devleesschauwer B**, Braae UC (2016) **cystiSim**: Agent-Based Model for _Taenia solium_ Transmission and Control. R package version 0.1.0. http://cran.r-project.org/package=cystiSim
+* **Devleesschauwer B**, McDonald S, Haagsma J, Praet N, Havelaar A, Speybroeck N (2016) **DALY**: The DALY Calculator---Graphical User Interface for Probabilistic DALY Calculation in R. R package version 1.5.0. https://cran.r-project.org/package=DALY
+
+* **Devleesschauwer B**, Braae UC (2016) **cystiSim**: Agent-Based Model for _Taenia solium_ Transmission and Control. R package version 0.1.0. https://cran.r-project.org/package=cystiSim
 
 * **Devleesschauwer B** (2016) **bd**: brechtdv's helper functions. R package version 0.0.11. https://github.com/brechtdv/bd
 
@@ -625,9 +635,7 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 * **Devleesschauwer B**, Willimès S, Van Malderen C, Konings P, Speybroeck N (2015) **rineq**: Statistical Analysis of Health Inequalities. R package version 0.0.1. https://github.com/brechtdv/rineq
 
-* **Devleesschauwer B**, Torgerson PR, Charlier J, Levecke B, Praet N, Roelandt S, Smit G, Dorny P, Berkvens D, Speybroeck N (2015) **prevalence**: Tools for Prevalence Assessment Studies. R package version 0.4.0. http://cran.r-project.org/package=prevalence
-
-* **Devleesschauwer B**, McDonald S, Haagsma J, Praet N, Havelaar A, Speybroeck N (2014) **DALY**: The DALY Calculator---A GUI for stochastic DALY calculation in R. R package version 1.4.0. http://cran.r-project.org/package=DALY
+* **Devleesschauwer B**, Torgerson PR, Charlier J, Levecke B, Praet N, Roelandt S, Smit G, Dorny P, Berkvens D, Speybroeck N (2015) **prevalence**: Tools for Prevalence Assessment Studies. R package version 0.4.0. https://cran.r-project.org/package=prevalence
 
 ### Vulgarizing articles
 
@@ -647,4 +655,4 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 ---
 
-_Last update: 2016-11-16_
+_Last update: 2016-11-30_
