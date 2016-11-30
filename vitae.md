@@ -389,9 +389,11 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 
 
-### Peer-reviewed papers (54)
+### Peer-reviewed papers (55)
 
 **[Google Scholar](https://scholar.google.com/citations?user=AFSxtd0AAAAJ) metrics: 569 citations &middot; h-index 13 &middot; i10-index 19**
+
+* McDonald SA, **Devleesschauwer B**, Wallinga J (2016)  The impact of individual-level heterogeneity on estimated infectious disease burden: a simulation study. _Popul Health Metr_, in press
 
 * Braae UC, **Devleesschauwer B**, Gabriël S, Dorny P, Speybroeck N, Magnussen P, Torgerson P, Johansen MV (2016)  cystiSim---an agent-based model for _Taenia solium_ transmission and control. _PLOS Negl Trop Dis_, in press
 
@@ -503,7 +505,7 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 
 
-### Submitted manuscripts (14)
+### Submitted manuscripts (13)
 
 * Smit GSA, Vu Thi Lam B, Do Trung D, Speybroeck N, **Devleesschauwer B**, Padalko E, Roets E, Dorny P. Prenatal diagnosis and prevention of toxoplasmosis in pregnant women in Northern Vietnam: study protocol. _BMC Infect Dis_
 
@@ -528,8 +530,6 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 * Goudet S, Jayaraman A, Chanani S, Osrin D, **Devleesschauwer B**, Bogin B, Madise N, Griffiths P. Cost effectiveness of a programme for community management of acute malnutrition in Mumbai slums, India. _Cost Eff Resour Alloc_
 
 * Asale A, Huisman G, **Devleesschauwer B**, Speybroeck N, Duchateau L, Yewhalaw D. Zooprophylaxis as a malaria control strategy for _Anopheles_ arabiensis: a systematic review. _Med Vet Entomol_
-
-* McDonald SA, **Devleesschauwer B**, Wallinga J. The impact of individual-level heterogeneity on estimated infectious disease burden: a simulation study. _Popul Health Metr_
 
 * Rahman AA, Smit S, **Devleesschauwer B**, Abatih E, Saegerman C, Ahmed MU, Shamsuddin M, Speybroeck N, Berkvens D. Bayesian estimation of the true exposure prevalence, sensitivity and specificity of three serological tests for the diagnosis of bovine brucellosis in Bangladesh. _Prev Vet Med_
 
