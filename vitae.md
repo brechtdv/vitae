@@ -391,7 +391,7 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 ### Peer-reviewed papers (55)
 
-**[Google Scholar](https://scholar.google.com/citations?user=AFSxtd0AAAAJ) metrics: 569 citations &middot; h-index 13 &middot; i10-index 19**
+**[Google Scholar](https://scholar.google.com/citations?user=AFSxtd0AAAAJ) metrics: 576 citations &middot; h-index 14 &middot; i10-index 19**
 
 * McDonald SA, **Devleesschauwer B**, Wallinga J (2016)  The impact of individual-level heterogeneity on estimated infectious disease burden: a simulation study. _Popul Health Metr_, in press
 
@@ -655,4 +655,4 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 ---
 
-_Last update: 2016-11-30_
+_Last update: 2016-12-06_
