@@ -391,19 +391,19 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 ### Peer-reviewed papers (55)
 
-**[Google Scholar](https://scholar.google.com/citations?user=AFSxtd0AAAAJ) metrics: 576 citations &middot; h-index 14 &middot; i10-index 19**
+**[Google Scholar](https://scholar.google.com/citations?user=AFSxtd0AAAAJ) metrics: 584 citations &middot; h-index 14 &middot; i10-index 19**
 
-* McDonald SA, **Devleesschauwer B**, Wallinga J (2016)  The impact of individual-level heterogeneity on estimated infectious disease burden: a simulation study. _Popul Health Metr_, in press
+* Braae UC, **Devleesschauwer B**, Gabriël S, Dorny P, Speybroeck N, Magnussen P, Torgerson P, Johansen MV (2017)  cystiSim---an agent-based model for _Taenia solium_ transmission and control. _PLOS Negl Trop Dis_, in press
 
-* Braae UC, **Devleesschauwer B**, Gabriël S, Dorny P, Speybroeck N, Magnussen P, Torgerson P, Johansen MV (2016)  cystiSim---an agent-based model for _Taenia solium_ transmission and control. _PLOS Negl Trop Dis_, in press
+* Renard F, Gadeyne S, **Devleesschauwer B**, Tafforeau J, De Boosere P (2017)  Trends in educational inequalities in premature mortality in Belgium between the 1990s and the 2000s: the contribution of specific causes of deaths. _J Epidemiol Community Health_, in press. doi: [10.1136/jech-2016-208370 ](http://dx.doi.org/10.1136/jech-2016-208370 )
 
-* Renard F, Gadeyne S, **Devleesschauwer B**, Tafforeau J, De Boosere P (2016)  Trends in educational inequalities in premature mortality in Belgium between the 1990s and the 2000s: the contribution of specific causes of deaths. _J Epidemiol Community Health_, in press. doi: [10.1136/jech-2016-208370 ](http://dx.doi.org/10.1136/jech-2016-208370 )
+* Smit GSA, Apers L, Arrazole de Onate W, Beutels P, Dorny P, Forier A-M, Janssens K, Macq J, Mak R, Schol S, Wildemeersch D, Speybroeck N, **Devleesschauwer B** (2017)  Cost-effectiveness of screening for active cases of tuberculosis in Flanders, Belgium. _Bull World Health Org_, in press. doi: [10.2471/BLT.16.169383](http://dx.doi.org/10.2471/BLT.16.169383)
 
-* Smit GSA, Apers L, Arrazole de Onate W, Beutels P, Dorny P, Forier A-M, Janssens K, Macq J, Mak R, Schol S, Wildemeersch D, Speybroeck N, **Devleesschauwer B** (2016)  Cost-effectiveness of screening for active cases of tuberculosis in Flanders, Belgium. _Bull World Health Org_, in press. doi: [10.2471/BLT.16.169383](http://dx.doi.org/10.2471/BLT.16.169383)
+* **Devleesschauwer B**, Allepuz A, Dermauw V, Johansen MV, Laranjo-González M, Smit GSA, Sotiraki S, Trevisan C, Wardrop NA, Dorny P, Gabriël S (2017)  _Taenia solium_ in Europe: still endemic? _Acta Trop_ 165:96-99. doi: [10.1016/j.actatropica.2015.08.006](http://dx.doi.org/10.1016/j.actatropica.2015.08.006)
 
-* Trevisan C, **Devleesschauwer B**, Schmidt V, Winkler AS, Harrison W, Johansen MV (2016)  The societal cost of _Taenia solium_ cysticercosis in Tanzania. _Acta Trop_, in press. doi: [10.1016/j.actatropica.2015.12.021](http://dx.doi.org/10.1016/j.actatropica.2015.12.021)
+* Trevisan C, **Devleesschauwer B**, Schmidt V, Winkler AS, Harrison W, Johansen MV (2017)  The societal cost of _Taenia solium_ cysticercosis in Tanzania. _Acta Trop_ 165:141-154. doi: [10.1016/j.actatropica.2015.12.021](http://dx.doi.org/10.1016/j.actatropica.2015.12.021)
 
-* **Devleesschauwer B**, Allepuz A, Dermauw V, Johansen MV, Laranjo-González M, Smit GSA, Sotiraki S, Trevisan C, Wardrop NA, Dorny P, Gabriël S (2016)  _Taenia solium_ in Europe: still endemic? _Acta Trop_, in press. doi: [10.1016/j.actatropica.2015.08.006](http://dx.doi.org/10.1016/j.actatropica.2015.08.006)
+* McDonald SA, **Devleesschauwer B**, Wallinga J (2016)  The impact of individual-level heterogeneity on estimated infectious disease burden: a simulation study. _Popul Health Metr_ 14:47. doi: [10.1186/s12963-016-0116-y](http://dx.doi.org/10.1186/s12963-016-0116-y)
 
 * McKenzie JS, Dahal R, Kakkar M, Debnath N, Rahman M, Dorjee S, Naeem K, Wijayathilaka T, Sharma B, Maidanwal N, Halimi A, Kim E, Chatterjee P, **Devleesschauwer B** (2016)  One Health research and training and government support for One Health in South Asia. _Infect Ecol Epidemiol_ 6:33842. doi: [10.3402/iee.v6.33842](http://dx.doi.org/10.3402/iee.v6.33842)
 
@@ -505,11 +505,13 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 
 
-### Submitted manuscripts (13)
+### Submitted manuscripts (14)
+
+* Jennes M, **Devleesschauwer B**, De Craeye S, Praet N, Verhelst D, Czaplicki G, Vanrobaeys M, Dorny P, Cox E. True prevalence of anti-_Toxoplasma gondii_ antibodies in Belgian pig farms. _Prev Vet Med_
+
+* Bouwknegt M, **Devleesschauwer B**, Graham H, Robertson LJ, van der Giessen J. Prioritization of foodborne parasites in Europe. _Emerg Infect Dis_
 
 * Smit GSA, Vu Thi Lam B, Do Trung D, Speybroeck N, **Devleesschauwer B**, Padalko E, Roets E, Dorny P. Prenatal diagnosis and prevention of toxoplasmosis in pregnant women in Northern Vietnam: study protocol. _BMC Infect Dis_
-
-* Bouwknegt M, **Devleesschauwer B**, Graham H, Robertson LJ, van der Giessen J. Prioritization of foodborne parasites in Europe. _Proc Natl Acad Sci U S A_
 
 * **Devleesschauwer B**, Marvasi M, Giurcanu MC, Hochmuth GJ, Speybroeck N, Havelaar AH, Teplitski M. High relative humidity pre-harvest reduces post-harvest proliferation of _Salmonella_ in tomatoes. _Food Microbiol_
 
@@ -591,7 +593,9 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 
 
-### Poster presentations (6)
+### Poster presentations (7)
+
+* Levecke B, Ghebretinsae AH, Anderson RM, Berkvens D, Vlaminck J, **Devleesschauwer B**, Speybroeck N, Vercruysse J, Van Aelst S (2016)  Guidance in designing surveys for monitoring the progress of school-based deworming programmes to control soil-transmitted helminths. Presented at the _65th Annual Meeting of the American Society of Tropical Medicine and Hygiene_; 13-17 Nov 2016; Atlanta, GA, USA.
 
 * Steckling N, Plass D, Winkelnkemper J, Fischer F, **Devleesschauwer B**, Krämer A, Hornberg C, Bose-O'Reilly S (2016)  Disability weights for chronic metallic mercury vapor intoxication to improve estimates of the burden of disease resulting from mercury use in gold mining. Presented at the _28th Annual Conference of the International Society For Environmental Epidemiology_; 1-4 Sep 2016; Rome, Italy.
 
@@ -655,4 +659,4 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 ---
 
-_Last update: 2016-12-06_
+_Last update: 2016-12-13_
