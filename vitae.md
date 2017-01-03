@@ -389,25 +389,27 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 
 
-### Peer-reviewed papers (55)
+### Peer-reviewed papers (56)
 
-**[Google Scholar](https://scholar.google.com/citations?user=AFSxtd0AAAAJ) metrics: 584 citations &middot; h-index 14 &middot; i10-index 19**
+**[Google Scholar](https://scholar.google.com/citations?user=AFSxtd0AAAAJ) metrics: 615 citations &middot; h-index 15 &middot; i10-index 19**
 
-* Braae UC, **Devleesschauwer B**, Gabriël S, Dorny P, Speybroeck N, Magnussen P, Torgerson P, Johansen MV (2017)  cystiSim---an agent-based model for _Taenia solium_ transmission and control. _PLOS Negl Trop Dis_, in press
+* Steckling N, **Devleesschauwer B**, Winkelnkemper J, Fischer F, Ericson B, Krämer A, Hornberg C, Fuller R, Plass D, Bose-O'Reilly S (2017)  Disability weights for chronic mercury intoxication resulting from gold mining activities: results from an online pairwise comparisons survey. _Int J Environ Res Public Health_, in press
 
 * Renard F, Gadeyne S, **Devleesschauwer B**, Tafforeau J, De Boosere P (2017)  Trends in educational inequalities in premature mortality in Belgium between the 1990s and the 2000s: the contribution of specific causes of deaths. _J Epidemiol Community Health_, in press. doi: [10.1136/jech-2016-208370 ](http://dx.doi.org/10.1136/jech-2016-208370 )
 
-* Smit GSA, Apers L, Arrazole de Onate W, Beutels P, Dorny P, Forier A-M, Janssens K, Macq J, Mak R, Schol S, Wildemeersch D, Speybroeck N, **Devleesschauwer B** (2017)  Cost-effectiveness of screening for active cases of tuberculosis in Flanders, Belgium. _Bull World Health Org_, in press. doi: [10.2471/BLT.16.169383](http://dx.doi.org/10.2471/BLT.16.169383)
+* Smit GSA, Apers L, Arrazole de Onate W, Beutels P, Dorny P, Forier A-M, Janssens K, Macq J, Mak R, Schol S, Wildemeersch D, Speybroeck N, **Devleesschauwer B** (2017)  Cost-effectiveness of screening for active cases of tuberculosis in Flanders, Belgium. _Bull World Health Org_ 95:27-35. doi: [10.2471/BLT.16.169383](http://dx.doi.org/10.2471/BLT.16.169383)
 
 * **Devleesschauwer B**, Allepuz A, Dermauw V, Johansen MV, Laranjo-González M, Smit GSA, Sotiraki S, Trevisan C, Wardrop NA, Dorny P, Gabriël S (2017)  _Taenia solium_ in Europe: still endemic? _Acta Trop_ 165:96-99. doi: [10.1016/j.actatropica.2015.08.006](http://dx.doi.org/10.1016/j.actatropica.2015.08.006)
 
 * Trevisan C, **Devleesschauwer B**, Schmidt V, Winkler AS, Harrison W, Johansen MV (2017)  The societal cost of _Taenia solium_ cysticercosis in Tanzania. _Acta Trop_ 165:141-154. doi: [10.1016/j.actatropica.2015.12.021](http://dx.doi.org/10.1016/j.actatropica.2015.12.021)
 
+* Braae UC, **Devleesschauwer B**, Gabriël S, Dorny P, Speybroeck N, Magnussen P, Torgerson P, Johansen MV (2016)  cystiSim---an agent-based model for _Taenia solium_ transmission and control. _PLOS Negl Trop Dis_ 10:e0005184. doi: [10.1371/journal.pntd.0005184](http://dx.doi.org/10.1371/journal.pntd.0005184)
+
 * McDonald SA, **Devleesschauwer B**, Wallinga J (2016)  The impact of individual-level heterogeneity on estimated infectious disease burden: a simulation study. _Popul Health Metr_ 14:47. doi: [10.1186/s12963-016-0116-y](http://dx.doi.org/10.1186/s12963-016-0116-y)
 
 * McKenzie JS, Dahal R, Kakkar M, Debnath N, Rahman M, Dorjee S, Naeem K, Wijayathilaka T, Sharma B, Maidanwal N, Halimi A, Kim E, Chatterjee P, **Devleesschauwer B** (2016)  One Health research and training and government support for One Health in South Asia. _Infect Ecol Epidemiol_ 6:33842. doi: [10.3402/iee.v6.33842](http://dx.doi.org/10.3402/iee.v6.33842)
 
-* van de Velde N, **Devleesschauwer B**, Leopold M, Begeman L, Ijsseldijk LL, Hiemstra S, Ijzer J, Brownlow A, Davison N, Jauniaux T, Siebert U, Dorny P, De Craeye S (2016)  _Toxoplasma gondii_ in stranded marine mammals from the North Sea and Atlantic Ocean: findings and diagnostic difficulties. _Vet Parasitol_ 230:25-32. doi: [10.1016/j.vetpar.2016.10.021](http://dx.doi.org/10.1016/j.vetpar.2016.10.021)
+* van de Velde N, **Devleesschauwer B**, Leopold M, Begeman L, Ijsseldijk LL, Hiemstra S, Ijzer J, Brownlow A, Davison N, Haelters J, Jauniaux T, Siebert U, Dorny P, De Craeye S (2016)  _Toxoplasma gondii_ in stranded marine mammals from the North Sea and Eastern Atlantic Ocean: findings and diagnostic difficulties. _Vet Parasitol_ 230:25-32. doi: [10.1016/j.vetpar.2016.10.021](http://dx.doi.org/10.1016/j.vetpar.2016.10.021)
 
 * Tromme I, Legrand C, **Devleesschauwer B**, Leiter U, Suciu S, Eggermont A, Sacré L, Baurain J-F, Thomas L, Beutels P, Speybroeck N (2016)  Cost-effectiveness analysis in melanoma detection: a transition model applied to dermoscopy. _Eur J Cancer_ 67:38-45. doi: [10.1016/j.ejca.2016.07.020](http://dx.doi.org/10.1016/j.ejca.2016.07.020)
 
@@ -507,6 +509,8 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 ### Submitted manuscripts (14)
 
+* Smit GSA, Padalko E, Van Acker J, Hens N, Dorny P, Speybroeck N, **Devleesschauwer B**. The public health impact of congenital toxoplasmosis and cytomegalovirus infection in Belgium. _Clin Infect Dis_
+
 * Jennes M, **Devleesschauwer B**, De Craeye S, Praet N, Verhelst D, Czaplicki G, Vanrobaeys M, Dorny P, Cox E. True prevalence of anti-_Toxoplasma gondii_ antibodies in Belgian pig farms. _Prev Vet Med_
 
 * Bouwknegt M, **Devleesschauwer B**, Graham H, Robertson LJ, van der Giessen J. Prioritization of foodborne parasites in Europe. _Emerg Infect Dis_
@@ -521,8 +525,6 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 * Torgerson PR, Rüegg S, **Devleesschauwer B**, Abela-Ridder B, Havelaar AH, Shaw A, Rushton J, Speybroeck N. zDALY: an adjusted indicator for the burden of zoonotic diseases. _PLOS Negl Trop Dis_
 
-* Steckling N, **Devleesschauwer B**, Winkelnkemper J, Fischer F, Ericson B, Krämer A, Hornberg C, Fuller R, Plass D, Bose-O'Reilly S. Disability weights for chronic mercury intoxication resulting from gold mining activities: results from an online pairwise comparisons survey. _Int J Environ Res Public Health_
-
 * Al-Kappany YM, Abbas IEA, **Devleesschauwer B**, Dorny P, Jennes M, Cox E. Seroprevalence of anti-_Toxoplasma gondii_ antibodies in filter paper elutes from sera of Egyptian sheep and goats. _Trop Animal Health Prod_
 
 * Zeilmaker MJ, **Devleesschauwer B**, Mengelers MJB, Brandon E, Bokkers BGH. Health impact assessment of dioxins: a global perspective. _Risk Anal_
@@ -533,7 +535,7 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 * Asale A, Huisman G, **Devleesschauwer B**, Speybroeck N, Duchateau L, Yewhalaw D. Zooprophylaxis as a malaria control strategy for _Anopheles_ arabiensis: a systematic review. _Med Vet Entomol_
 
-* Rahman AA, Smit S, **Devleesschauwer B**, Abatih E, Saegerman C, Ahmed MU, Shamsuddin M, Speybroeck N, Berkvens D. Bayesian estimation of the true exposure prevalence, sensitivity and specificity of three serological tests for the diagnosis of bovine brucellosis in Bangladesh. _Prev Vet Med_
+* Ward M, Abatih E, Saegerman C, Berkvens D, Dhand N, **Devleesschauwer B**, Rahman AA, Shamsuddin M, Smit S. Bayesian estimation of the true exposure prevalence, sensitivity and specificity of three serological tests for the diagnosis of bovine brucellosis in Bangladesh. _Prev Vet Med_
 
 
 
@@ -659,4 +661,4 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 ---
 
-_Last update: 2016-12-13_
+_Last update: 2017-01-03_
