@@ -507,7 +507,9 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 
 
-### Submitted manuscripts (14)
+### Submitted manuscripts (15)
+
+* Hobbs EC, Mwape KE, **Devleesschauwer B**, Gabriël S, Chembensofu M, Phiri IK, Masuku M, Zulu G, Colston A, Willingham III AL, Chota A, Berkvens D, Dorny P, Bottieau E, Speybroeck N. _Taenia solium_ from a community perspective: baseline costing data in the Katete and Sinda districts in eastern Zambia. _Acta Trop_
 
 * Smit GSA, Padalko E, Van Acker J, Hens N, Dorny P, Speybroeck N, **Devleesschauwer B**. The public health impact of congenital toxoplasmosis and cytomegalovirus infection in Belgium. _Clin Infect Dis_
 
