@@ -389,9 +389,11 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 
 
-### Peer-reviewed papers (56)
+### Peer-reviewed papers (57)
 
 **[Google Scholar](https://scholar.google.com/citations?user=AFSxtd0AAAAJ) metrics: 615 citations &middot; h-index 15 &middot; i10-index 19**
+
+* Maertens de Noordhout C, **Devleesschauwer B**, Gielens L, Plasmans MHD, Haagsma JA, Speybroeck N (2017)  Mapping EQ-5D utilities to GBD 2010 and GBD 2013 disability weights: results of two pilot studies in Belgium. _Arch Public Health_, in press
 
 * Steckling N, **Devleesschauwer B**, Winkelnkemper J, Fischer F, Ericson B, Krämer A, Hornberg C, Fuller R, Plass D, Bose-O'Reilly S (2017)  Disability weights for chronic mercury intoxication resulting from gold mining activities: results from an online pairwise comparisons survey. _Int J Environ Res Public Health_, in press
 
@@ -507,7 +509,7 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 
 
-### Submitted manuscripts (15)
+### Submitted manuscripts (14)
 
 * Hobbs EC, Mwape KE, **Devleesschauwer B**, Gabriël S, Chembensofu M, Phiri IK, Masuku M, Zulu G, Colston A, Willingham III AL, Chota A, Berkvens D, Dorny P, Bottieau E, Speybroeck N. _Taenia solium_ from a community perspective: baseline costing data in the Katete and Sinda districts in eastern Zambia. _Acta Trop_
 
@@ -522,8 +524,6 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 * **Devleesschauwer B**, Marvasi M, Giurcanu MC, Hochmuth GJ, Speybroeck N, Havelaar AH, Teplitski M. High relative humidity pre-harvest reduces post-harvest proliferation of _Salmonella_ in tomatoes. _Food Microbiol_
 
 * Maertens de Noordhout C, **Devleesschauwer B**, Salomon JA, Turner H, Cassini A, Colzani E, Speybroeck N, Polinder S, Kretzschmar ME, Havelaar AH, Haagsma JA. Disability weights for infectious diseases in four European countries: comparison between countries and across respondent characteristics. _Eur J Public Health_
-
-* Maertens de Noordhout C, **Devleesschauwer B**, Gielens L, Plasmans MHD, Haagsma JA, Speybroeck N. Mapping EQ-5D utilities to GBD 2010 and GBD 2013 disability weights: results of two pilot studies in Belgium. _Arch Public Health_
 
 * Torgerson PR, Rüegg S, **Devleesschauwer B**, Abela-Ridder B, Havelaar AH, Shaw A, Rushton J, Speybroeck N. zDALY: an adjusted indicator for the burden of zoonotic diseases. _PLOS Negl Trop Dis_
 
