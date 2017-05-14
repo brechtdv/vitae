@@ -34,7 +34,7 @@ Rue Juliette Wytsmanstraat 14, 1050 Brussels, Belgium $\mid$ +32 2 642 5035
 \begin{itemize}
   \setlength\itemsep{-0.1em}
   \item Epidemiology, burden of disease, risk assessment, health economics;
-  \item Bayesian data analysis, true prevalence estimation, meta-analysis, disease mapping;
+  \item Bayesian data analysis, true prevalence estimation, disease transmission modeling;
   \item Zoonotic diseases, food safety, veterinary public health.
 \end{itemize}
 
@@ -44,7 +44,7 @@ Rue Juliette Wytsmanstraat 14, 1050 Brussels, Belgium $\mid$ +32 2 642 5035
   \setlength\itemsep{0em}
   \item \textbf{Senior epidemiologist}, 04/2016--present \hfill \\
     Scientific Institute of Public Health (WIV-ISP), Brussels, Belgium
-  \item \textbf{Guest lecturer, health economic evaluations}, 2016--2017 \hfill \\
+  \item \textbf{Guest lecturer, health economic evaluations}, 10/2016--present \hfill \\
     Universit\'{e} catholique de Louvain, Brussels, Belgium
   \item \textbf{Assistant scientist, global food safety and zoonoses}, 06/2015--03/2016 \hfill \\
     University of Florida, Gainesville, USA% \hfill \\
