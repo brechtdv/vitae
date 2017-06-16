@@ -17,7 +17,7 @@ Rue Juliette Wytsmanstraat 14, 1050 Brussels, Belgium | +32 2 642 5035
 ## Research interests
 
 * Epidemiology, burden of disease, risk assessment, health economics;
-* Bayesian data analysis, true prevalence estimation, meta-analysis, disease mapping;
+* Bayesian data analysis, true prevalence estimation, disease transmission modeling;
 * Zoonotic diseases, food safety, veterinary public health.
 
 ## Employment
@@ -25,7 +25,7 @@ Rue Juliette Wytsmanstraat 14, 1050 Brussels, Belgium | +32 2 642 5035
 * **Senior epidemiologist, coordinator national burden of disease studies**, 04/2016--present  
     Scientific Institute of Public Health (WIV-ISP), Brussels, Belgium
 
-* **Guest lecturer, health economic evaluations**, 2016--2017  
+* **Guest lecturer, health economic evaluations**, 10/2016--present  
     Université catholique de Louvain, Brussels, Belgium
     
 * **Assistant scientist, global food safety and zoonoses**, 06/2015--03/2016  
@@ -106,10 +106,11 @@ Rue Juliette Wytsmanstraat 14, 1050 Brussels, Belgium | +32 2 642 5035
 
 ### Contributions to peer review
 
-<!--
-* **Associate Editor, 2015**--present  
+* **Academic Editor, 2017**--present  
+    PLOS ONE
+
+* **Associate Editor, 2017**--present  
     BMC Veterinary Research, Parasitology section
--->
 
 * **Reviewer for international scientific journals**, e.g.:  
 Acta Tropica, Advances in Parasitology, Archives of Public Health, BMC Infectious Diseases, BMJ Case Reports, Bulletin of the World Health Organization, Epidemiology and Infection, Health Affairs, Parasitology International, PLOS Neglected Tropical Diseases, PLOS ONE, Risk Analysis, The Lancet, Transactions of the Royal Society of Tropical Medicine &amp; Hygiene, Vector-Borne and Zoonotic Diseases
@@ -269,7 +270,7 @@ Nepali   | +        | +       | +
     Burden assessment of _Taenia solium_ cysticercosis in Tanzania
 
 
-### (Co)supervisor of 18 MSc students
+### (Co)supervisor of 20 MSc students
 *  Kinda Atiyeh, MSc Public Health, Université catholique de Louvain, 2016--17  
 Overall and cause-specific mortality in Belgium (original research)  
 Promoters: Speybroeck N, **Devleesschauwer B** 
@@ -277,6 +278,14 @@ Promoters: Speybroeck N, **Devleesschauwer B**
 *  Angela Vega Rodriguez, MSc Public Health, Université catholique de Louvain, 2016--17  
 The burden of diabetes in Belgium and Spain (original research)  
 Promoters: Speybroeck N, **Devleesschauwer B** 
+
+*  Damien Blondeau, MSc Veterinary Medicine, Ghent University, 2016--17  
+The disease burden of Yersinia enterocolitica in Belgium (original research)  
+Promoters: Houf K, **Devleesschauwer B** 
+
+*  Jade Vincent Membrebe, MSc Statistics, Hasselt University, 2016--17  
+Development of an incidence-prevalence-mortality model (original research)  
+Promoters: Shkedy Z, **Devleesschauwer B** 
 
 *  Louise Vanhecke, MSc Veterinary Medicine, Ghent University, 2015--16  
 Vector-borne diseases in Nepal (literature review)  
@@ -389,15 +398,27 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 
 
-### Peer-reviewed papers (57)
+### Peer-reviewed papers (63)
 
-**[Google Scholar](https://scholar.google.com/citations?user=AFSxtd0AAAAJ) metrics: 615 citations &middot; h-index 15 &middot; i10-index 19**
+**[Google Scholar](https://scholar.google.com/citations?user=AFSxtd0AAAAJ) metrics: 914 citations &middot; h-index 15 &middot; i10-index 28**
 
-* Maertens de Noordhout C, **Devleesschauwer B**, Gielens L, Plasmans MHD, Haagsma JA, Speybroeck N (2017)  Mapping EQ-5D utilities to GBD 2010 and GBD 2013 disability weights: results of two pilot studies in Belgium. _Arch Public Health_, in press
+* Maertens de Noordhout C, **Devleesschauwer B**, Salomon JA, Turner H, Cassini A, Colzani E, Speybroeck N, Polinder S, Kretzschmar ME, Havelaar AH, Haagsma JA (2017)  Disability weights for infectious diseases in four European countries: comparison between countries and across respondent characteristics. _Eur J Public Health_, in press
 
-* Steckling N, **Devleesschauwer B**, Winkelnkemper J, Fischer F, Ericson B, Krämer A, Hornberg C, Fuller R, Plass D, Bose-O'Reilly S (2017)  Disability weights for chronic mercury intoxication resulting from gold mining activities: results from an online pairwise comparisons survey. _Int J Environ Res Public Health_, in press
+* Gómez-Morales MA, Gárate T, Blocher J, **Devleesschauwer B**, Smit GSA, Schmidt V, Pereguer MJ, Ludovisi A, Pozio E, Dorny P, Gabriël S, Winkler AS (2017)  Present status of laboratory diagnosis of human taeniosis/cysticercosis in Europe. _Eur J Clin Microbiol Infect Dis_, in press
 
-* Renard F, Gadeyne S, **Devleesschauwer B**, Tafforeau J, De Boosere P (2017)  Trends in educational inequalities in premature mortality in Belgium between the 1990s and the 2000s: the contribution of specific causes of deaths. _J Epidemiol Community Health_, in press. doi: [10.1136/jech-2016-208370 ](http://dx.doi.org/10.1136/jech-2016-208370 )
+* Maertens de Noordhout C, **Devleesschauwer B**, Haagsma JA, Havelaar AH, Bertrand S, Vandenberg O, Quoilin S, Brandt PT, Speybroeck N (2017)  Current and future burden of salmonellosis, campylobacteriosis and listeriosis in Belgium: a time series analysis. _Euro Surveill_, in press
+
+* Smit GSA, Padalko E, Van Acker J, Hens N, Dorny P, Speybroeck N, **Devleesschauwer B** (2017)  The public health impact of congenital toxoplasmosis and cytomegalovirus infection in Belgium. _Clin Infect Dis_, in press. doi: [10.1093/cid/cix344](http://dx.doi.org/10.1093/cid/cix344)
+
+* **Devleesschauwer B**, Marvasi M, Giurcanu MC, Hochmuth GJ, Speybroeck N, Havelaar AH, Teplitski M (2017)  High relative humidity pre-harvest reduces post-harvest proliferation of _Salmonella_ in tomatoes. _Food Microbiol_ 66:55-63. doi: [10.1016/j.fm.2017.04.003](http://dx.doi.org/10.1016/j.fm.2017.04.003)
+
+* Smit GSA, Vu Thi Lam B, Do Trung D, Speybroeck N, **Devleesschauwer B**, Padalko E, Roets E, Dorny P (2017)  Prenatal diagnosis and prevention of toxoplasmosis in pregnant women in Northern Vietnam: study protocol. _BMC Infect Dis_ 17:364. doi: [10.1186/s12879-017-2446-1](http://dx.doi.org/10.1186/s12879-017-2446-1)
+
+* Renard F, Gadeyne S, **Devleesschauwer B**, Tafforeau J, De Boosere P (2017)  Trends in educational inequalities in premature mortality in Belgium between the 1990s and the 2000s: the contribution of specific causes of deaths. _J Epidemiol Community Health_ 71:371-380. doi: [10.1136/jech-2016-208370 ](http://dx.doi.org/10.1136/jech-2016-208370 )
+
+* Maertens de Noordhout C, **Devleesschauwer B**, Gielens L, Plasmans MHD, Haagsma JA, Speybroeck N (2017)  Mapping EQ-5D utilities to GBD 2010 and GBD 2013 disability weights: results of two pilot studies in Belgium. _Arch Public Health_ 75:6. doi: [10.1186/s13690-017-0174-z](http://dx.doi.org/10.1186/s13690-017-0174-z)
+
+* Steckling N, **Devleesschauwer B**, Winkelnkemper J, Fischer F, Ericson B, Krämer A, Hornberg C, Fuller R, Plass D, Bose-O'Reilly S (2017)  Disability weights for chronic mercury intoxication resulting from gold mining activities: results from an online pairwise comparisons survey. _Int J Environ Res Public Health_ 14:57. doi: [10.3390/ijerph14010057](http://dx.doi.org/10.3390/ijerph14010057)
 
 * Smit GSA, Apers L, Arrazole de Onate W, Beutels P, Dorny P, Forier A-M, Janssens K, Macq J, Mak R, Schol S, Wildemeersch D, Speybroeck N, **Devleesschauwer B** (2017)  Cost-effectiveness of screening for active cases of tuberculosis in Flanders, Belgium. _Bull World Health Org_ 95:27-35. doi: [10.2471/BLT.16.169383](http://dx.doi.org/10.2471/BLT.16.169383)
 
@@ -509,29 +530,27 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 
 
-### Submitted manuscripts (14)
+### Submitted manuscripts (13)
 
-* Hobbs EC, Mwape KE, **Devleesschauwer B**, Gabriël S, Chembensofu M, Phiri IK, Masuku M, Zulu G, Colston A, Willingham III AL, Chota A, Berkvens D, Dorny P, Bottieau E, Speybroeck N. _Taenia solium_ from a community perspective: baseline costing data in the Katete and Sinda districts in eastern Zambia. _Acta Trop_
+* Laranjo-González M, **Devleesschauwer B**, Trevisan C, Allepuz A, Sotiraki S, Abraham A, Boaventura Afonso M, Blocher J, Cardoso L, Manuel Correia da Costa J, Dorny P, Gabriël S, Gomes J, Ángeles Gómez-Morales M, Jokelainen P, Kaminski M, Krt B, Magnussen P, Robertson LJ, Schmidt V, Schmutzhard E, Smit SA, oba B, Stensvold CR, Staric J, Troell K, Vergles Rataj A, Vieira-Pinto M, Vilhena M, Wardrop NA, Winkler AS, Dermauw V. Epidemiology of taeniosis/cysticercosis in Europe, a systematic review: Part I, Western Europe. _Parasit Vectors_
 
-* Smit GSA, Padalko E, Van Acker J, Hens N, Dorny P, Speybroeck N, **Devleesschauwer B**. The public health impact of congenital toxoplasmosis and cytomegalovirus infection in Belgium. _Clin Infect Dis_
+* Deng H, **Devleesschauwer B**, Liu M, Li J, Wu Y, van der Giessen J, Opsteegh M. Seroprevalence of _Toxoplasma gondii_ in pregnant women and livestock in the mainland of China: a systematic review and hierarchical meta-analysis. _Sci Rep_
 
-* Jennes M, **Devleesschauwer B**, De Craeye S, Praet N, Verhelst D, Czaplicki G, Vanrobaeys M, Dorny P, Cox E. True prevalence of anti-_Toxoplasma gondii_ antibodies in Belgian pig farms. _Prev Vet Med_
+* Renard F, **Devleesschauwer B**, Gadeyne S, Tafforeau J, Deboosere P. Educational inequalities in premature mortality by region in the Belgian population in the 2000s. _Arch Public Health_
 
-* Bouwknegt M, **Devleesschauwer B**, Graham H, Robertson LJ, van der Giessen J. Prioritization of foodborne parasites in Europe. _Emerg Infect Dis_
+* Hoffmann S, **Devleesschauwer B**, Aspinall W, Cooke R, Corrigan T, Havelaar AH, Angulo FJ, Gibb HJ, Kirk MD, Lake RJ, Speybroeck N, Torgerson PR, Hald T. Estimates of the relative role of specific food categories in causing major foodborne enteric diseases around the world: Findings from a World Health Organization structured expert elicitation. _PLOS ONE_
 
-* Smit GSA, Vu Thi Lam B, Do Trung D, Speybroeck N, **Devleesschauwer B**, Padalko E, Roets E, Dorny P. Prenatal diagnosis and prevention of toxoplasmosis in pregnant women in Northern Vietnam: study protocol. _BMC Infect Dis_
+* Charafeddine R, Demarest S, Cleemput I, Van Oyen H, **Devleesschauwer B**. Gender and educational differences in the association between smoking and health-related quality of life in Belgium. _Prev Med_
 
-* **Devleesschauwer B**, Marvasi M, Giurcanu MC, Hochmuth GJ, Speybroeck N, Havelaar AH, Teplitski M. High relative humidity pre-harvest reduces post-harvest proliferation of _Salmonella_ in tomatoes. _Food Microbiol_
+* Jennes M, **Devleesschauwer B**, De Craeye S, Praet N, Verhelst D, Czaplicki G, Vanrobaeys M, Dorny P, Cox E. True prevalence of anti-_Toxoplasma gondii_ antibodies in Belgian pig farms. _Vet Parasitol_
 
-* Maertens de Noordhout C, **Devleesschauwer B**, Salomon JA, Turner H, Cassini A, Colzani E, Speybroeck N, Polinder S, Kretzschmar ME, Havelaar AH, Haagsma JA. Disability weights for infectious diseases in four European countries: comparison between countries and across respondent characteristics. _Eur J Public Health_
+* Bouwknegt M, **Devleesschauwer B**, Graham H, Robertson LJ, van der Giessen J. Prioritization of foodborne parasites in Europe. _Euro Surveill_
 
 * Torgerson PR, Rüegg S, **Devleesschauwer B**, Abela-Ridder B, Havelaar AH, Shaw A, Rushton J, Speybroeck N. zDALY: an adjusted indicator for the burden of zoonotic diseases. _PLOS Negl Trop Dis_
 
 * Al-Kappany YM, Abbas IEA, **Devleesschauwer B**, Dorny P, Jennes M, Cox E. Seroprevalence of anti-_Toxoplasma gondii_ antibodies in filter paper elutes from sera of Egyptian sheep and goats. _Trop Animal Health Prod_
 
 * Zeilmaker MJ, **Devleesschauwer B**, Mengelers MJB, Brandon E, Bokkers BGH. Health impact assessment of dioxins: a global perspective. _Risk Anal_
-
-* Maertens de Noordhout C, **Devleesschauwer B**, Haagsma JA, Havelaar AH, Bertrand S, Vandenberg O, Quoilin S, Brandt PT, Speybroeck N. Current and future burden of salmonellosis, campylobacteriosis and listeriosis in Belgium: a time series analysis. _Euro Surveill_
 
 * Goudet S, Jayaraman A, Chanani S, Osrin D, **Devleesschauwer B**, Bogin B, Madise N, Griffiths P. Cost effectiveness of a programme for community management of acute malnutrition in Mumbai slums, India. _Cost Eff Resour Alloc_
 
@@ -541,7 +560,7 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 
 
-### Oral presentations (26)
+### Oral presentations (27)
 
 * Hobbs EC, Mwape KE, Zulu G, Mambwe M, Chembensofu M, Phiri IK, Masuku M, Berkvens D, Bottieau E, **Devleesschauwer B**, Speybroeck N, Colston A, Willingham AL, Dorny P, Gabriël S (2016)  Assessment of the computer-based _Taenia solium_ educational program 'The Vicious Worm' on knowledge update in primary school children in Katete district in Eastern Zambia. Presented at the _6th CYSTINET Working Group Meeting_; 27 Sep 2016; Ljubljana, Slovenia.
 
@@ -552,6 +571,8 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 * Hoffmann S, Cooke R, Aspinall W, **Devleesschauwer B**, Hald T (2016)  Global food attribution estimates for 11 major pathogens for the global burden of foodborne disease initiative. Presented at the _IAFP 2016_; 3 Aug 2016; St. Louis, MO, USA.
 
 * **Devleesschauwer B** (2016)  Methodology to estimate disease burden. Presented at the _IAFP 2016_; 3 Aug 2016; St. Louis, MO, USA.
+
+* Trevisan C, **Devleesschauwer B**, Schmidt V, Winkler AS, Harrison W, Johansen MV (2016)  The societal cost of _Taenia solium_ cysticercosis in Tanzania. Presented at the _29th Joint Congress of the Italian Society of Parasitoloty (SOIPA) and European Veterinary College_; 21-24 Jun 2016; Bari, Italy.
 
 * Hoffmann S, Cooke R, Aspinall W, **Devleesschauwer B**, Cawthorne A, Hald T (2016)  Estimates of the global burden of foodborne disease and their implications for international benefits assessment. Presented at the _8th Annual Conference of the Society for Benefit-Cost Analysis_; 17 Mar 2016; Washington, DC, USA.
 
@@ -663,4 +684,4 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 ---
 
-_Last update: 2017-01-03_
+_Last update: 2017-06-16_

@@ -107,6 +107,8 @@ for (i in seq(nrow(db))) {
 \subsection{Contributions to peer review}
 \begin{itemize}
   \setlength\itemsep{0em}
+  \item \textbf{Academic Editor}, 2017--present\hfill \\
+    PLOS ONE
   \item \textbf{Associate Editor}, 2017--present\hfill \\
     BMC Veterinary Research, Parasitology section
   \item \textbf{Reviewer for international scientific journals}, e.g.:\hfill \\
