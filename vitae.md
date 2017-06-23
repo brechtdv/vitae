@@ -400,7 +400,7 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 ### Peer-reviewed papers (63)
 
-**[Google Scholar](https://scholar.google.com/citations?user=AFSxtd0AAAAJ) metrics: 914 citations &middot; h-index 15 &middot; i10-index 28**
+**[Google Scholar](https://scholar.google.com/citations?user=AFSxtd0AAAAJ) metrics: 930 citations &middot; h-index 15 &middot; i10-index 28**
 
 * Maertens de Noordhout C, **Devleesschauwer B**, Salomon JA, Turner H, Cassini A, Colzani E, Speybroeck N, Polinder S, Kretzschmar ME, Havelaar AH, Haagsma JA (2017)  Disability weights for infectious diseases in four European countries: comparison between countries and across respondent characteristics. _Eur J Public Health_, in press
 
@@ -530,7 +530,9 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 
 
-### Submitted manuscripts (13)
+### Submitted manuscripts (14)
+
+* Braae UC, **Devleesschauwer B**, Sithole F, Wang Z, Willingham AL. Occurrence of _Taenia solium_ taeniosis/cysticercosis and areas at risk of porcine cysticercosis in Central America and the Caribbean basin. _Am J Trop Med Hyg_
 
 * Laranjo-González M, **Devleesschauwer B**, Trevisan C, Allepuz A, Sotiraki S, Abraham A, Boaventura Afonso M, Blocher J, Cardoso L, Manuel Correia da Costa J, Dorny P, Gabriël S, Gomes J, Ángeles Gómez-Morales M, Jokelainen P, Kaminski M, Krt B, Magnussen P, Robertson LJ, Schmidt V, Schmutzhard E, Smit SA, oba B, Stensvold CR, Staric J, Troell K, Vergles Rataj A, Vieira-Pinto M, Vilhena M, Wardrop NA, Winkler AS, Dermauw V. Epidemiology of taeniosis/cysticercosis in Europe, a systematic review: Part I, Western Europe. _Parasit Vectors_
 
@@ -684,4 +686,4 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 ---
 
-_Last update: 2017-06-16_
+_Last update: 2017-06-23_
