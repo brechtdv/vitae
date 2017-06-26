@@ -398,9 +398,11 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 
 
-### Peer-reviewed papers (63)
+### Peer-reviewed papers (64)
 
-**[Google Scholar](https://scholar.google.com/citations?user=AFSxtd0AAAAJ) metrics: 930 citations &middot; h-index 15 &middot; i10-index 28**
+**[Google Scholar](https://scholar.google.com/citations?user=AFSxtd0AAAAJ) metrics: 942 citations &middot; h-index 15 &middot; i10-index 27**
+
+* Laranjo-González M, **Devleesschauwer B**, Trevisan C, Allepuz A, Sotiraki S, Abraham A, Boaventura Afonso M, Blocher J, Cardoso L, Manuel Correia da Costa J, Dorny P, Gabriël S, Gomes J, Ángeles Gómez-Morales M, Jokelainen P, Kaminski M, Krt B, Magnussen P, Robertson LJ, Schmidt V, Schmutzhard E, Smit SA, oba B, Stensvold CR, Staric J, Troell K, Vergles Rataj A, Vieira-Pinto M, Vilhena M, Wardrop NA, Winkler AS, Dermauw V (2017)  Epidemiology of taeniosis/cysticercosis in Europe, a systematic review: Part I, Western Europe. _Parasit Vectors_, in press
 
 * Maertens de Noordhout C, **Devleesschauwer B**, Salomon JA, Turner H, Cassini A, Colzani E, Speybroeck N, Polinder S, Kretzschmar ME, Havelaar AH, Haagsma JA (2017)  Disability weights for infectious diseases in four European countries: comparison between countries and across respondent characteristics. _Eur J Public Health_, in press
 
@@ -530,11 +532,13 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 
 
-### Submitted manuscripts (14)
+### Submitted manuscripts (15)
 
-* Braae UC, **Devleesschauwer B**, Sithole F, Wang Z, Willingham AL. Occurrence of _Taenia solium_ taeniosis/cysticercosis and areas at risk of porcine cysticercosis in Central America and the Caribbean basin. _Am J Trop Med Hyg_
+* Moyersoen I, **Devleesschauwer B**, Dekkers A, De Ridder K, Tafforeau J, Van Camp J, Van Oyen H, Lachat C. Contribution of fortified foods and supplements to the adequacy of fat soluble vitamin intake in the Belgian population. _Nutrients_
 
-* Laranjo-González M, **Devleesschauwer B**, Trevisan C, Allepuz A, Sotiraki S, Abraham A, Boaventura Afonso M, Blocher J, Cardoso L, Manuel Correia da Costa J, Dorny P, Gabriël S, Gomes J, Ángeles Gómez-Morales M, Jokelainen P, Kaminski M, Krt B, Magnussen P, Robertson LJ, Schmidt V, Schmutzhard E, Smit SA, oba B, Stensvold CR, Staric J, Troell K, Vergles Rataj A, Vieira-Pinto M, Vilhena M, Wardrop NA, Winkler AS, Dermauw V. Epidemiology of taeniosis/cysticercosis in Europe, a systematic review: Part I, Western Europe. _Parasit Vectors_
+* Mfueni E, **Devleesschauwer B**, Van Malderen C, Rosas-Aguirre A, Brandt P, Dorsey G, Ogutu B, Snow RW, Tshilolo L, Zurovac D, Vanderelst D, Speybroeck N. True malaria prevalence in children under five: Bayesian estimation using data of malaria household surveys from three sub-Saharan countries. _Malar J_
+
+* Braae UC, **Devleesschauwer B**, Sithole F, Wang Z, Willingham AL. Occurrence of _Taenia solium_ taeniosis/cysticercosis and areas at risk of porcine cysticercosis in Central America and the Caribbean basin. _Parasit Vectors_
 
 * Deng H, **Devleesschauwer B**, Liu M, Li J, Wu Y, van der Giessen J, Opsteegh M. Seroprevalence of _Toxoplasma gondii_ in pregnant women and livestock in the mainland of China: a systematic review and hierarchical meta-analysis. _Sci Rep_
 
@@ -686,4 +690,4 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 ---
 
-_Last update: 2017-06-23_
+_Last update: 2017-06-26_
