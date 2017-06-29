@@ -398,9 +398,11 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 
 
-### Peer-reviewed papers (64)
+### Peer-reviewed papers (65)
 
-**[Google Scholar](https://scholar.google.com/citations?user=AFSxtd0AAAAJ) metrics: 942 citations &middot; h-index 15 &middot; i10-index 27**
+**[Google Scholar](https://scholar.google.com/citations?user=AFSxtd0AAAAJ) metrics: 953 citations &middot; h-index 15 &middot; i10-index 27**
+
+* Renard F, **Devleesschauwer B**, Gadeyne S, Tafforeau J, Deboosere P (2017)  Educational inequalities in premature mortality by region in the Belgian population in the 2000s. _Arch Public Health_, in press
 
 * Laranjo-González M, **Devleesschauwer B**, Trevisan C, Allepuz A, Sotiraki S, Abraham A, Boaventura Afonso M, Blocher J, Cardoso L, Manuel Correia da Costa J, Dorny P, Gabriël S, Gomes J, Ángeles Gómez-Morales M, Jokelainen P, Kaminski M, Krt B, Magnussen P, Robertson LJ, Schmidt V, Schmutzhard E, Smit SA, oba B, Stensvold CR, Staric J, Troell K, Vergles Rataj A, Vieira-Pinto M, Vilhena M, Wardrop NA, Winkler AS, Dermauw V (2017)  Epidemiology of taeniosis/cysticercosis in Europe, a systematic review: Part I, Western Europe. _Parasit Vectors_, in press
 
@@ -532,7 +534,7 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 
 
-### Submitted manuscripts (15)
+### Submitted manuscripts (14)
 
 * Moyersoen I, **Devleesschauwer B**, Dekkers A, De Ridder K, Tafforeau J, Van Camp J, Van Oyen H, Lachat C. Contribution of fortified foods and supplements to the adequacy of fat soluble vitamin intake in the Belgian population. _Nutrients_
 
@@ -541,8 +543,6 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 * Braae UC, **Devleesschauwer B**, Sithole F, Wang Z, Willingham AL. Occurrence of _Taenia solium_ taeniosis/cysticercosis and areas at risk of porcine cysticercosis in Central America and the Caribbean basin. _Parasit Vectors_
 
 * Deng H, **Devleesschauwer B**, Liu M, Li J, Wu Y, van der Giessen J, Opsteegh M. Seroprevalence of _Toxoplasma gondii_ in pregnant women and livestock in the mainland of China: a systematic review and hierarchical meta-analysis. _Sci Rep_
-
-* Renard F, **Devleesschauwer B**, Gadeyne S, Tafforeau J, Deboosere P. Educational inequalities in premature mortality by region in the Belgian population in the 2000s. _Arch Public Health_
 
 * Hoffmann S, **Devleesschauwer B**, Aspinall W, Cooke R, Corrigan T, Havelaar AH, Angulo FJ, Gibb HJ, Kirk MD, Lake RJ, Speybroeck N, Torgerson PR, Hald T. Estimates of the relative role of specific food categories in causing major foodborne enteric diseases around the world: Findings from a World Health Organization structured expert elicitation. _PLOS ONE_
 
@@ -690,4 +690,4 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 ---
 
-_Last update: 2017-06-26_
+_Last update: 2017-06-29_
