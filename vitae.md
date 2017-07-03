@@ -534,7 +534,7 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 
 
-### Submitted manuscripts (14)
+### Submitted manuscripts (15)
 
 * Al-Kappany YM, Abbas IEA, **Devleesschauwer B**, Dorny P, Jennes M, Cox E. Seroprevalence of anti-_Toxoplasma gondii_ antibodies in filter paper elutes from sera of Egyptian sheep and goats. _Zoonoses Public Health_
 
@@ -543,6 +543,8 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 * Mfueni E, **Devleesschauwer B**, Van Malderen C, Rosas-Aguirre A, Brandt P, Dorsey G, Ogutu B, Snow RW, Tshilolo L, Zurovac D, Vanderelst D, Speybroeck N. True malaria prevalence in children under five: Bayesian estimation using data of malaria household surveys from three sub-Saharan countries. _Malar J_
 
 * Braae UC, **Devleesschauwer B**, Sithole F, Wang Z, Willingham AL. Occurrence of _Taenia solium_ taeniosis/cysticercosis and areas at risk of porcine cysticercosis in Central America and the Caribbean basin. _Parasit Vectors_
+
+* Bechthold A, Boeing H, Schwedhelm C, Hoffmann G, Knüppel S, Iqbal K, De Henauw S, Michels N, **Devleesschauwer B**, Schlesinger S, Schwingshackl L. Food groups and risk of coronary heart disease, stroke and heart failure: a systematic review and dose-response meta-analysis of prospective studies. _J Am Heart Assoc_
 
 * Deng H, **Devleesschauwer B**, Liu M, Li J, Wu Y, van der Giessen J, Opsteegh M. Seroprevalence of _Toxoplasma gondii_ in pregnant women and livestock in the mainland of China: a systematic review and hierarchical meta-analysis. _Sci Rep_
 
