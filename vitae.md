@@ -400,7 +400,9 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 ### Peer-reviewed papers (65)
 
-**[Google Scholar](https://scholar.google.com/citations?user=AFSxtd0AAAAJ) metrics: 953 citations &middot; h-index 15 &middot; i10-index 27**
+**[Google Scholar](https://scholar.google.com/citations?user=AFSxtd0AAAAJ) metrics: 958 citations &middot; h-index 15 &middot; i10-index 27**
+
+* Maertens de Noordhout C, **Devleesschauwer B**, Haagsma JA, Havelaar AH, Bertrand S, Vandenberg O, Quoilin S, Brandt PT, Speybroeck N (2017)  Current and future burden of salmonellosis, campylobacteriosis and listeriosis in Belgium: a time series analysis. _Euro Surveill_, in press
 
 * Renard F, **Devleesschauwer B**, Gadeyne S, Tafforeau J, Deboosere P (2017)  Educational inequalities in premature mortality by region in the Belgian population in the 2000s. _Arch Public Health_, in press
 
@@ -408,9 +410,7 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 * Maertens de Noordhout C, **Devleesschauwer B**, Salomon JA, Turner H, Cassini A, Colzani E, Speybroeck N, Polinder S, Kretzschmar ME, Havelaar AH, Haagsma JA (2017)  Disability weights for infectious diseases in four European countries: comparison between countries and across respondent characteristics. _Eur J Public Health_, in press
 
-* Gómez-Morales MA, Gárate T, Blocher J, **Devleesschauwer B**, Smit GSA, Schmidt V, Pereguer MJ, Ludovisi A, Pozio E, Dorny P, Gabriël S, Winkler AS (2017)  Present status of laboratory diagnosis of human taeniosis/cysticercosis in Europe. _Eur J Clin Microbiol Infect Dis_, in press
-
-* Maertens de Noordhout C, **Devleesschauwer B**, Haagsma JA, Havelaar AH, Bertrand S, Vandenberg O, Quoilin S, Brandt PT, Speybroeck N (2017)  Current and future burden of salmonellosis, campylobacteriosis and listeriosis in Belgium: a time series analysis. _Euro Surveill_, in press
+* Gómez-Morales MA, Gárate T, Blocher J, **Devleesschauwer B**, Smit GSA, Schmidt V, Pereguer MJ, Ludovisi A, Pozio E, Dorny P, Gabriël S, Winkler AS (2017)  Present status of laboratory diagnosis of human taeniosis/cysticercosis in Europe. _Eur J Clin Microbiol Infect Dis_, in press. doi: [10.1007/s10096-017-3029-1](http://dx.doi.org/10.1007/s10096-017-3029-1)
 
 * Smit GSA, Padalko E, Van Acker J, Hens N, Dorny P, Speybroeck N, **Devleesschauwer B** (2017)  The public health impact of congenital toxoplasmosis and cytomegalovirus infection in Belgium. _Clin Infect Dis_, in press. doi: [10.1093/cid/cix344](http://dx.doi.org/10.1093/cid/cix344)
 
@@ -536,6 +536,8 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 ### Submitted manuscripts (14)
 
+* Al-Kappany YM, Abbas IEA, **Devleesschauwer B**, Dorny P, Jennes M, Cox E. Seroprevalence of anti-_Toxoplasma gondii_ antibodies in filter paper elutes from sera of Egyptian sheep and goats. _Zoonoses Public Health_
+
 * Moyersoen I, **Devleesschauwer B**, Dekkers A, De Ridder K, Tafforeau J, Van Camp J, Van Oyen H, Lachat C. Contribution of fortified foods and supplements to the adequacy of fat soluble vitamin intake in the Belgian population. _Nutrients_
 
 * Mfueni E, **Devleesschauwer B**, Van Malderen C, Rosas-Aguirre A, Brandt P, Dorsey G, Ogutu B, Snow RW, Tshilolo L, Zurovac D, Vanderelst D, Speybroeck N. True malaria prevalence in children under five: Bayesian estimation using data of malaria household surveys from three sub-Saharan countries. _Malar J_
@@ -553,8 +555,6 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 * Bouwknegt M, **Devleesschauwer B**, Graham H, Robertson LJ, van der Giessen J. Prioritization of foodborne parasites in Europe. _Euro Surveill_
 
 * Torgerson PR, Rüegg S, **Devleesschauwer B**, Abela-Ridder B, Havelaar AH, Shaw A, Rushton J, Speybroeck N. zDALY: an adjusted indicator for the burden of zoonotic diseases. _PLOS Negl Trop Dis_
-
-* Al-Kappany YM, Abbas IEA, **Devleesschauwer B**, Dorny P, Jennes M, Cox E. Seroprevalence of anti-_Toxoplasma gondii_ antibodies in filter paper elutes from sera of Egyptian sheep and goats. _Trop Animal Health Prod_
 
 * Zeilmaker MJ, **Devleesschauwer B**, Mengelers MJB, Brandon E, Bokkers BGH. Health impact assessment of dioxins: a global perspective. _Risk Anal_
 
@@ -690,4 +690,4 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 ---
 
-_Last update: 2017-06-29_
+_Last update: 2017-07-03_
