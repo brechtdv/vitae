@@ -400,11 +400,11 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 ### Peer-reviewed papers (65)
 
-**[Google Scholar](https://scholar.google.com/citations?user=AFSxtd0AAAAJ) metrics: 958 citations &middot; h-index 15 &middot; i10-index 27**
+**[Google Scholar](https://scholar.google.com/citations?user=AFSxtd0AAAAJ) metrics: 963 citations &middot; h-index 15 &middot; i10-index 27**
 
 * Maertens de Noordhout C, **Devleesschauwer B**, Haagsma JA, Havelaar AH, Bertrand S, Vandenberg O, Quoilin S, Brandt PT, Speybroeck N (2017)  Current and future burden of salmonellosis, campylobacteriosis and listeriosis in Belgium: a time series analysis. _Euro Surveill_, in press
 
-* Renard F, **Devleesschauwer B**, Gadeyne S, Tafforeau J, Deboosere P (2017)  Educational inequalities in premature mortality by region in the Belgian population in the 2000s. _Arch Public Health_, in press
+* Renard F, **Devleesschauwer B**, Gadeyne S, Tafforeau J, Deboosere P (2017)  Educational inequalities in premature mortality by region in the Belgian population in the 2000s. _Arch Public Health_, in press. doi: [10.1186/s13690-017-0212-x](http://dx.doi.org/10.1186/s13690-017-0212-x)
 
 * Laranjo-González M, **Devleesschauwer B**, Trevisan C, Allepuz A, Sotiraki S, Abraham A, Boaventura Afonso M, Blocher J, Cardoso L, Manuel Correia da Costa J, Dorny P, Gabriël S, Gomes J, Ángeles Gómez-Morales M, Jokelainen P, Kaminski M, Krt B, Magnussen P, Robertson LJ, Schmidt V, Schmutzhard E, Smit SA, oba B, Stensvold CR, Staric J, Troell K, Vergles Rataj A, Vieira-Pinto M, Vilhena M, Wardrop NA, Winkler AS, Dermauw V (2017)  Epidemiology of taeniosis/cysticercosis in Europe, a systematic review: Part I, Western Europe. _Parasit Vectors_, in press
 
@@ -692,4 +692,4 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 ---
 
-_Last update: 2017-07-03_
+_Last update: 2017-07-04_
