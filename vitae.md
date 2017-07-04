@@ -534,7 +534,9 @@ Promoters: **Devleesschauwer B**, Speybroeck N
 
 
 
-### Submitted manuscripts (15)
+### Submitted manuscripts (16)
+
+* Trevisan C, **Devleesschauwer B**, Praet N, Pondja A, Assane YA, Dorny P, Thamsborg SM, Magnussen P, Johansen MV. Assessment of the societal cost of _Taenia solium_ in Angónia district, Mozambique. _Infect Dis Poverty_
 
 * Al-Kappany YM, Abbas IEA, **Devleesschauwer B**, Dorny P, Jennes M, Cox E. Seroprevalence of anti-_Toxoplasma gondii_ antibodies in filter paper elutes from sera of Egyptian sheep and goats. _Zoonoses Public Health_
 
