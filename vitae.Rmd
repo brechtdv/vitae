@@ -101,6 +101,9 @@ cat(sanitize_specials(paste(sort(journals), collapse = ", "), "html"))
 
 ### Participation in international projects
 
+* **Country representative**, 2016--present   
+    European Burden of Disease Network (WHO/EURO, IHME)
+    
 * **Epidemiology workgroup leader**, 2013--present   
     EU COST action TD1302 CYSTINET---[www.cystinet.org](http://www.cystinet.org)
 

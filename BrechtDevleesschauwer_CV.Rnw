@@ -121,6 +121,9 @@ cat(sanitize_specials(paste(sort(journals), collapse = ", "), "latex"))
 
 \subsection{Participation in international projects}
 \begin{itemize}
+  \item \textbf{Country representative}, 2016--present \hfill \\
+    European Burden of Disease Network (WHO/EURO, IHME)
+    
   \item \textbf{Epidemiology workgroup leader}, 2013--present \hfill \\
     EU COST action TD1302 CYSTINET---\href{http://www.cystinet.org}{www.cystinet.org}
     
