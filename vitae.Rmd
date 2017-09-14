@@ -72,7 +72,7 @@ Rue Juliette Wytsmanstraat 14, 1050 Brussels, Belgium | +32 2 642 5035
 ### Short courses
 
 ```{r, echo=FALSE, results='asis', message=FALSE}
-db <- readWorksheetFromFile("short_courses.xlsx", "index")
+db <- read_excel("short_courses.xlsx", "index")
 db <- db[order(db$title), ]
 db <- db[order(db$year, decreasing = TRUE), ]
 
@@ -258,9 +258,8 @@ Nepali   | +        | +       | +
 
 
 ```{r, echo=FALSE, results='asis', message=FALSE}
-wb <- loadWorkbook("students.xlsx")
-setMissingValue(wb, value = "NA")
-db <- readWorksheet(wb, sheet = "students")
+db <- read_excel("students.xlsx", "students", na = "NA")
+class(db) <- "data.frame"
 
 db_msc <- db[db$grade == "MSc", ]
 db_msc <- db_msc[order(db_msc$year, decreasing = TRUE), ]
@@ -280,10 +279,9 @@ for (i in seq(nrow(db_bsc)))
 ## Scientific output
 
 ```{r, echo=FALSE, message=FALSE}
-wb <- loadWorkbook("publications.xlsx")
-setMissingValue(wb, value = "NA")
+db <- read_excel("publications.xlsx", "chapters", na = "NA")
+class(db) <- "data.frame"
 
-db <- readWorksheet(wb, sheet = "chapters")
 db <- db[order(db$title), ]
 db <- db[order(db$date, decreasing = TRUE), ]
 ```
@@ -297,10 +295,9 @@ for (i in seq(nrow(db))) print_chapter(db[i, ], nrow(db) - i + 1)
 ```
 
 ```{r, echo=FALSE, message=FALSE}
-wb <- loadWorkbook("publications.xlsx")
-setMissingValue(wb, value = "NA")
+db <- read_excel("publications.xlsx", "papers", na = "NA")
+class(db) <- "data.frame"
 
-db <- readWorksheet(wb, sheet = "papers")
 db <- db[order(db$title), ]
 db <- db[order(db$date, decreasing = TRUE), ]
 db <- db[order(!is.na(db$volume)), ]
@@ -317,7 +314,9 @@ for (i in seq(nrow(db))) print_article(db[i, ], nrow(db) - i + 1)
 ```
 
 ```{r, echo=FALSE, message=FALSE}
-db <- readWorksheet(wb, sheet = "submitted")
+db <- read_excel("publications.xlsx", "submitted", na = "NA")
+class(db) <- "data.frame"
+
 db <- db[order(db$title), ]
 db <- db[order(db$date, decreasing = TRUE), ]
 ```
@@ -331,10 +330,9 @@ for (i in seq(nrow(db))) print_article(db[i, ], nrow(db) - i + 1)
 ```
 
 ```{r, echo=FALSE, message=FALSE}
-wb <- loadWorkbook("presentations.xlsx")
-setMissingValue(wb, value = "NA")
+db <- read_excel("presentations.xlsx", "oral", na = "NA")
+class(db) <- "data.frame"
 
-db <- readWorksheet(wb, sheet = "oral")
 db <- db[order(db$title), ]
 db <- db[order(db$month, decreasing = TRUE), ]
 db <- db[order(db$year, decreasing = TRUE), ]
@@ -349,7 +347,9 @@ for (i in seq(nrow(db))) print_proceeding(db[i, ], nrow(db) - i + 1)
 ```
 
 ```{r, echo=FALSE, message=FALSE}
-db <- readWorksheet(wb, sheet = "poster")
+db <- read_excel("presentations.xlsx", "poster", na = "NA")
+class(db) <- "data.frame"
+
 db <- db[order(db$title), ]
 db <- db[order(db$month, decreasing = TRUE), ]
 db <- db[order(db$year, decreasing = TRUE), ]
@@ -380,7 +380,9 @@ for (i in seq(nrow(db))) print_proceeding(db[i, ], nrow(db) - i + 1)
 ### R Packages
 
 ```{r, echo=FALSE, message=FALSE, results='asis'}
-db <- readWorksheetFromFile("Rpackages.xlsx", sheet = "tab")
+db <- read_excel("Rpackages.xlsx", "tab", na = "NA")
+class(db) <- "data.frame"
+
 db <- db[order(db$date, decreasing = TRUE), ]
 for (i in seq(nrow(db))) {
   print_package(db[i, ], nrow(db) - i + 1)

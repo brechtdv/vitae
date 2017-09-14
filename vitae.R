@@ -1,5 +1,5 @@
 ## packages used
-library(XLConnect)
+library(readxl)
 library(bd)
 
 ## helper functions

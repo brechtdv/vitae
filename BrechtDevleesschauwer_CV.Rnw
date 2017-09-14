@@ -91,7 +91,7 @@ Rue Juliette Wytsmanstraat 14, 1050 Brussels, Belgium $\mid$ +32 2 642 5035
 \begin{itemize}
   \setlength\itemsep{0em}
 <<echo=FALSE, results='asis', message=FALSE>>=
-db <- readWorksheetFromFile("short_courses.xlsx", "index")
+db <- read_excel("short_courses.xlsx", "index")
 db <- db[order(db$title), ]
 db <- db[order(db$year, decreasing = TRUE), ]
 
@@ -304,9 +304,7 @@ for Statisticians and Practitioners}, 28--29 March 2013 \hfill \\
 \end{itemize}
 
 <<echo=FALSE,results='asis',message=FALSE>>=
-wb <- loadWorkbook("students.xlsx")
-setMissingValue(wb, value = "NA")
-db <- readWorksheet(wb, sheet = "students")
+db <- read_excel("students.xlsx", "students")
 
 db$univ <- sanitize_specials(db$univ, "latex")
 db$title <- sanitize_specials(db$title, "latex")
@@ -344,10 +342,8 @@ cat("\\end{itemize}\n")
 \begin{itemize}
   \setlength\itemsep{0em}
 <<echo=FALSE,results='asis',message=FALSE>>=
-wb <- loadWorkbook("publications.xlsx")
-setMissingValue(wb, value = "NA")
+db <- read_excel("publications.xlsx", "chapters", na = "NA")
 
-db <- readWorksheet(wb, sheet = "chapters")
 db <- db[order(db$title), ]
 db <- db[order(db$date, decreasing = TRUE), ]
 for (i in seq(nrow(db))) print_chapter(db[i, ], nrow(db) - i + 1)
@@ -366,10 +362,8 @@ gs <- get_profile(id)
 \begin{itemize}
   \setlength\itemsep{0em}
 <<echo=FALSE,results='asis',message=FALSE>>=
-wb <- loadWorkbook("publications.xlsx")
-setMissingValue(wb, value = "NA")
-
-db <- readWorksheet(wb, sheet = "papers")
+db <- read_excel("publications.xlsx", "papers", na = "NA")
+class(db) <- "data.frame"
 db <- db[order(db$title), ]
 db <- db[order(db$date, decreasing = TRUE), ]
 db <- db[order(!is.na(db$volume)), ]
@@ -382,8 +376,9 @@ for (i in seq(nrow(db))) print_article(db[i, ], nrow(db) - i + 1)
 
 \begin{itemize}
   \setlength\itemsep{0em}
-<<echo=FALSE,results='asis',message=FALSE>>=
-db <- readWorksheet(wb, sheet = "submitted")
+<<echo=FALSE, results='asis', message=FALSE>>=
+db <- read_excel("publications.xlsx", "submitted", na = "NA")
+class(db) <- "data.frame"
 db <- db[order(db$title), ]
 db <- db[order(db$date, decreasing = TRUE), ]
 for (i in seq(nrow(db))) print_article(db[i, ], nrow(db) - i + 1)
@@ -394,11 +389,9 @@ for (i in seq(nrow(db))) print_article(db[i, ], nrow(db) - i + 1)
 \subsection{Oral presentations}
 \begin{itemize}
   \setlength\itemsep{0em}
-<<echo=FALSE,results='asis',message=FALSE>>=
-wb <- loadWorkbook("presentations.xlsx")
-setMissingValue(wb, value = "NA")
-
-db <- readWorksheet(wb, sheet = "oral")
+<<echo=FALSE, results='asis', message=FALSE>>=
+db <- read_excel("presentations.xlsx", "oral", na = "NA")
+class(db) <- "data.frame"
 db <- db[order(db$title), ]
 db <- db[order(db$month, decreasing = TRUE), ]
 db <- db[order(db$year, decreasing = TRUE), ]
@@ -412,10 +405,8 @@ for (i in seq(nrow(db))) {
 \begin{itemize}
   \setlength\itemsep{0em}
 <<echo=FALSE,results='asis',message=FALSE>>=
-wb <- loadWorkbook("presentations.xlsx")
-setMissingValue(wb, value = "NA")
-
-db <- readWorksheet(wb, sheet = "poster")
+db <- read_excel("presentations.xlsx", "poster", na = "NA")
+class(db) <- "data.frame"
 db <- db[order(db$title), ]
 db <- db[order(db$month, decreasing = TRUE), ]
 db <- db[order(db$year, decreasing = TRUE), ]
@@ -440,7 +431,7 @@ for (i in seq(nrow(db))) {
 \begin{itemize}
   \setlength\itemsep{0em}
 <<echo=FALSE,results='asis',message=FALSE>>=
-db <- readWorksheetFromFile("Rpackages.xlsx", sheet = "tab")
+db <- read_excel("Rpackages.xlsx", "tab")
 db <- db[order(db$date, decreasing = TRUE), ]
 for (i in seq(nrow(db))) {
   print_package(db[i, ], nrow(db) - i + 1)

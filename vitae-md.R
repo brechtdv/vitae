@@ -1,7 +1,7 @@
 ## packages used
 library(bd)
 library(scholar)
-library(XLConnect)
+library(readxl)
 
 ## get google scholar profile
 id <- "AFSxtd0AAAAJ"
