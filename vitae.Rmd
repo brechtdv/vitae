@@ -101,10 +101,13 @@ cat(sanitize_specials(paste(sort(journals), collapse = ", "), "html"))
 
 ### Participation in international projects
 
+* **Country representative**, 2017--present   
+    EUROSTAT Technical Group on Morbidity Statistics
+
 * **Country representative**, 2016--present   
     European Burden of Disease Network (WHO/EURO, IHME)
-    
-* **Epidemiology workgroup leader**, 2013--present   
+
+* **Epidemiology workgroup leader**, 2013--2018   
     EU COST action TD1302 CYSTINET---[www.cystinet.org](http://www.cystinet.org)
 
 * **Risk forecasting workgroup vice-leader**, 2015--2016   
@@ -133,9 +136,13 @@ cat(sanitize_specials(paste(sort(journals), collapse = ", "), "html"))
 
 ### Contributions as invited expert
 
-* FAO/WHO expert meeting on verotoxigenic _Escherichia coli_ (VTEC) / Shigatoxigenic _E. coli_ (STEC). World Health Organization, Geneva, Switzerland; 2016.
+* EFSA working group on foodborne parasites. European Food Safety Authority, Parma, Italy; 2017--2018.
 
-* Expert consultation on diet-related health problems to support the development of food-based dietary guidelines. Superior Health Council, Brussels, Belgium; 2016.
+* Steering committee of KCE project 292, [Exploratory steps for the formulation of Belgian health system targets](https://www.kce.fgov.be/en/exploratory-steps-for-the-formulation-of-belgian-health-system-targets). Belgian Health Care Knowledge Centre, Brussels, Belgium; 2017.
+
+* FAO/WHO expert meeting on verotoxigenic _Escherichia coli_ (VTEC) / Shigatoxigenic _E. coli_ (STEC). World Health Organization, Geneva, Switzerland; 2016--2017.
+
+* Expert consultation on diet-related health problems to support the development of food-based dietary guidelines. Superior Health Council, Brussels, Belgium; 2016--2017.
 
 * Expert panel on FDA-iRisk DALY templates. Research Triangle International, NC, USA; 2016.
 
@@ -180,7 +187,7 @@ Nepali   | +        | +       | +
 
 ### Computer skills
 
-* **Statistical software**: R, WinBUGS, OpenBUGS, JAGS, SAS, Stata
+* **Statistical software**: R, JAGS, WinBUGS, OpenBUGS, SAS, Stata
 * **Advanced R skills**: package development, Tcl/Tk interfaces, Shiny applications
 * **Design and programming**: html, javascript, php, mysql, LaTeX, markdown, C++
 * **Windows and MS Office**: Word, Excel, Powerpoint, Access
@@ -197,7 +204,10 @@ Nepali   | +        | +       | +
 
 ### Workshops
 
-* **Burden of Disease and the DALY metric**, 5--6 October 2016   
+* **Burden of Disease and the DALY metric, 2nd edition**, 11--12 October 2017   
+    WIV-ISP, Brussels, Belgium
+    
+* **Burden of Disease and the DALY metric, 1st edition**, 5--6 October 2016   
     WIV-ISP, Brussels, Belgium
     
 * **CYSTINET Epidemiology Training School**, 1--3 September 2014   
