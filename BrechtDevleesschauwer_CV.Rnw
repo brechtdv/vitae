@@ -108,6 +108,8 @@ for (i in seq(nrow(db))) {
 \begin{itemize}
   \setlength\itemsep{0em}
   \item \textbf{Academic Editor}, 2017--present\hfill \\
+    Food and Waterborne Parasitology
+  \item \textbf{Academic Editor}, 2017--present\hfill \\
     PLOS ONE
   \item \textbf{Associate Editor}, 2017--present\hfill \\
     BMC Veterinary Research, Parasitology section
@@ -293,21 +295,13 @@ for Statisticians and Practitioners}, 28--29 March 2013 \hfill \\
     MSc Veterinary Medicine, Ghent University
 \end{itemize}
 
-\subsection{Promoter of 4 short-term scientific missions}
+\subsection{Supervision of PhD students (1)}
 \begin{itemize}
   \setlength\itemsep{0em}
-  \item \textbf{Fabian Dupont}, October 2015 \hfill \\
-    MSc Medicine, Technische Universit\"{a}t M\"{u}nchen \hfill \\
-    Health and economic impact of \emph{Taenia solium} neurocysticercosis in Uganda
-  \item \textbf{Uffe Christian Braae}, December 2014 \hfill \\
-    PhD Veterinary Medicine, University of Copenhagen \hfill \\
-    Development of a \emph{Taenia solium} transmission model
-  \item \textbf{Dr Hardy Richter}, September 2014 \hfill \\
-    Research associate, Munich Global Neurology Group \hfill \\
-    Landscape analysis of \emph{Taenia solium} neurocysticercosis in Europe
-  \item \textbf{Chiara Trevisan}, July 2014 \hfill \\
-    PhD Veterinary Medicine, University of Copenhagen \hfill \\
-    Burden assessment of \emph{Taenia solium} cysticercosis in Tanzania
+  \item \textbf{Sofie Theresa Thomsen}, 2016--2018 \hfill \\
+    PhD Nutrition, National Food Institute, Danish Technical University \hfill \\
+    Risk-benefit assessment of whole diet \hfill \\
+    Promoters: Rikke Andersen; Sara Monteiro Pires, Morten Poulsen, \textbf{Brecht Devleesschauwer}
 \end{itemize}
 
 <<echo=FALSE,results='asis',message=FALSE>>=
@@ -319,8 +313,7 @@ db$title <- sanitize_specials(db$title, "latex")
 db_msc <- db[db$grade == "MSc", ]
 db_msc <- db_msc[order(db_msc$year, decreasing = TRUE), ]
 
-cat("\\subsection{(Co)supervisor of",
-    nrow(db_msc), "MSc students}\n")
+cat("\\subsection{Supervision of MSc students (", nrow(db_msc), ")}\n")
 
 cat("\\begin{itemize}\n")
 cat("\\setlength\\itemsep{0em}\n")
@@ -331,8 +324,7 @@ cat("\\end{itemize}\n")
 db_bsc <- db[db$grade == "BSc", ]
 db_bsc <- db_bsc[order(db_bsc$year, decreasing = TRUE), ]
 
-cat("\\subsection{(Co)supervisor of",
-    nrow(db_bsc), "BSc students}\n")
+cat("\\subsection{Supervision of BSc students (", nrow(db_bsc), ")}\n")
 
 cat("\\begin{itemize}\n")
 cat("\\setlength\\itemsep{0em}\n")
@@ -340,6 +332,43 @@ for (i in seq(nrow(db_bsc)))
   print_student(db_bsc[i, ], nrow(db_bsc) - i + 1)
 cat("\\end{itemize}\n")
 @
+
+\subsection{Supervision of short-term scientific missions (4)}
+\begin{itemize}
+  \setlength\itemsep{0em}
+  \item \textbf{Fabian Dupont}, October 2015 \hfill \\
+    MSc Medicine, Technische Universit\"{a}t M\"{u}nchen \hfill \\
+    Health and economic impact of \emph{Taenia solium} neurocysticercosis in Uganda
+  \item \textbf{Uffe Christian Braae}, December 2014 \hfill \\
+    PhD Veterinary Medicine, University of Copenhagen \hfill \\
+    Development of a \emph{Taenia solium} transmission model
+  \item \textbf{Hardy Richter}, September 2014 \hfill \\
+    Research associate, Munich Global Neurology Group \hfill \\
+    Landscape analysis of \emph{Taenia solium} neurocysticercosis in Europe
+  \item \textbf{Chiara Trevisan}, July 2014 \hfill \\
+    PhD Veterinary Medicine, University of Copenhagen \hfill \\
+    Burden assessment of \emph{Taenia solium} cysticercosis in Tanzania
+\end{itemize}
+
+
+\subsection{Member of PhD examination committees (3)}
+\begin{itemize}
+  \setlength\itemsep{0em}
+  \item \textbf{Lea Sletting Jakobsen}, November 2017 \hfill \\
+    PhD Nutrition, National Food Institute, Danish Technical University \hfill \\
+    Method development in the study of burden of disease of foodborne chemicals \hfill \\
+    Promoters: Morten Poulsen; Sara Monteiro Pires, Maarten Nauta
+
+  \item \textbf{Malgorzata Jennes}, October 2017 \hfill \\
+    PhD Veterinary Sciences, Ghent University \hfill \\
+    Novel insights in the host-pathogen interaction of porcine toxoplasmosis \hfill \\
+    Promoters: Eric Cox; Pierre Dorny, St\'{e}phane De Craeye
+
+  \item \textbf{Marco Coral Almeida}, February 2016 \hfill \\
+    PhD Veterinary Sciences, Ghent University \hfill \\
+    Epidemiological transmission patterns of \emph{Taenia solium} cysticercosis in endemic areas: The case of Ecuador \hfill \\
+    Promoters: Pierre Dorny; Sarah Gabri\"{e}l, Emmanuel Nji Abatih, Washington Benitez
+\end{itemize}
 
 %% PUBLICATIONS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Scientific output}

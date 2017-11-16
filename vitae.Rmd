@@ -87,6 +87,9 @@ for (i in seq(nrow(db))) {
 ### Contributions to peer review
 
 * **Academic Editor, 2017**--present  
+    Food and Waterborne Parasitology
+    
+* **Academic Editor, 2017**--present  
     PLOS ONE
 
 * **Associate Editor, 2017**--present  
@@ -114,8 +117,8 @@ cat(sanitize_specials(paste(sort(journals), collapse = ", "), "html"))
     EU COST action FA1408 EURO-FBP
     
 * **USAID Feed the Future Innovation Lab on Livestock Systems**, 2015--2016  
-    _Project granted to UF, aiming to improve livestock systems in Mali, Burkina Faso, Ethiopia, Rwanda, Nepal and Cambodia_
-    * Contribution to project proposal
+    _Project granted to UF, aiming to improve livestock systems in Mali, Burkina Faso, Ethiopia, Rwanda, Nepal and Cambodia_  
+    * Contribution to project proposal  
     * Participation in Livestock Disease Management and Food Safety AOI  
 
 * **Computational Task Force member**, 2011--2015  
@@ -247,8 +250,33 @@ Nepali   | +        | +       | +
 * **Applied biomedical statistics**, 2013--2014   
     MSc Veterinary Medicine, Ghent University
 
+### Supervision of PhD students (1)
 
-### Promoter of 4 short-term scientific missions
+* **Sofie Theresa Thomsen**, 2016--2018   
+    PhD Nutrition, National Food Institute, Danish Technical University  
+    Risk-benefit assessment of whole diet  
+    Promoters: Rikke Andersen; Sara Monteiro Pires, Morten Poulsen, **Brecht Devleesschauwer**  
+
+```{r, echo=FALSE, results='asis', message=FALSE}
+db <- read_excel("students.xlsx", "students", na = "NA")
+class(db) <- "data.frame"
+
+db_msc <- db[db$grade == "MSc", ]
+db_msc <- db_msc[order(db_msc$year, decreasing = TRUE), ]
+cat(sprintf("### Supervision of MSc students (%d)\n", nrow(db_msc)))
+
+for (i in seq(nrow(db_msc)))
+  print_student(db_msc[i, ], nrow(db_msc) - i + 1)
+
+db_bsc <- db[db$grade == "BSc", ]
+db_bsc <- db_bsc[order(db_bsc$year, decreasing = TRUE), ]
+cat(sprintf("### Supervision of BSc students (%d)\n", nrow(db_bsc)))
+
+for (i in seq(nrow(db_bsc)))
+  print_student(db_bsc[i, ], nrow(db_bsc) - i + 1)
+```
+
+### Supervision of short-term scientific missions (4)
 
 * **Fabian Dupont**, October 2015   
     MSc Medicine, Technische Universität München   
@@ -258,34 +286,31 @@ Nepali   | +        | +       | +
     PhD Veterinary Medicine, University of Copenhagen   
     Development of a _Taenia solium_ transmission model
     
-* **Dr Hardy Richter**, September 2014   
+* **Hardy Richter**, September 2014   
     Research associate, Munich Global Neurology Group   
     Landscape analysis of _Taenia solium_ neurocysticercosis in Europe
     
 * **Chiara Trevisan**, July 2014   
     PhD Veterinary Medicine, University of Copenhagen   
     Burden assessment of _Taenia solium_ cysticercosis in Tanzania
+    
+### Member of PhD examination committees (3)
 
-
-```{r, echo=FALSE, results='asis', message=FALSE}
-db <- read_excel("students.xlsx", "students", na = "NA")
-class(db) <- "data.frame"
-
-db_msc <- db[db$grade == "MSc", ]
-db_msc <- db_msc[order(db_msc$year, decreasing = TRUE), ]
-cat(sprintf("### (Co)supervisor of %d MSc students\n", nrow(db_msc)))
-
-for (i in seq(nrow(db_msc)))
-  print_student(db_msc[i, ], nrow(db_msc) - i + 1)
-
-db_bsc <- db[db$grade == "BSc", ]
-db_bsc <- db_bsc[order(db_bsc$year, decreasing = TRUE), ]
-cat(sprintf("### (Co)supervisor of %d BSc students\n", nrow(db_bsc)))
-
-for (i in seq(nrow(db_bsc)))
-  print_student(db_bsc[i, ], nrow(db_bsc) - i + 1)
-```
-
+* **Lea Sletting Jakobsen**, November 2017   
+    PhD Nutrition, National Food Institute, Danish Technical University   
+    Method development in the study of burden of disease of foodborne chemicals  
+    Promoters: Morten Poulsen; Sara Monteiro Pires, Maarten Nauta
+    
+* **Malgorzata Jennes**, October 2017   
+    PhD Veterinary Sciences, Ghent University   
+    Novel insights in the host-pathogen interaction of porcine toxoplasmosis  
+    Promoters: Eric Cox; Pierre Dorny, Stéphane De Craeye  
+    
+* **Marco Coral Almeida**, February 2016   
+    PhD Veterinary Sciences, Ghent University   
+    Epidemiological transmission patterns of _Taenia solium_ cysticercosis in endemic areas: The case of Ecuador  
+    Promoters: Pierre Dorny; Sarah Gabriël, Emmanuel Nji Abatih, Washington Benitez  
+    
 ## Scientific output
 
 ```{r, echo=FALSE, message=FALSE}
