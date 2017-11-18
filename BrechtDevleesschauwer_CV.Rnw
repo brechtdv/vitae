@@ -295,7 +295,7 @@ for Statisticians and Practitioners}, 28--29 March 2013 \hfill \\
     MSc Veterinary Medicine, Ghent University
 \end{itemize}
 
-\subsection{Supervision of PhD students (1)}
+\subsection{PhD students (1)}
 \begin{itemize}
   \setlength\itemsep{0em}
   \item \textbf{Sofie Theresa Thomsen}, 2016--2018 \hfill \\
@@ -313,7 +313,7 @@ db$title <- sanitize_specials(db$title, "latex")
 db_msc <- db[db$grade == "MSc", ]
 db_msc <- db_msc[order(db_msc$year, decreasing = TRUE), ]
 
-cat("\\subsection{Supervision of MSc students (", nrow(db_msc), ")}\n")
+cat("\\subsection{MSc students (", nrow(db_msc), ")}\n", sep = "")
 
 cat("\\begin{itemize}\n")
 cat("\\setlength\\itemsep{0em}\n")
@@ -324,7 +324,7 @@ cat("\\end{itemize}\n")
 db_bsc <- db[db$grade == "BSc", ]
 db_bsc <- db_bsc[order(db_bsc$year, decreasing = TRUE), ]
 
-cat("\\subsection{Supervision of BSc students (", nrow(db_bsc), ")}\n")
+cat("\\subsection{BSc students (", nrow(db_bsc), ")}\n", sep = "")
 
 cat("\\begin{itemize}\n")
 cat("\\setlength\\itemsep{0em}\n")
@@ -333,7 +333,7 @@ for (i in seq(nrow(db_bsc)))
 cat("\\end{itemize}\n")
 @
 
-\subsection{Supervision of short-term scientific missions (4)}
+\subsection{Short-term scientific missions (4)}
 \begin{itemize}
   \setlength\itemsep{0em}
   \item \textbf{Fabian Dupont}, October 2015 \hfill \\
@@ -350,8 +350,7 @@ cat("\\end{itemize}\n")
     Burden assessment of \emph{Taenia solium} cysticercosis in Tanzania
 \end{itemize}
 
-
-\subsection{Member of PhD examination committees (3)}
+\subsection{PhD examination committees (3)}
 \begin{itemize}
   \setlength\itemsep{0em}
   \item \textbf{Lea Sletting Jakobsen}, November 2017 \hfill \\
@@ -363,6 +362,11 @@ cat("\\end{itemize}\n")
     PhD Veterinary Sciences, Ghent University \hfill \\
     Novel insights in the host-pathogen interaction of porcine toxoplasmosis \hfill \\
     Promoters: Eric Cox; Pierre Dorny, St\'{e}phane De Craeye
+
+  \item \textbf{Elvire Mfueni Bikundi}, June 2016 \hfill \\
+    PhD Public Health, Universit\'{e} catholique de Louvain \hfill \\
+    Mieux comprendre les relations entre les d\'{e}terminants socio\'{e}conomiques, la couverture en moustiquaires et la pr\'{e}valence du paludisme chez les enfants en R.D Congo et en Afrique \hfill \\
+    Promoters: Niko Speybroeck; Robert Snow
 
   \item \textbf{Marco Coral Almeida}, February 2016 \hfill \\
     PhD Veterinary Sciences, Ghent University \hfill \\

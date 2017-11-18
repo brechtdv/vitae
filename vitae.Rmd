@@ -250,7 +250,7 @@ Nepali   | +        | +       | +
 * **Applied biomedical statistics**, 2013--2014   
     MSc Veterinary Medicine, Ghent University
 
-### Supervision of PhD students (1)
+### PhD students (1)
 
 * **Sofie Theresa Thomsen**, 2016--2018   
     PhD Nutrition, National Food Institute, Danish Technical University  
@@ -263,20 +263,20 @@ class(db) <- "data.frame"
 
 db_msc <- db[db$grade == "MSc", ]
 db_msc <- db_msc[order(db_msc$year, decreasing = TRUE), ]
-cat(sprintf("### Supervision of MSc students (%d)\n", nrow(db_msc)))
+cat(sprintf("### MSc students (%d)\n", nrow(db_msc)))
 
 for (i in seq(nrow(db_msc)))
   print_student(db_msc[i, ], nrow(db_msc) - i + 1)
 
 db_bsc <- db[db$grade == "BSc", ]
 db_bsc <- db_bsc[order(db_bsc$year, decreasing = TRUE), ]
-cat(sprintf("### Supervision of BSc students (%d)\n", nrow(db_bsc)))
+cat(sprintf("### BSc students (%d)\n", nrow(db_bsc)))
 
 for (i in seq(nrow(db_bsc)))
   print_student(db_bsc[i, ], nrow(db_bsc) - i + 1)
 ```
 
-### Supervision of short-term scientific missions (4)
+### Short-term scientific missions (4)
 
 * **Fabian Dupont**, October 2015   
     MSc Medicine, Technische Universität München   
@@ -294,7 +294,7 @@ for (i in seq(nrow(db_bsc)))
     PhD Veterinary Medicine, University of Copenhagen   
     Burden assessment of _Taenia solium_ cysticercosis in Tanzania
     
-### Member of PhD examination committees (3)
+### PhD examination committees (3)
 
 * **Lea Sletting Jakobsen**, November 2017   
     PhD Nutrition, National Food Institute, Danish Technical University   
@@ -305,6 +305,11 @@ for (i in seq(nrow(db_bsc)))
     PhD Veterinary Sciences, Ghent University   
     Novel insights in the host-pathogen interaction of porcine toxoplasmosis  
     Promoters: Eric Cox; Pierre Dorny, Stéphane De Craeye  
+    
+* **Elvire Mfueni Bikundi**, June 2016   
+    PhD Public Health, Université catholique de Louvain   
+    Mieux comprendre les relations entre les déterminants socioéconomiques, la couverture en moustiquaires et la prévalence du paludisme chez les enfants en R.D Congo et en Afrique  
+    Promoters: Niko Speybroeck; Robert Snow  
     
 * **Marco Coral Almeida**, February 2016   
     PhD Veterinary Sciences, Ghent University   
