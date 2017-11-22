@@ -1,6 +1,6 @@
 Aeromonas
 Anopheles
-Anopheles arabiensis
+arabiensis
 Echinococcus granulosus
 Giardia
 Opisthorchis
