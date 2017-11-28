@@ -350,7 +350,7 @@ cat("\\end{itemize}\n")
     Burden assessment of \emph{Taenia solium} cysticercosis in Tanzania
 \end{itemize}
 
-\subsection{PhD examination committees (3)}
+\subsection{PhD examination committees (4)}
 \begin{itemize}
   \setlength\itemsep{0em}
   \item \textbf{Lea Sletting Jakobsen}, November 2017 \hfill \\

@@ -294,7 +294,7 @@ for (i in seq(nrow(db_bsc)))
     PhD Veterinary Medicine, University of Copenhagen   
     Burden assessment of _Taenia solium_ cysticercosis in Tanzania
     
-### PhD examination committees (3)
+### PhD examination committees (4)
 
 * **Lea Sletting Jakobsen**, November 2017   
     PhD Nutrition, National Food Institute, Danish Technical University   
