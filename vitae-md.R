@@ -105,13 +105,13 @@ print_article2 <-
     authors_string <- strsplit(item$authors, ";")[[1]]
     authors_string <- sapply(authors_string, trim, USE.NAMES = FALSE)
     authors_string <- sapply(authors_string, abbr, USE.NAMES = FALSE)
-
+    
     ## reformat year string
     year_string <- item$year
-    if (!is.na(item$year)) {
-      year_string <- paste0(" (", item$year, ") ")
-    } else {
+    if (is.null(item$year) || is.na(item$year)) {
       year_string <- "."
+    } else {
+      year_string <- paste0(" (", item$year, ") ")
     }
     
     ## reformat title string
@@ -126,9 +126,9 @@ print_article2 <-
     ## reformat journal string
     journal_string <- gsub(".", "", item$journal_short, fixed = TRUE)
     journal_string <- tag(journal_string, "_")
-
+    
     ## reformat volume/page string
-    if (is.na(item$year)) {
+    if (is.null(item$year) || is.na(item$year)) {
       vp_string <- ""
       
     } else if (is.na(item$volume)) {
@@ -150,13 +150,13 @@ print_article2 <-
     } else {
       doi_string <- ""
     }
-    
+
     ## impact string
     if (!is.na(item$IF)) {
-      impact_if <- paste("IF", item$IF)
+      impact_if <- paste("IF", round(as.numeric(item$IF), 3))
     } else {
-        impact_if <- NULL
-        }
+      impact_if <- NULL
+    }
     impact_r <- impact_q <- NULL
     if (!is.na(item$rank)) impact_r <- item$rank
     if (!is.na(item$rank)) impact_q <- item$quartile
@@ -165,12 +165,16 @@ print_article2 <-
                                   collapse = "; "),
                             "]")
     
+    cat("* ")
+    cat(paste(authors_string, collapse = ", "))
+    cat(year_string, " ", sep = "")
+    cat(title_string, " ", sep = "")
     cat(journal_string)
     cat(vp_string)
     cat(doi_string)
     if (impact_string != ". []") cat(impact_string)
     cat("\n\n")
-  }
+}
 
 print_chapter <-
   function(item, id) {
