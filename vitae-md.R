@@ -83,7 +83,7 @@ print_article <-
     doi_string <- item$DOI
     if (!is.null(doi_string) && !is.na(doi_string)) {
       doi_string <-
-        sprintf(". doi: [%1$s](http://dx.doi.org/%1$s)", doi_string)
+        sprintf(". doi: [%1$s](https://doi.org/%1$s)", doi_string)
     
     } else {
       doi_string <- ""
@@ -145,7 +145,7 @@ print_article2 <-
     doi_string <- item$DOI
     if (!is.null(doi_string) && !is.na(doi_string)) {
       doi_string <-
-        sprintf(". doi: [%1$s](http://dx.doi.org/%1$s)", doi_string)
+        sprintf(". doi: [%1$s](https://doi.org/%1$s)", doi_string)
       
     } else {
       doi_string <- ""
@@ -227,7 +227,7 @@ print_chapter <-
     doi_string <- item$DOI
     if (!is.null(doi_string) && !is.na(doi_string)) {
       doi_string <-
-        sprintf(". doi: [%1$s](http://dx.doi.org/%1$s)", doi_string)
+        sprintf(". doi: [%1$s](https://doi.org/%1$s)", doi_string)
       
     } else {
       doi_string <- ""

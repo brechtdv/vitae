@@ -79,7 +79,7 @@ print_article <-
     ## reformat DOI string
     doi_string <- item$DOI
     if (!is.null(doi_string) && !is.na(doi_string)){
-      doi_string <- paste0(". doi: \\href{http://dx.doi.org/",
+      doi_string <- paste0(". doi: \\href{https://doi.org/",
                            doi_string, "}{", doi_string, "}")
     } else {
       doi_string <- ""
@@ -145,7 +145,7 @@ print_chapter <-
     ## reformat DOI string
     doi_string <- item$DOI
     if (!is.null(doi_string) && !is.na(doi_string)){
-      doi_string <- paste0(". doi: \\href{http://dx.doi.org/",
+      doi_string <- paste0(". doi: \\href{https://doi.org/",
                            doi_string, "}{", doi_string, "}")
     } else {
       doi_string <- ""
