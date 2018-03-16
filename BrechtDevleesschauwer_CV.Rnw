@@ -295,13 +295,17 @@ for Statisticians and Practitioners}, 28--29 March 2013 \hfill \\
     MSc Veterinary Medicine, Ghent University
 \end{itemize}
 
-\subsection{PhD students (1)}
+\subsection{PhD students (2)}
 \begin{itemize}
   \setlength\itemsep{0em}
+  \item \textbf{Lisa Van Wilder}, 2018--2022 \hfill \\
+    PhD Public Health, Ghent University \hfill \\
+    Quality of life in patients with chronic disease \hfill \\
+    Promoters: Rikke Andersen; Sara Monteiro Pires, Morten Poulsen, \textbf{Brecht Devleesschauwer}  
   \item \textbf{Sofie Theresa Thomsen}, 2016--2018 \hfill \\
     PhD Nutrition, National Food Institute, Danish Technical University \hfill \\
     Risk-benefit assessment of whole diet \hfill \\
-    Promoters: Rikke Andersen; Sara Monteiro Pires, Morten Poulsen, \textbf{Brecht Devleesschauwer}
+    Promoters: Delphine De Smedt; Els Clays, \textbf{Brecht Devleesschauwer}
 \end{itemize}
 
 <<echo=FALSE,results='asis',message=FALSE>>=
