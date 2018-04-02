@@ -21,9 +21,9 @@
 \vspace{0.1in}
 \noindent
 \textbf{Senior epidemiologist, PhD DVM MVSc MStat}\\
-\textit{Scientific Institute of Public Health (WIV-ISP), Dept Public Health and Surveillance}\\
+\textit{Sciensano, Department of Epidemiology and Surveillance}\\
 \textit{Center for Burden and Risk Assessment---\href{http://www.cbra.be}{www.cbra.be}}\\
-\href{mailto:brecht.devleesschauwer@wiv-isp.be}{brecht.devleesschauwer@wiv-isp.be} $\mid$ Skype: \href{skype:brecht.devleesschauwer?call>}{brecht.devleesschauwer}\\
+\href{mailto:brecht.devleesschauwer@sciensano.be}{brecht.devleesschauwer@sciensano.be} $\mid$ Skype: \href{skype:brecht.devleesschauwer?call>}{brecht.devleesschauwer}\\
 Rue Juliette Wytsmanstraat 14, 1050 Brussels, Belgium $\mid$ +32 2 642 5035
 
 \noindent
@@ -42,7 +42,9 @@ Rue Juliette Wytsmanstraat 14, 1050 Brussels, Belgium $\mid$ +32 2 642 5035
 \section{Employment}
 \begin{itemize}
   \setlength\itemsep{0em}
-  \item \textbf{Senior epidemiologist}, 04/2016--present \hfill \\
+  \item \textbf{Senior epidemiologist}, 04/2018--present \hfill \\
+    Sciensano, Brussels, Belgium
+  \item \textbf{Senior epidemiologist}, 04/2016--03/2018 \hfill \\
     Scientific Institute of Public Health (WIV-ISP), Brussels, Belgium
   \item \textbf{Guest lecturer, health economic evaluations}, 10/2016--present \hfill \\
     Universit\'{e} catholique de Louvain, Brussels, Belgium

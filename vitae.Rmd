@@ -10,10 +10,10 @@ source("vitae-md.R")
 
 Senior epidemiologist, PhD DVM MVSc MStat
 
-_Scientific Institute of Public Health (WIV-ISP), Department of Public Health and Surveillance_  
+_Sciensano, Department of Epidemiology and Surveillance_  
 _Center for Burden and Risk Assessment_---[www.cbra.be](http://www.cbra.be)
 
-brecht.devleesschauwer@wiv-isp.be | Skype: <a href="skype:brecht.devleesschauwer?call">brecht.devleesschauwer</a>  
+brecht.devleesschauwer@sciensano.be | Skype: <a href="skype:brecht.devleesschauwer?call">brecht.devleesschauwer</a>  
 Rue Juliette Wytsmanstraat 14, 1050 Brussels, Belgium | +32 2 642 5035
 
 ## Research interests
@@ -24,7 +24,10 @@ Rue Juliette Wytsmanstraat 14, 1050 Brussels, Belgium | +32 2 642 5035
 
 ## Employment
 
-* **Senior epidemiologist, coordinator national burden of disease studies**, 04/2016--present  
+* **Senior epidemiologist, coordinator national burden of disease studies**, 04/2018--present  
+    Sciensano, Brussels, Belgium
+
+* **Senior epidemiologist, coordinator national burden of disease studies**, 04/2016--03/2018  
     Scientific Institute of Public Health (WIV-ISP), Brussels, Belgium
 
 * **Guest lecturer, health economic evaluations**, 10/2016--present  
