@@ -42,6 +42,8 @@ Rue Juliette Wytsmanstraat 14, 1050 Brussels, Belgium $\mid$ +32 2 642 5035
 \section{Employment}
 \begin{itemize}
   \setlength\itemsep{0em}
+  \item \textbf{Visiting professor, risk analysis}, 04/2018--present \hfill \\
+    Ghent University, Merelbeke, Belgium
   \item \textbf{Senior epidemiologist}, 04/2018--present \hfill \\
     Sciensano, Brussels, Belgium
   \item \textbf{Senior epidemiologist}, 04/2016--03/2018 \hfill \\
