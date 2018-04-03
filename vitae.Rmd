@@ -10,7 +10,7 @@ source("vitae-md.R")
 
 Senior epidemiologist, PhD DVM MVSc MStat
 
-_Sciensano, Department of Epidemiology and Surveillance_  
+_Sciensano, Department of Epidemiology and Public Health_  
 _Center for Burden and Risk Assessment_---[www.cbra.be](http://www.cbra.be)
 
 brecht.devleesschauwer@sciensano.be | Skype: <a href="skype:brecht.devleesschauwer?call">brecht.devleesschauwer</a>  
