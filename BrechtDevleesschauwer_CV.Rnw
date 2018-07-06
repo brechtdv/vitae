@@ -184,6 +184,15 @@ cat(sanitize_specials(paste(sort(journals), collapse = ", "), "latex"))
 \end{itemize}
 
 \subsection{Logistic responsibilities}
+
+\subsubsection{Institutional responsibilities}
+\begin{itemize}
+  \item \textbf{Project leader}, 2017--present\hfill \\
+    Sciesano Translational Research Working Group
+  \item \textbf{Member}, 2017--present\hfill \\
+    Sciensano Redactional Council
+\end{itemize}
+
 \subsubsection{Management of research centers}
 \begin{itemize}
   \item \textbf{Founding member}, 2014--present\hfill \\

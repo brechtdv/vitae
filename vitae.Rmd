@@ -160,6 +160,14 @@ cat(sanitize_specials(paste(sort(journals), collapse = ", "), "html"))
 
 ### Logistic responsibilities
 
+#### Institutional responsibilities
+
+* **Workgroup leader**, 2017--present  
+    Sciensano Translational Research Working Group
+    
+* **Member**, 2017--present  
+    Sciensano Redactional Council
+
 #### Management of research centers
 
 * **Founding member**, 2014--present  
