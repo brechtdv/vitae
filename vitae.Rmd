@@ -24,13 +24,16 @@ Rue Juliette Wytsmanstraat 14, 1050 Brussels, Belgium | +32 2 642 5035
 
 ## Employment
 
+* **Guest lecturer, advanced epidemiology**, 10/2018--present  
+    Université catholique de Louvain, Brussels, Belgium
+
 * **Visiting professor, risk analysis**, 04/2018--present  
     Ghent University, Merelbeke, Belgium
 
 * **Senior epidemiologist, coordinator national burden of disease studies**, 04/2016--present  
     Sciensano, Brussels, Belgium
 
-* **Guest lecturer, health economic evaluations**, 10/2016--present  
+* **Guest lecturer, health economic evaluations**, 10/2016--09/2018  
     Université catholique de Louvain, Brussels, Belgium
     
 * **Assistant scientist, global food safety and zoonoses**, 06/2015--03/2016  
@@ -89,13 +92,13 @@ for (i in seq(nrow(db))) {
 
 ### Contributions to peer review
 
-* **Academic Editor, 2017**--present  
+* **Academic Editor**, 2017--present  
     Food and Waterborne Parasitology
     
-* **Academic Editor, 2017**--present  
+* **Academic Editor**, 2017--present  
     PLOS ONE
 
-* **Associate Editor, 2017**--present  
+* **Associate Editor**, 2017--present  
     BMC Veterinary Research, Parasitology section
 
 * **Reviewer for international scientific journals**, e.g.:  
@@ -210,8 +213,11 @@ Nepali   | +        | +       | +
 
 ### Courses
 
+* **Advanced epidemiology**  
+    WFSP2238, Université catholique de Louvain, 2018--2019
+    
 * **Health economic evaluations**  
-    WFSP2103, Université catholique de Louvain, March--April 2017  
+    WFSP2103, Université catholique de Louvain, 2016--2018
 
 * **Quantitative microbial risk assessment of pathogens in food systems**  
     ANS 6932 / FOS 6936, University of Florida, February 26--March 4 2016  
@@ -234,6 +240,9 @@ Nepali   | +        | +       | +
 
 ### Lectures
 
+* **Risk analysis: concepts and metrics**, 2017--present  
+    MSc Veterinary Medicine, Ghent University
+    
 * **Topics in tropical veterinary medicine**, 2013--2016  
     MSc Veterinary Medicine, Ghent University
     

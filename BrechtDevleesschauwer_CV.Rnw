@@ -42,11 +42,13 @@ Rue Juliette Wytsmanstraat 14, 1050 Brussels, Belgium $\mid$ +32 2 642 5035
 \section{Employment}
 \begin{itemize}
   \setlength\itemsep{0em}
+  \item \textbf{Guest lecturer, advanced epidemiology}, 10/2018--present \hfill \\
+    Universit\'{e} catholique de Louvain, Brussels, Belgium
   \item \textbf{Visiting professor, risk analysis}, 04/2018--present \hfill \\
     Ghent University, Merelbeke, Belgium
   \item \textbf{Senior epidemiologist}, 04/2016--present \hfill \\
     Sciensano, Brussels, Belgium
-  \item \textbf{Guest lecturer, health economic evaluations}, 10/2016--present \hfill \\
+  \item \textbf{Guest lecturer, health economic evaluations}, 10/2016--09/2018 \hfill \\
     Universit\'{e} catholique de Louvain, Brussels, Belgium
   \item \textbf{Assistant scientist, global food safety and zoonoses}, 06/2015--03/2016 \hfill \\
     University of Florida, Gainesville, USA% \hfill \\
@@ -256,8 +258,10 @@ cat(sanitize_specials(paste(sort(journals), collapse = ", "), "latex"))
 \subsection{Courses}
 \begin{itemize}
   \setlength\itemsep{0em}
+  \item \textbf{Advanced epidemiology} \hfill \\
+    WFSP2238, Universit\'{e} catholique de Louvain, 2018--present
   \item \textbf{Health economic evaluations} \hfill \\
-    WFSP2103, Universit\'{e} catholique de Louvain, March--April, 2017
+    WFSP2103, Universit\'{e} catholique de Louvain, 2016--2018
   \item \textbf{Quantitative microbial risk assessment of pathogens in food systems} \hfill \\
     ANS 6932 / FOS 6936, University of Florida, February 26--March 4, 2016
 \end{itemize}
