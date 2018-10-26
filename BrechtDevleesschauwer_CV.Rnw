@@ -478,6 +478,7 @@ for (i in seq(nrow(db))) {
 \subsection{Reports}
 \begin{itemize}
   \setlength\itemsep{0em}
+  \item[{[8]}] Federal Agency for the Safety of the Food Chain (2018) The analysis program regarding microbiological analyses in prepared products, fish products, vegetables, fruit, herbs, vegetable oil, fertilizers, beverages and water not intended for drinks (dossier SciCom 2017/24). \url{http://www.afsca.be/scientificcommittee/opinions/2018/_documents/Advice15-2018.pdf}
   \item[{[7]}] Food and Agriculture Organization of the United Nations, World Health Organization (2018) Shiga toxin-producing \emph{Escherichia coli} (STEC) and food: attribution, characterization, and monitoring. JEMRA Microbiological Risk Assessment Series. \url{http://www.fao.org/documents/card/en/c/CA0032EN}
   \item[{[6]}] Graham H, Martijn Bouwknegt M, \textbf{Devleesschauwer B}, Robertson L, van der Giessen L (2016) COST Action FA1408: European ranking of foodborne parasites. Results of a workshop held to prioritise foodborne parasites in Europe using multicriteria decision analyses, 8--12 February 2016, RIVM Bilthoven.
   \item[{[5]}] World Health Organization (2015) WHO estimates of the global burden of foodborne diseases. Foodborne diseases burden epidemiology reference group 2007-2015. Geneva: WHO Press. \url{http://www.who.int/foodsafety/publications/foodborne_disease/fergreport/en/}
