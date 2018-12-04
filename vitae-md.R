@@ -24,6 +24,7 @@ abbr <- function(x) {
   names_vector <- sapply(names_vector, initial, USE.NAMES = FALSE)
   author <- paste0(x_split[[1]][1], " ",
                    paste(names_vector, collapse = ""))
+  if (is.na(x_split[[1]][2])) author <- substr(author, 0, nchar(author) - 3)
   if (x_split[[1]][1] == "Devleesschauwer") {
     author <- tag(author, "**")
   }

@@ -20,6 +20,7 @@ abbr <- function(x) {
   author <- paste0(x_split[[1]][1], " ",
                    paste(names_vector, collapse = ""))
   author <- sanitize_specials(author, "latex")
+  if (is.na(x_split[[1]][2])) author <- substr(author, 0, nchar(author) - 3)
   if (x_split[[1]][1] == "Devleesschauwer") {
     author <- tag(author, "textbf")
   }
