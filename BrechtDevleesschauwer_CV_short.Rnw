@@ -1,0 +1,124 @@
+\documentclass[
+  a4paper, 12pt, oneside,
+  ]{scrartcl}
+
+%% PREAMBLE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\Sexpr{knitr::knit_child("cv_preamble.tex")}
+
+%% R FUNCTIONS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\Sexpr{source("vitae.R")}
+
+%% START DOCUMENT %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document} 
+
+%% HEADER %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\noindent
+{\LARGE \textbf{Brecht Devleesschauwer}}~~{\large($^\circ$09/09/1986)}
+
+\noindent
+\hrulefill
+
+\vspace{0.1in}
+\noindent
+\textbf{Senior epidemiologist, PhD DVM MVSc MStat}\\
+\textit{Sciensano, Department of Epidemiology and Public Health}\\
+\textit{Center for Burden and Risk Assessment---\href{http://www.cbra.be}{www.cbra.be}}\\
+\href{mailto:brecht.devleesschauwer@sciensano.be}{brecht.devleesschauwer@sciensano.be} $\mid$ Skype: \href{skype:brecht.devleesschauwer?call>}{brecht.devleesschauwer}\\
+Rue Juliette Wytsmanstraat 14, 1050 Brussels, Belgium $\mid$ +32 2 642 5035
+
+\noindent
+\hrulefill
+
+%% PERSONAL STATEMENT %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{Personal statement}
+
+Throughout my active research career, the common goal of my research activities has been to quantify the true impact of diseases and health inequalities, and to make model-based evaluations of prevention and control. I have successfully applied these methods to study the health and economic impact of public and animal health threats and to assess cost-effectiveness of intervention strategies. My work has led to new insights in the epidemiology, burden and control of foodborne and zoonotic diseases. I have developed and implemented the computational framework for estimating the global burden of foodborne disease, as an active member of the World Health Organization Foodborne Disease Burden Epidemiology Reference Group (WHO/FERG). These estimates are proving to become instrumental in guiding food safety related decision making processes across the world.
+
+My research activities have led to more than 100 peer-reviewed scientific publications in national and international journals. My scientific expertise in burden assessment, risk assessment and health economics has been recognized through invitations to various national and international expert groups, including the Belgian food safety authority, and EFSA, WHO, and FAO.
+
+%% EDUCATION %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{Education}
+\begin{itemize}
+  \setlength\itemsep{0em}
+  \item \textbf{Ph.D. Veterinary Sciences \& Ph.D. Public Health}, 2010--2015 \hfill \\
+    Ghent University, Merelbeke, Belgium \hfill \\
+    Universit\'{e} catholique de Louvain, Brussels, Belgium \hfill \\
+    Dissertation topic: ``\textit{The Burden of Zoonoses in Nepal}'' \hfill \\
+    Promoters: Prof. Dr. P. Dorny, Prof. Dr. N. Speybroeck, Prof. Dr. L. Duchateau
+
+  \item \textbf{Doctoral Training Programme}, 2010--2015 \hfill \\
+    Doctoral School of Life Sciences and Medicine, Ghent University, Belgium
+
+  \item \textbf{M.Sc. Statistics (biometrics)}, 2011--2014 \hfill \\
+    Katholieke Universiteit Leuven, Louvain, Belgium; Great distinction \hfill \\
+    Dissertation topic: ``\textit{Quantitative Microbial Risk Assessment with R}''\hfill \\
+    Promoters: Prof. Dr. G. Molenberghs, Prof. Dr. C. Faes
+
+  \item \textbf{M.Sc. Veterinary Medicine (research \& industry)}, 2007--2010 \hfill \\
+    Ghent University, Merelbeke, Belgium; Greatest distinction \hfill \\
+    Dissertation topic: ``\textit{The Epidemiology of \textrm{Taenia solium} in Nepal}'' \hfill \\
+    Promoter: Prof. Dr. P. Dorny
+
+  \item \textbf{B.Sc. Veterinary Medicine}, 2004--2007 \hfill \\
+    Ghent University, Merelbeke, Belgium; Greatest distinction
+\end{itemize}
+
+%% EMPLOYMENT %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{Employment}
+\begin{itemize}
+  \setlength\itemsep{0em}
+  \item \textbf{Visiting professor, advanced epidemiology}, 10/2018--present \hfill \\
+    Universit\'{e} catholique de Louvain, Brussels, Belgium
+  \item \textbf{Visiting professor, risk analysis}, 04/2018--present \hfill \\
+    Ghent University, Merelbeke, Belgium
+  \item \textbf{Senior epidemiologist}, 04/2016--present \hfill \\
+    Sciensano, Brussels, Belgium
+  \item \textbf{Visiting professor, health economic evaluations}, 10/2016--09/2018 \hfill \\
+    Universit\'{e} catholique de Louvain, Brussels, Belgium
+  \item \textbf{Assistant scientist, global food safety and zoonoses}, 06/2015--03/2016 \hfill \\
+    University of Florida, Gainesville, USA% \hfill \\
+    %Activities: 90\% research, 10\% teaching
+  \item \textbf{Post-doctoral researcher}, 04/2015 \hfill \\
+    Ghent University, Merelbeke, Belgium
+  \item \textbf{Contracted technical expert}, 09/2013--12/2013, 02/2014--03/2014 \hfill \\
+    World Health Organization, Geneva, Switzerland
+  \item \textbf{Doctoral researcher}, 10/2010--03/2015 \hfill \\
+     Ghent University, Merelbeke, Belgium \hfill \\
+     Universit\'{e} catholique de Louvain, Brussels, Belgium
+\end{itemize}
+
+\section*{Mentoring and supervision}
+
+
+<<echo=FALSE,results='asis',message=FALSE>>=
+db <- read_excel("students.xlsx", "students")
+
+db_msc <- db[db$grade == "MSc", ]
+cat(nrow(db_msc), "MSc students")
+
+db_bsc <- db[db$grade == "BSc", ]
+cat(nrow(db_bsc), "BSc students")
+@
+
+%% PUBLICATIONS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{Scientific output}
+
+\begin{itemize}
+  \setlength\itemsep{0em}
+<<echo=FALSE,results='asis',message=FALSE>>=
+db <- read_excel("publications.xlsx", "chapters", na = "NA")
+cat("\\\\item ", nrow(db))
+
+db <- read_excel("publications.xlsx", "papers", na = "NA")
+cat("\\\\item ", nrow(db))
+@
+\end{itemize}
+
+<<echo=FALSE, warning=FALSE>>=
+library(scholar)
+id <- "AFSxtd0AAAAJ"
+gs <- get_profile(id)
+@
+\textbf{Google Scholar metrics: \Sexpr{gs$total_cites} citations $\cdot$ h-index \Sexpr{gs$h_index} $\cdot$ i10-index \Sexpr{gs$i10_index}}
+
+\end{document} 
