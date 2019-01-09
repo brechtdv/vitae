@@ -13,21 +13,11 @@
 
 %% HEADER %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \noindent
-{\LARGE \textbf{Brecht Devleesschauwer}}~~{\large($^\circ$09/09/1986)}
-
+{\LARGE \textbf{Brecht Devleesschauwer}}~~{\large PhD DVM MVSc MStat}\\
 \noindent
-\hrulefill
-
-\vspace{0.1in}
-\noindent
-\textbf{Senior epidemiologist, PhD DVM MVSc MStat}\\
 \textit{Sciensano, Department of Epidemiology and Public Health}\\
-\textit{Center for Burden and Risk Assessment---\href{http://www.cbra.be}{www.cbra.be}}\\
-\href{mailto:brecht.devleesschauwer@sciensano.be}{brecht.devleesschauwer@sciensano.be} $\mid$ Skype: \href{skype:brecht.devleesschauwer?call>}{brecht.devleesschauwer}\\
+\href{mailto:brecht.devleesschauwer@sciensano.be}{brecht.devleesschauwer@sciensano.be} $\mid$ \href{http://brecht.cbra.be}{brecht.cbra.be}\\
 Rue Juliette Wytsmanstraat 14, 1050 Brussels, Belgium $\mid$ +32 2 642 5035
-
-\noindent
-\hrulefill
 
 %% PERSONAL STATEMENT %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section*{Personal statement}
@@ -38,67 +28,41 @@ My research activities have led to more than 100 peer-reviewed scientific public
 
 %% EDUCATION %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section*{Education}
-\begin{itemize}
-  \setlength\itemsep{0em}
-  \item \textbf{Ph.D. Veterinary Sciences \& Ph.D. Public Health}, 2010--2015 \hfill \\
-    Ghent University, Merelbeke, Belgium \hfill \\
-    Universit\'{e} catholique de Louvain, Brussels, Belgium \hfill \\
-    Dissertation topic: ``\textit{The Burden of Zoonoses in Nepal}'' \hfill \\
-    Promoters: Prof. Dr. P. Dorny, Prof. Dr. N. Speybroeck, Prof. Dr. L. Duchateau
 
-  \item \textbf{Doctoral Training Programme}, 2010--2015 \hfill \\
-    Doctoral School of Life Sciences and Medicine, Ghent University, Belgium
-
-  \item \textbf{M.Sc. Statistics (biometrics)}, 2011--2014 \hfill \\
-    Katholieke Universiteit Leuven, Louvain, Belgium; Great distinction \hfill \\
-    Dissertation topic: ``\textit{Quantitative Microbial Risk Assessment with R}''\hfill \\
-    Promoters: Prof. Dr. G. Molenberghs, Prof. Dr. C. Faes
-
-  \item \textbf{M.Sc. Veterinary Medicine (research \& industry)}, 2007--2010 \hfill \\
-    Ghent University, Merelbeke, Belgium; Greatest distinction \hfill \\
-    Dissertation topic: ``\textit{The Epidemiology of \textrm{Taenia solium} in Nepal}'' \hfill \\
-    Promoter: Prof. Dr. P. Dorny
-
-  \item \textbf{B.Sc. Veterinary Medicine}, 2004--2007 \hfill \\
-    Ghent University, Merelbeke, Belgium; Greatest distinction
-\end{itemize}
+\begin{table}[!htbp]
+\begin{tabular}{ll}
+\textbf{2015} & PhD Veterinary Sciences;  Ghent University, Merelbeke, BE \\
+              & PhD Public Health; Universit\'{e} catholique de Louvain, Brussels, BE \\
+\textbf{2014} & MSc Statistics; Katholieke Universiteit Leuven, Louvain, BE \\
+\textbf{2010} & MSc Veterinary Medicine; Ghent University, Merelbeke, BE \\
+\textbf{2007} & BSc Veterinary Medicine; Ghent University, Merelbeke, BE
+\end{tabular}
+\end{table}
 
 %% EMPLOYMENT %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section*{Employment}
-\begin{itemize}
-  \setlength\itemsep{0em}
-  \item \textbf{Visiting professor, advanced epidemiology}, 10/2018--present \hfill \\
-    Universit\'{e} catholique de Louvain, Brussels, Belgium
-  \item \textbf{Visiting professor, risk analysis}, 04/2018--present \hfill \\
-    Ghent University, Merelbeke, Belgium
-  \item \textbf{Senior epidemiologist}, 04/2016--present \hfill \\
-    Sciensano, Brussels, Belgium
-  \item \textbf{Visiting professor, health economic evaluations}, 10/2016--09/2018 \hfill \\
-    Universit\'{e} catholique de Louvain, Brussels, Belgium
-  \item \textbf{Assistant scientist, global food safety and zoonoses}, 06/2015--03/2016 \hfill \\
-    University of Florida, Gainesville, USA% \hfill \\
-    %Activities: 90\% research, 10\% teaching
-  \item \textbf{Post-doctoral researcher}, 04/2015 \hfill \\
-    Ghent University, Merelbeke, Belgium
-  \item \textbf{Contracted technical expert}, 09/2013--12/2013, 02/2014--03/2014 \hfill \\
-    World Health Organization, Geneva, Switzerland
-  \item \textbf{Doctoral researcher}, 10/2010--03/2015 \hfill \\
-     Ghent University, Merelbeke, Belgium \hfill \\
-     Universit\'{e} catholique de Louvain, Brussels, Belgium
-\end{itemize}
+
+\begin{table}[!htbp]
+\begin{tabular}{ll}
+\textbf{2018-} & Visiting professor, advanced epidemiology; UCL, Brussels, BE \\
+\textbf{2018-} & Visiting professor, risk analysis; UGent, Merelbeke, BE \\
+\textbf{2016-} & Senior epidemiologist, coordinator burden of disease studies; Sciensano, Brussels, BE \\
+\textbf{2016-18} & Guest lecturer, health economics; UCL, Brussels, BE \\
+\textbf{2015-16} & Assistant scientist, global food safety and zoonoses; UF, Gainesville, USA \\
+\textbf{2015} & Post-doctoral researcher; UGent, Merelbeke, BE \\
+\textbf{2013-14} & Consultant; World Health Organization, Geneva, CH \\
+\textbf{2010-15} & Doctoral researcher; UGent, Merelbeke, BE \& UCL, Brussels, BE
+\end{tabular}
+\end{table}
 
 \section*{Mentoring and supervision}
 
-
-<<echo=FALSE,results='asis',message=FALSE>>=
-db <- read_excel("students.xlsx", "students")
-
-db_msc <- db[db$grade == "MSc", ]
-cat(nrow(db_msc), "MSc students")
-
-db_bsc <- db[db$grade == "BSc", ]
-cat(nrow(db_bsc), "BSc students")
-@
+\begin{itemize}
+  \setlength\itemsep{0em}
+  \item 2 PhD students (2 ongoing)
+  \item 36 MSc students (10 ongoing)
+  \item 8 BSc students (0 ongoing)
+\end{itemize}
 
 %% PUBLICATIONS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section*{Scientific output}
@@ -107,10 +71,10 @@ cat(nrow(db_bsc), "BSc students")
   \setlength\itemsep{0em}
 <<echo=FALSE,results='asis',message=FALSE>>=
 db <- read_excel("publications.xlsx", "chapters", na = "NA")
-cat("\\\\item ", nrow(db))
+cat("\\item ", nrow(db), "book chapters")
 
 db <- read_excel("publications.xlsx", "papers", na = "NA")
-cat("\\\\item ", nrow(db))
+cat("\\item ", nrow(db), "peer-reviewed publications")
 @
 \end{itemize}
 
