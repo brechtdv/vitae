@@ -5,6 +5,15 @@
 %% PREAMBLE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \Sexpr{knitr::knit_child("cv_preamble.tex")}
 
+\usepackage{titlesec}
+\titlespacing*{\section}
+{0pt}{1ex}{0ex}
+
+\pagenumbering{gobble}
+
+\setlength{\headheight}{0pt}
+\enlargethispage{\footskip}
+
 %% R FUNCTIONS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \Sexpr{source("vitae.R")}
 
@@ -22,7 +31,6 @@ Rue Juliette Wytsmanstraat 14, 1050 Brussels, Belgium $\mid$ +32 2 642 5035
 
 %% PERSONAL STATEMENT %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section*{Personal statement}
-\vspace{-4mm}
 
 The common goal of my research activities is to quantify the true impact of diseases and health inequalities, and to make model-based evaluations of prevention and control. I have developed and implemented the computational framework for estimating the global burden of foodborne disease, as an active member of the World Health Organization Foodborne Disease Burden Epidemiology Reference Group (WHO/FERG). Currently, I am implementing a Belgian national burden of disease study.
 
@@ -30,7 +38,8 @@ My research activities have led to more than 100 peer-reviewed scientific public
 
 %% EDUCATION %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section*{Education}
-\vspace{-4mm}
+
+\vspace{-0.5cm}
 
 \begin{table}[!htbp]
 \begin{tabular}{ll}
@@ -42,17 +51,19 @@ My research activities have led to more than 100 peer-reviewed scientific public
 \end{tabular}
 \end{table}
 
+\vspace{-0.4cm}
+
 %% EMPLOYMENT %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\vspace{-4mm}
 \section*{Employment}
-\vspace{-4mm}
+
+\vspace{-0.5cm}
 
 \begin{table}[!htbp]
 \begin{tabular}{ll}
 \textbf{2018-} & Visiting professor, advanced epidemiology; UCL, Brussels, BE \\
 \textbf{2018-} & Visiting professor, risk analysis; UGent, Merelbeke, BE \\
 \textbf{2016-} & Senior epidemiologist; Sciensano, Brussels, BE \\
-\textbf{2016-18} & Guest lecturer, health economics; UCL, Brussels, BE \\
+\textbf{2016-18} & Visiting professor, health economic evaluations; UCL, Brussels, BE \\
 \textbf{2015-16} & Assistant scientist, global food safety and zoonoses; UF, Gainesville, USA \\
 \textbf{2015} & Post-doctoral researcher; UGent, Merelbeke, BE \\
 \textbf{2013-14} & Consultant; World Health Organization, Geneva, CH \\
@@ -60,18 +71,16 @@ My research activities have led to more than 100 peer-reviewed scientific public
 \end{tabular}
 \end{table}
 
+\vspace{-0.4cm}
+
 %% TEACHING %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\vspace{-4mm}
 \section*{Mentoring and supervision}
-\vspace{-4mm}
 
 \noindent
-2 PhD students (2 ongoing) $\cdot$ 36 MSc students (10 ongoing) $\cdot$ 8 BSc students (0 ongoing)
+2 PhD students $\cdot$ 36 MSc students $\cdot$ 8 BSc students
 
 %% PUBLICATIONS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\vspace{-4mm}
 \section*{Scientific output}
-\vspace{-4mm}
 
 \noindent
 <<echo=FALSE,results='asis',message=FALSE>>=
@@ -89,5 +98,18 @@ gs <- get_profile(id)
 @
 \noindent
 \href{https://scholar.google.be/citations?user=AFSxtd0AAAAJ}{Google Scholar} metrics: \Sexpr{gs$total_cites} citations $\cdot$ h-index \Sexpr{gs$h_index} $\cdot$ i10-index \Sexpr{gs$i10_index}
+
+\vspace{0.5cm}
+
+\begin{center}
+\hrule
+\vspace{0.5cm}
+\textsl{
+<<echo=FALSE, results='asis'>>=
+month <- month.name[as.numeric(format(Sys.Date(), "%m"))]
+cat(gsub("XXX", month, format(Sys.Date(), "%d XXX %Y")))
+@
+}}
+\end{center}
 
 \end{document} 
