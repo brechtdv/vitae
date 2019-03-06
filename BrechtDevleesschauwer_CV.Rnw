@@ -100,8 +100,9 @@ db <- db[order(db$title), ]
 db <- db[order(db$year, decreasing = TRUE), ]
 
 for (i in seq(nrow(db))) {
-  cat("\\item \\textbf{", db$title[i], "}, ", db$year[i], " \\hfill \\\\ \n", sep = "")
-  cat(sanitize_specials(db$location[i], "latex"), "\n")
+  cat("\\item \\textbf{", db$title[i], "}, ",
+      sanitize_specials(db$location[i], "latex"), ", ",
+      db$year[i], "\n", sep = "")
 }
 @
 \end{itemize}

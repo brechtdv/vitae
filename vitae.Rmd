@@ -83,8 +83,7 @@ db <- db[order(db$title), ]
 db <- db[order(db$year, decreasing = TRUE), ]
 
 for (i in seq(nrow(db))) {
-  cat("* **", db$title[i], "**, ", db$year[i], "  \n", sep = "")
-  cat("    ", db$location[i], "\n\n")
+  cat("* **", db$title[i], "**, ", db$location[i], ", ", db$year[i], "  \n\n", sep = "")
 }
 ```
 
