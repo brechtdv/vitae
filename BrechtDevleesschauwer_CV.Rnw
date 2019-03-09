@@ -479,6 +479,8 @@ for (i in seq(nrow(db))) {
 \subsection{Reports}
 \begin{itemize}
   \setlength\itemsep{0em}
+  \item[{[10]}] Renard F, \textbf{Devleesschauwer B} (2019) Health Status Report 2019: De gezondheidstoestand in Belgi\"{e}. Brussels, Belgium: Sciensano; 48p. Report number D/2019/14.440/4. \url{https://doi.org/10.25608/reh4-ty02}
+  \item[{[9]}] Renard F, \textbf{Devleesschauwer B} (2019) Health Status Report 2019: L'\'{e}tat de sant\'{e} en Belgique. Brussels, Belgium: Sciensano; 48p. Report number D/2019/14.440/3. \url{https://doi.org/10.25608/a42z-ah78}
   \item[{[8]}] Federal Agency for the Safety of the Food Chain (2018) The analysis program regarding microbiological analyses in prepared products, fish products, vegetables, fruit, herbs, vegetable oil, fertilizers, beverages and water not intended for drinks (dossier SciCom 2017/24). \url{http://www.afsca.be/scientificcommittee/opinions/2018/_documents/Advice15-2018.pdf}
   \item[{[7]}] Food and Agriculture Organization of the United Nations, World Health Organization (2018) Shiga toxin-producing \emph{Escherichia coli} (STEC) and food: attribution, characterization, and monitoring. JEMRA Microbiological Risk Assessment Series. \url{http://www.fao.org/documents/card/en/c/CA0032EN}
   \item[{[6]}] Graham H, Martijn Bouwknegt M, \textbf{Devleesschauwer B}, Robertson L, van der Giessen L (2016) COST Action FA1408: European ranking of foodborne parasites. Results of a workshop held to prioritise foodborne parasites in Europe using multicriteria decision analyses, 8--12 February 2016, RIVM Bilthoven.
@@ -504,10 +506,12 @@ for (i in seq(nrow(db))) {
 \subsection{Vulgarizing articles}
 \begin{itemize}
   \setlength\itemsep{0em}
-  \item[{[4]}] Havelaar AH, \textbf{Devleesschauwer B}. \textit{One in 10 globally suffer from foodborne diseases, WHO study finds.} EPI News, 3 December 2015.
-  \item[{[3]}] Speybroeck N, Maertens de Noordhout C, \textbf{Devleesschauwer B}. \textit{Des nombres pour des aliments s\^{u}rs.} La Libre Belgique, 12 April 2015.
-  \item[{[2]}] Speybroeck N, Maertens de Noordhout C, \textbf{Devleesschauwer B}. \textit{Comment les nombres rendent vos aliments plus s\^{u}rs.} Le Soir, 8 April 2015.
-  \item[{[1]}] Speybroeck N, Maertens de Noordhout C, \textbf{Devleesschauwer B}. \textit{Hoe getallen je voedsel veiliger maken.} De Morgen, 7 April 2015.
+  \item[{[6]}] \textit{New! Belgian Health Status Report available online.} Sciensano news, 22 February 2019. \url{https://www.sciensano.be/en/press-corner/new-belgian-health-status-report-available-online}
+  \item[{[5]}] \textit{Belgium drops from 8th to 15th place on the European ladder of healthy life years.} Sciensano news, 16 July 2018. \url{https://www.sciensano.be/en/press-corner/belgium-drops-8th-15th-place-european-ladder-healthy-life-years}
+  \item[{[4]}] \textit{One in 10 globally suffer from foodborne diseases, WHO study finds.} EPI News, 3 December 2015. \url{http://news.ufl.edu/articles/2015/12/one-in-10-globally-suffer-from-foodborne-diseases-who-study-finds.php}
+  \item[{[3]}] \textit{Des nombres pour des aliments s\^{u}rs.} La Libre Belgique, 12 April 2015.
+  \item[{[2]}] \textit{Comment les nombres rendent vos aliments plus s\^{u}rs.} Le Soir, 8 April 2015.
+  \item[{[1]}] \textit{Hoe getallen je voedsel veiliger maken.} De Morgen, 7 April 2015. \url{https://www.demorgen.be/opinie/hoe-getallen-je-voedsel-veiliger-maken-b7910eb9/}
 \end{itemize}
 
 \section{Scientific honors and awards}

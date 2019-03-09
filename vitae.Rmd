@@ -427,7 +427,11 @@ cat(sprintf("### Poster presentations (%d)", nrow(db)))
 for (i in seq(nrow(db))) print_proceeding(db[i, ], nrow(db) - i + 1)
 ```
 
-### Reports (8)
+### Reports (10)
+
+* Renard F, **Devleesschauwer B** (2019) Health Status Report 2019: De gezondheidstoestand in België. Brussels, Belgium: Sciensano; 48p. Report number D/2019/14.440/4. https://doi.org/10.25608/reh4-ty02
+
+* Renard F, **Devleesschauwer B** (2019) Health Status Report 2019: L'état de santé en Belgique. Brussels, Belgium: Sciensano; 48p. Report number D/2019/14.440/3. https://doi.org/10.25608/a42z-ah78
 
 * Federal Agency for the Safety of the Food Chain (2018) The analysis program regarding microbiological analyses in prepared products, fish products, vegetables, fruit, herbs, vegetable oil, fertilizers, beverages and water not intended for drinks (dossier SciCom 2017/24). http://www.afsca.be/scientificcommittee/opinions/2018/_documents/Advice15-2018.pdf
 
@@ -459,10 +463,12 @@ for (i in seq(nrow(db))) {
 
 ### Vulgarizing articles
 
-* Havelaar AH, **Devleesschauwer B**. _One in 10 globally suffer from foodborne diseases, WHO study finds._ EPI News, 3 December 2015.
-* Speybroeck N, Maertens de Noordhout C, **Devleesschauwer B**. _Des nombres pour des aliments sûrs._ La Libre Belgique, 12 April 2015.
-* Speybroeck N, Maertens de Noordhout C, **Devleesschauwer B**. _Comment les nombres rendent vos aliments plus sûrs._ Le Soir, 8 April 2015.
-* Speybroeck N, Maertens de Noordhout C, **Devleesschauwer B**. _Hoe getallen je voedsel veiliger maken._ De Morgen, 7 April 2015.
+* _New! Belgian Health Status Report available online._ Sciensano news, 22 February 2019. https://www.sciensano.be/en/press-corner/new-belgian-health-status-report-available-online
+* _Belgium drops from 8th to 15th place on the European ladder of healthy life years._ Sciensano news, 16 July 2018. https://www.sciensano.be/en/press-corner/belgium-drops-8th-15th-place-european-ladder-healthy-life-years
+* _One in 10 globally suffer from foodborne diseases, WHO study finds._ EPI News, 3 December 2015. http://news.ufl.edu/articles/2015/12/one-in-10-globally-suffer-from-foodborne-diseases-who-study-finds.php
+* _Des nombres pour des aliments sûrs._ La Libre Belgique, 12 April 2015.
+* _Comment les nombres rendent vos aliments plus sûrs._ Le Soir, 8 April 2015.
+* _Hoe getallen je voedsel veiliger maken._ De Morgen, 7 April 2015. https://www.demorgen.be/opinie/hoe-getallen-je-voedsel-veiliger-maken-b7910eb9/
 
 ## Scientific honors and awards
 
