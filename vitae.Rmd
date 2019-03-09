@@ -276,9 +276,9 @@ Nepali   | +        | +       | +
     Quality of life in patients with chronic disease  
     Promoters: Delphine De Smedt; Els Clays, **Brecht Devleesschauwer**  
     
-* **Sofie Theresa Thomsen**, 2016--2018   
+* **Sofie Theresa Thomsen**, 2016--2019   
     PhD Nutrition, National Food Institute, Danish Technical University  
-    Risk-benefit assessment of whole diet  
+    Risk-benefit assessment of food substitutions  
     Promoters: Rikke Andersen; Sara Monteiro Pires, Morten Poulsen, **Brecht Devleesschauwer**  
 
 ```{r, echo=FALSE, results='asis', message=FALSE}

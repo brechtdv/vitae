@@ -318,9 +318,9 @@ for Statisticians and Practitioners}, 28--29 March 2013 \hfill \\
     PhD Public Health, Ghent University \hfill \\
     Quality of life in patients with chronic disease \hfill \\
     Promoters: Rikke Andersen; Sara Monteiro Pires, Morten Poulsen, \textbf{Brecht Devleesschauwer}  
-  \item \textbf{Sofie Theresa Thomsen}, 2016--2018 \hfill \\
+  \item \textbf{Sofie Theresa Thomsen}, 2016--2019 \hfill \\
     PhD Nutrition, National Food Institute, Danish Technical University \hfill \\
-    Risk-benefit assessment of whole diet \hfill \\
+    Risk-benefit assessment of food substitutions \hfill \\
     Promoters: Delphine De Smedt; Els Clays, \textbf{Brecht Devleesschauwer}
 \end{itemize}
 
