@@ -427,11 +427,13 @@ cat(sprintf("### Poster presentations (%d)", nrow(db)))
 for (i in seq(nrow(db))) print_proceeding(db[i, ], nrow(db) - i + 1)
 ```
 
-### Reports (10)
+### Reports (11)
 
 * Renard F, **Devleesschauwer B** (2019) Health Status Report 2019: De gezondheidstoestand in België. Brussels, Belgium: Sciensano; 48p. Report number D/2019/14.440/4. https://doi.org/10.25608/reh4-ty02
 
 * Renard F, **Devleesschauwer B** (2019) Health Status Report 2019: L'état de santé en Belgique. Brussels, Belgium: Sciensano; 48p. Report number D/2019/14.440/3. https://doi.org/10.25608/a42z-ah78
+
+* Federal Agency for the Safety of the Food Chain (2019) The FASFC analyses program regarding process contaminants (dossier SciCom 2018/03). http://www.afsca.be/scientificcommittee/opinions/2019/_documents/Advice02-2019.pdf
 
 * Federal Agency for the Safety of the Food Chain (2018) The analysis program regarding microbiological analyses in prepared products, fish products, vegetables, fruit, herbs, vegetable oil, fertilizers, beverages and water not intended for drinks (dossier SciCom 2017/24). http://www.afsca.be/scientificcommittee/opinions/2018/_documents/Advice15-2018.pdf
 
