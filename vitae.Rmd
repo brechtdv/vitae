@@ -474,6 +474,7 @@ for (i in seq(nrow(db))) {
 
 ## Scientific honors and awards
 
+* **Odile Bain Memorial Prize**, Parasites & Vectors; 2018
 * **PhD Scholarship**, Special Research Fund (BOF), Ghent University; 2010
 * **Pfizer Award** for the best Master thesis in Veterinary Medicine; 2010
 * **Dr Paul Janssen Award** for the best Master student in Veterinary Medicine; 2010

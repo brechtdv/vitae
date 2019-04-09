@@ -518,6 +518,7 @@ for (i in seq(nrow(db))) {
 \section{Scientific honors and awards}
 \begin{itemize}
   \setlength\itemsep{-0.1em}
+  \item \textbf{Odile Bain Memorial Prize}, Parasites \& Vectors; 2018
   \item \textbf{PhD Scholarship}, Special Research Fund (BOF), Ghent University; 2010
   \item \textbf{Pfizer Award} for the best Master thesis in Veterinary Medicine; 2010
   \item \textbf{Dr Paul Janssen Award} for the best Master student in Veterinary Medicine; 2010
