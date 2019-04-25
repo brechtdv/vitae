@@ -427,7 +427,9 @@ cat(sprintf("### Poster presentations (%d)", nrow(db)))
 for (i in seq(nrow(db))) print_proceeding(db[i, ], nrow(db) - i + 1)
 ```
 
-### Reports (11)
+### Reports (12)
+
+* Devos C, Cordon A, Lefèvre M, Obyn C, Renard F, Bouckaert N, Gerkens S, Maertens de Noordhout C, **Devleesschauwer B**, Haelterman M, Léonard C, Meeus P. Performance of the Belgian health system – report 2019. Health Services Research (HSR) Brussels: Belgian Health Care Knowledge Centre (KCE). 2019. KCE Reports 313. D/2019/10.273/34. https://kce.fgov.be/en/performance-of-the-belgian-health-system-%E2%80%93-report-2019
 
 * Renard F, **Devleesschauwer B** (2019) Health Status Report 2019: De gezondheidstoestand in België. Brussels, Belgium: Sciensano; 48p. Report number D/2019/14.440/4. https://doi.org/10.25608/reh4-ty02
 

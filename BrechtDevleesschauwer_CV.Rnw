@@ -479,6 +479,7 @@ for (i in seq(nrow(db))) {
 \subsection{Reports}
 \begin{itemize}
   \setlength\itemsep{0em}
+  \item[{[12]}] Devos C, Cordon A, Lef\`{e}vre M, Obyn C, Renard F, Bouckaert N, Gerkens S, Maertens de Noordhout C, \textbf{Devleesschauwer B}, Haelterman M, L\'{e}onard C, Meeus P. Performance of the Belgian health system -- report 2019. Health Services Research (HSR) Brussels: Belgian Health Care Knowledge Centre (KCE). 2019. KCE Reports 313. D/2019/10.273/34. \url{https://kce.fgov.be/en/performance-of-the-belgian-health-system-%E2%80%93-report-2019}
   \item[{[11]}] Renard F, \textbf{Devleesschauwer B} (2019) Health Status Report 2019: De gezondheidstoestand in Belgi\"{e}. Brussels, Belgium: Sciensano; 48p. Report number D/2019/14.440/4. \url{https://doi.org/10.25608/reh4-ty02}
   \item[{[10]}] Renard F, \textbf{Devleesschauwer B} (2019) Health Status Report 2019: L'\'{e}tat de sant\'{e} en Belgique. Brussels, Belgium: Sciensano; 48p. Report number D/2019/14.440/3. \url{https://doi.org/10.25608/a42z-ah78}
   \item[{[9]}] Federal Agency for the Safety of the Food Chain (2019) The FASFC analyses program regarding process contaminants (dossier SciCom 2018/03). \url{http://www.afsca.be/scientificcommittee/opinions/2019/_documents/Advice02-2019.pdf}
