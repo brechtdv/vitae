@@ -107,7 +107,27 @@ journals <-
 cat(sanitize_specials(paste(sort(journals), collapse = ", "), "html"))
 ```
 
+### Participation in national projects
+
+* **Project manager**, 2018--present   
+    Diagnosis-based morbidity statistics -- Pilot data collection
+    
+* **Project co-manager**, 2017--present   
+    Belgian Health Status Report
+
+* **Project manager**, 2016--present   
+    Belgian National Burden of Disease Study
+
+* **Project manager**, 2016--present   
+    Belgian contribution to the WHO/EURO Health for All Database
+
+* **Project collaborator**, 2016--present   
+    Belgian Health System Performance Assessment
+
 ### Participation in international projects
+
+* **Main Action Proposer and Chair**, 2019--present   
+    COST Action CA18218 European Burden of Disease Network
 
 * **Country representative**, 2017--present   
     EUROSTAT Technical Group on Morbidity Statistics
@@ -116,10 +136,10 @@ cat(sanitize_specials(paste(sort(journals), collapse = ", "), "html"))
     European Burden of Disease Network (WHO/EURO, IHME)
 
 * **Epidemiology workgroup leader**, 2013--2018   
-    EU COST action TD1302 CYSTINET---[www.cystinet.org](http://www.cystinet.org)
+    COST Action TD1302 CYSTINET---[www.cystinet.org](http://www.cystinet.org)
 
 * **Risk forecasting workgroup vice-leader**, 2015--2016   
-    EU COST action FA1408 EURO-FBP
+    COST Action FA1408 EURO-FBP
     
 * **USAID Feed the Future Innovation Lab on Livestock Systems**, 2015--2016  
     _Project granted to UF, aiming to improve livestock systems in Mali, Burkina Faso, Ethiopia, Rwanda, Nepal and Cambodia_  
