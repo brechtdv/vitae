@@ -127,7 +127,7 @@ cat(sanitize_specials(paste(sort(journals), collapse = ", "), "html"))
 ### Participation in international projects
 
 * **Main Action Proposer and Chair**, 2019--present   
-    COST Action CA18218 European Burden of Disease Network
+    COST Action CA18218 European Burden of Disease Network---[www.burden-eu.net](https://www.burden-eu.net)
 
 * **Country representative**, 2017--present   
     EUROSTAT Technical Group on Morbidity Statistics
@@ -289,17 +289,22 @@ Nepali   | +        | +       | +
 * **Applied biomedical statistics**, 2013--2014   
     MSc Veterinary Medicine, Ghent University
 
-### PhD students (2)
+### PhD students (3)
 
+* **Margot Cooreman-Algoed**, 2018--2024   
+    PhD Bioscience Engineering, Ghent University  
+    Integrating environmental and nutritional aspects of diets  
+    Promoters: Jo Dewulf, **Brecht Devleesschauwer**  
+    
 * **Lisa Van wilder**, 2018--2022   
     PhD Public Health, Ghent University  
     Quality of life in patients with chronic disease  
-    Promoters: Delphine De Smedt; Els Clays, **Brecht Devleesschauwer**  
+    Promoters: Delphine De Smedt, Els Clays, **Brecht Devleesschauwer**  
     
 * **Sofie Theresa Thomsen**, 2016--2019   
     PhD Nutrition, National Food Institute, Danish Technical University  
     Risk-benefit assessment of food substitutions  
-    Promoters: Rikke Andersen; Sara Monteiro Pires, Morten Poulsen, **Brecht Devleesschauwer**  
+    Promoters: Rikke Andersen, Sara Monteiro Pires, Morten Poulsen, **Brecht Devleesschauwer**  
 
 ```{r, echo=FALSE, results='asis', message=FALSE}
 db <- read_excel("students.xlsx", "students", na = "NA")

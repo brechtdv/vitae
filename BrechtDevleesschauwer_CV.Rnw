@@ -438,7 +438,7 @@ for (i in seq(nrow(db))) print_chapter(db[i, ], nrow(db) - i + 1)
 \end{itemize}
 
 \subsection{Peer-reviewed papers}
-<<echo=FALSE, warning=FALSE>>=
+<<echo=FALSE, warning=FALSE, message=FALSE>>=
 library(scholar)
 id <- "AFSxtd0AAAAJ"
 gs <- get_profile(id)
