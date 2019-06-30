@@ -4,6 +4,7 @@ arabiensis
 Echinococcus granulosus
 Giardia
 Opisthorchis
+Plasmodium falciparum
 Salmonella
 Taenia asiatica
 Taenia saginata
