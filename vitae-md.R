@@ -1,6 +1,6 @@
 ## packages used
 library(bd)
-library(scholar)
+suppressMessages(library(scholar))
 library(readxl)
 
 ## get google scholar profile

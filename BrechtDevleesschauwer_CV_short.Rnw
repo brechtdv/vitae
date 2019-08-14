@@ -6,8 +6,7 @@
 \Sexpr{knitr::knit_child("cv_preamble.tex")}
 
 \usepackage{titlesec}
-\titlespacing*{\section}
-{0pt}{1ex}{0ex}
+\titlespacing*{\section}{0pt}{1ex}{0ex}
 
 \pagenumbering{gobble}
 
@@ -92,7 +91,7 @@ cat(nrow(db), "peer-reviewed publications")
 @
 
 <<echo=FALSE, warning=FALSE>>=
-library(scholar)
+suppressMessages(library(scholar))
 id <- "AFSxtd0AAAAJ"
 gs <- get_profile(id)
 @
