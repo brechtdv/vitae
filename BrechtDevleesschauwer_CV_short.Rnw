@@ -59,9 +59,9 @@ My research activities have led to more than 100 peer-reviewed scientific public
 
 \begin{table}[!htbp]
 \begin{tabular}{ll}
-\textbf{2018-} & Visiting professor, advanced epidemiology; UCL, Brussels, BE \\
 \textbf{2018-} & Visiting professor, risk analysis; UGent, Merelbeke, BE \\
 \textbf{2016-} & Senior epidemiologist; Sciensano, Brussels, BE \\
+\textbf{2018-19} & Visiting professor, advanced epidemiology; UCL, Brussels, BE \\
 \textbf{2016-18} & Visiting professor, health economic evaluations; UCL, Brussels, BE \\
 \textbf{2015-16} & Assistant scientist, global food safety and zoonoses; UF, Gainesville, USA \\
 \textbf{2015} & Post-doctoral researcher; UGent, Merelbeke, BE \\
