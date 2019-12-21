@@ -536,6 +536,8 @@ for (i in seq(nrow(db))) {
 \subsection{Vulgarizing articles}
 \begin{itemize}
   \setlength\itemsep{0em}
+  \item[{[6]}] \textit{In a tobacco-free world, life expectancy increases by 2 years.} Sciensano news, 11 December 2019. \url{https://www.sciensano.be/en/press-corner/a-tobacco-free-world-life-expectancy-increases-2-years}
+  \item[{[6]}] \textit{Acute gastroenteritis cost the Belgian economy hundreds of millions euros every year.} Sciensano news, 26 June 2019. \url{https://www.sciensano.be/en/press-corner/acute-gastroenteritis-cost-belgian-economy-hundreds-millions-euros-every-year}
   \item[{[6]}] \textit{New! Belgian Health Status Report available online.} Sciensano news, 22 February 2019. \url{https://www.sciensano.be/en/press-corner/new-belgian-health-status-report-available-online}
   \item[{[5]}] \textit{Belgium drops from 8th to 15th place on the European ladder of healthy life years.} Sciensano news, 16 July 2018. \url{https://www.sciensano.be/en/press-corner/belgium-drops-8th-15th-place-european-ladder-healthy-life-years}
   \item[{[4]}] \textit{One in 10 globally suffer from foodborne diseases, WHO study finds.} EPI News, 3 December 2015. \url{http://news.ufl.edu/articles/2015/12/one-in-10-globally-suffer-from-foodborne-diseases-who-study-finds.php}
