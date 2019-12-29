@@ -130,8 +130,14 @@ cat(sanitize_specials(paste(sort(journals), collapse = ", "), "latex"))
 
 \subsection{Participation in national projects}
 \begin{itemize}
-  \item \textbf{Diagnosis-based morbidity statistics -- Pilot data collection}, 2018--present \hfill \\
-  \emph{The overall objective of this Eurostat-funded project is to obtain nationally representative, comparable diagnosis-based morbidity data proceeding from the 2018 Shortlist of Morbidity Indicators developed by Eurostat}
+  \item \textbf{ELLIS – Monitoring and mitigating environmental health inequalities in Belgium}, 2019--2023 \hfill \\
+  \emph{ELLIS is a BELSPO BRAIN-be project that aims to develop policy-relevant tools to monitor and mitigate environmental health inequalities in Belgium.}
+  
+  \item \textbf{WaIST – Contribution of excessive weight status to the social impact of non-communicable diseases, multimorbidity and disability in Belgium: past, present, and future}, 2019--2023 \hfill \\
+  \emph{Proactive policy support for the further development and implementation of evidence-based health policies for the prevention of excessive weight gain.}
+
+  \item \textbf{Diagnosis-based morbidity statistics -- Pilot data collection}, 2018--2019 \hfill \\
+  \emph{The overall objective of this Eurostat-funded project is to obtain nationally representative, comparable diagnosis-based morbidity data proceeding from the 2018 Shortlist of Morbidity Indicators developed by Eurostat.}
 
   \item \textbf{Belgian Health Status Report}, 2017--present \hfill \\
   \emph{The Belgian Health Status Report addresses the lack of an integrated view on the health status of the Belgian population. It provides health status information relevant for decision-makers, with focus on information useful for defining and/or evaluating health objectives.}
@@ -151,7 +157,7 @@ cat(sanitize_specials(paste(sort(journals), collapse = ", "), "latex"))
 \subsection{Participation in international projects}
 \begin{itemize}
   \item \textbf{Main Action Proposer and Chair}, 2019--present \hfill \\
-    COST Action CA18218 ``European Burden of Disease Network''
+    COST Action CA18218 ``European Burden of Disease Network''---\href{https://www.burden-eu.net}{www.burden-eu.net}
     
   \item \textbf{Country representative}, 2017--present \hfill \\
     EUROSTAT Technical Group on Morbidity Statistics

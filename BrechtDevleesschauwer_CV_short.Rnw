@@ -5,9 +5,13 @@
 %% PREAMBLE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \Sexpr{knitr::knit_child("cv_preamble.tex")}
 
-\usepackage{titlesec}
-\titlespacing*{\section}{0pt}{1ex}{0ex}
+%\titlespacing*{\section}{0pt}{1ex}{0ex}
 
+\RedeclareSectionCommand[
+  afterindent=false,
+  beforeskip=3pt,
+  afterskip=1pt]{section}
+  
 \pagenumbering{gobble}
 
 \setlength{\headheight}{0pt}
@@ -33,12 +37,12 @@ Rue Juliette Wytsman 14, 1050 Brussels, Belgium $\mid$ +32 2 642 5035
 
 The common goal of my research activities is to quantify the true impact of diseases and health inequalities, and to make model-based evaluations of prevention and control. I have developed and implemented the computational framework for the WHO/FERG estimates of the global burden of foodborne disease. Currently, I am implementing the Belgian national burden of disease study and am chairing the COST Action CA18218 ``European Burden of Disease Network''.
 
-My research activities have led to more than 100 peer-reviewed scientific publications in national and international journals. My scientific expertise in burden assessment, risk assessment and health economics has been recognized through invitations to various national and international expert groups, including the Belgian Superior Health Council, the Belgian Food Safety Authority, and EFSA, WHO and FAO.
+My research activities have led to more than 130 peer-reviewed scientific publications in national and international journals. My scientific expertise in burden assessment, risk assessment and health economics has been recognized through invitations to various national and international expert groups, including the Belgian Superior Health Council, the Belgian Food Safety Authority, and EFSA, WHO and FAO.
 
 %% EDUCATION %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section*{Education}
 
-\vspace{-0.5cm}
+\vspace{-0.2cm}
 
 \begin{table}[!htbp]
 \begin{tabular}{ll}
@@ -50,12 +54,12 @@ My research activities have led to more than 100 peer-reviewed scientific public
 \end{tabular}
 \end{table}
 
-\vspace{-0.4cm}
+\vspace{-0.7cm}
 
 %% EMPLOYMENT %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section*{Employment}
 
-\vspace{-0.5cm}
+\vspace{-0.3cm}
 
 \begin{table}[!htbp]
 \begin{tabular}{ll}
@@ -108,7 +112,7 @@ gs <- get_profile(id)
 month <- month.name[as.numeric(format(Sys.Date(), "%m"))]
 cat(gsub("XXX", month, format(Sys.Date(), "%d XXX %Y")))
 @
-}}
+}
 \end{center}
 
 \end{document} 

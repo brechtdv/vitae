@@ -108,7 +108,13 @@ cat(sanitize_specials(paste(sort(journals), collapse = ", "), "html"))
 
 ### Participation in national projects
 
-* **Project manager**, 2018--present   
+* **Principal investigator**, 2019--2023   
+    WaIST --  Contribution of excessive weight status to the social impact of non-communicable diseases, multimorbidity and disability in Belgium: past, present, and future
+    
+* **Principal investigator**, 2019--2023   
+    ELLIS -- Monitoring and mitigating environmental health inequalities in Belgium---[www.brain-ellis.be](https://www.brain-ellis.be)
+    
+* **Project manager**, 2018--2019   
     Diagnosis-based morbidity statistics -- Pilot data collection
     
 * **Project co-manager**, 2017--present   

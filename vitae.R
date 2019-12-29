@@ -174,7 +174,7 @@ print_student <-
                  "Promoter:", "Promoters:")
     
     ## reformat year string
-    year_string <- paste0(item$year, "--", item$year - 2000 + 1)
+    year_string <- sprintf("(%s)", item$year+1)
     
     ## reformat title string
     title_string <- item$title
@@ -183,13 +183,10 @@ print_student <-
       title_string <- gtag(title_string, needle[i], "textit")
 
     ## print item
-    cat("\\item ", item$student, ", ", year_string, sep = "")
-    cat("\\hfill \\\\ \n")
-    cat(item$grade, " ", item$topic, ", ", item$univ, sep = "")
-    cat("\\hfill \\\\ \n")
-    cat(title_string, " (", item$type, ")", sep = "")
-    cat("\\hfill \\\\ \n")
-    cat(pr, paste(pr_string, collapse = ", "), "\n")
+    cat("\\item ", item$student, " ", year_string, " ", sep = "")
+    cat(title_string, ". ", sep = "")
+    cat(item$grade, " ", item$topic, ", ", item$univ, ". ", sep = "")
+    cat(pr, " ", paste(pr_string, collapse = ", "), ".\n", sep = "")
   }
 
 

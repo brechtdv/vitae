@@ -258,7 +258,7 @@ print_student <-
                  "Promoter:", "Promoters:")
     
     ## reformat year string
-    year_string <- paste0(item$year, "--", item$year - 2000 + 1)
+    year_string <- sprintf("(%s)", item$year+1)
     
     ## reformat title string
     title_string <- item$title
@@ -267,15 +267,22 @@ print_student <-
 
     ## print item
     cat("* ",
-        paste(item$student,
-              paste(item$grade, item$topic, sep = " "),
-              item$univ,
-              year_string,
-              sep = ", "))
-    cat("  \n")
-    cat(title_string, " (", item$type, ")", sep = "")
-    cat("  \n")
-    cat(pr, paste(pr_string, collapse = ", "), "\n\n")
+        paste0(
+          item$student,
+          " ",
+          year_string,
+          " ",
+          title_string,
+          ". ",
+          paste(item$grade, item$topic),
+          ", ",
+          item$univ,
+          ". ",
+          pr,
+          " ",
+          paste(pr_string, collapse = ", "),
+          ".\n\n")
+    )
   }
 
 
