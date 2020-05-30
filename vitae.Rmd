@@ -18,7 +18,7 @@ Rue Juliette Wytsman 14, 1050 Brussels, Belgium | +32 2 642 5035
 
 ## Research interests
 
-* Epidemiology, burden of disease, risk assessment, health economics;
+* Epidemiology, burden of disease, health impact assessment, risk assessment;
 * Bayesian data analysis, true prevalence estimation, disease transmission modeling;
 * Zoonotic diseases, food safety, veterinary public health.
 

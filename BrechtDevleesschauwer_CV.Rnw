@@ -33,7 +33,7 @@ Rue Juliette Wytsman 14, 1050 Brussels, Belgium $\mid$ +32 2 642 5035
 \section{Research interests}
 \begin{itemize}
   \setlength\itemsep{-0.1em}
-  \item Epidemiology, burden of disease, risk assessment, health economics;
+  \item Epidemiology, burden of disease, health impact assessment, risk assessment;
   \item Bayesian data analysis, true prevalence estimation, disease transmission modeling;
   \item Zoonotic diseases, food safety, veterinary public health.
 \end{itemize}
