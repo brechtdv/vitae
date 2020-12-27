@@ -3,6 +3,7 @@ Anopheles
 arabiensis
 Echinococcus granulosus
 Giardia
+Helicobacter pylori
 Opisthorchis
 Plasmodium falciparum
 Salmonella
