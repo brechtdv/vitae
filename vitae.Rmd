@@ -108,12 +108,18 @@ cat(sanitize_specials(paste(sort(journals), collapse = ", "), "html"))
 
 ### Participation in national projects
 
+* **Principal investigator**, 2020--2025   
+    HELICON --  Unravelling the long-term and indirect health impact of the coronavirus crisis in Belgium---[www.brain-helicon.be](https://www.brain-helicon.be)
+
+* **Principal investigator**, 2020--2023   
+    AHEAD -- Towards the development of a national health data platform
+
+* **Principal investigator**, 2019--2024   
+    ELLIS -- Monitoring and mitigating environmental health inequalities in Belgium---[www.brain-ellis.be](https://www.brain-ellis.be)
+
 * **Principal investigator**, 2019--2023   
     WaIST --  Contribution of excessive weight status to the social impact of non-communicable diseases, multimorbidity and disability in Belgium: past, present, and future
-    
-* **Principal investigator**, 2019--2023   
-    ELLIS -- Monitoring and mitigating environmental health inequalities in Belgium---[www.brain-ellis.be](https://www.brain-ellis.be)
-    
+        
 * **Project manager**, 2018--2019   
     Diagnosis-based morbidity statistics -- Pilot data collection
     
@@ -130,6 +136,9 @@ cat(sanitize_specials(paste(sort(journals), collapse = ", "), "html"))
     Belgian Health System Performance Assessment
 
 ### Participation in international projects
+
+* **Human Health Theme co-lead**, 2021--present   
+    Global Burden of Animal Diseases programme---[www.animalhealthmetrics.org](https://www.animalhealthmetrics.org)
 
 * **Main Action Proposer and Chair**, 2019--present   
     COST Action CA18218 European Burden of Disease Network---[www.burden-eu.net](https://www.burden-eu.net)
