@@ -342,9 +342,13 @@ for Statisticians and Practitioners}, 28--29 March 2013 \hfill \\
     MSc Veterinary Medicine, Ghent University
 \end{itemize}
 
-\subsection{PhD students (3)}
+\subsection{PhD students (5)}
 \begin{itemize}
   \setlength\itemsep{0em}
+  \item \textbf{Vanessa Gorasso}, 2020--2024 \hfill \\
+    PhD Public Health, Ghent University \hfill \\
+    Health impact assesssment of excess weight status prevention policies \hfill \\
+    Promoters: Delphine De Smedt, \textbf{Brecht Devleesschauwer} 
   \item \textbf{Margot Cooreman-Algoed}, 2018--2024 \hfill \\
     PhD Bioscience Engineering, Ghent University \hfill \\
     Integrating environmental and nutritional aspects of diets \hfill \\
@@ -353,6 +357,10 @@ for Statisticians and Practitioners}, 28--29 March 2013 \hfill \\
     PhD Public Health, Ghent University \hfill \\
     Quality of life in patients with chronic disease \hfill \\
     Promoters: Delphine De Smedt; Els Clays, \textbf{Brecht Devleesschauwer}
+  \item \textbf{Frederik Engelen}, 2018--2021 \hfill \\
+    PhD Veterinary Sciences, Ghent University \hfill \\
+    Shiga toxin-producing Escherichia coli: A dangerous gut feeling \hfill \\
+    Promoters: Eric Cox, Lieven De Zutter, Jacques Mainil, \textbf{Brecht Devleesschauwer} 
   \item \textbf{Sofie Theresa Thomsen}, 2016--2019 \hfill \\
     PhD Nutrition, National Food Institute, Danish Technical University \hfill \\
     Risk-benefit assessment of food substitutions \hfill \\

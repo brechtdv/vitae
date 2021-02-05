@@ -303,8 +303,13 @@ Nepali   | +        | +       | +
 * **Applied biomedical statistics**, 2013--2014   
     MSc Veterinary Medicine, Ghent University
 
-### PhD students (3)
+### PhD students (5)
 
+* **Vanessa Gorasso**, 2020--2024   
+    PhD Public Health, Ghent University  
+    Health impact assesssment of excess weight status prevention policies  
+    Promoters: Delphine De Smedt, **Brecht Devleesschauwer**  
+    
 * **Margot Cooreman-Algoed**, 2018--2024   
     PhD Bioscience Engineering, Ghent University  
     Integrating environmental and nutritional aspects of diets  
@@ -314,6 +319,11 @@ Nepali   | +        | +       | +
     PhD Public Health, Ghent University  
     Quality of life in patients with chronic disease  
     Promoters: Delphine De Smedt, Els Clays, **Brecht Devleesschauwer**  
+
+* **Frederik Engelen**, 2018--2021  
+    PhD Veterinary Sciences, Ghent University  
+    Shiga toxin-producing Escherichia coli: A dangerous gut feeling
+    Promoters: Eric Cox, Lieven De Zutter, Jacques Mainil, **Brecht Devleesschauwer**  
     
 * **Sofie Theresa Thomsen**, 2016--2019   
     PhD Nutrition, National Food Institute, Danish Technical University  
