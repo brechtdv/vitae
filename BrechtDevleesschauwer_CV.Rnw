@@ -357,9 +357,13 @@ for Statisticians and Practitioners}, 28--29 March 2013 \hfill \\
     MSc Veterinary Medicine, Ghent University
 \end{itemize}
 
-\subsection{PhD students (5)}
+\subsection{PhD students (6)}
 \begin{itemize}
   \setlength\itemsep{0em}
+  \item \textbf{Martina Otavova}, 2020--2024 \hfill \\
+    PhD Social Sciences (demography), Université catholique de Louvain \hfill \\
+    Development and application of a Belgian Index of Multiple Deprivation \hfill \\
+    Promoters: Bruno Masquelier, \textbf{Brecht Devleesschauwer} 
   \item \textbf{Vanessa Gorasso}, 2020--2024 \hfill \\
     PhD Public Health, Ghent University \hfill \\
     Health impact assesssment of excess weight status prevention policies \hfill \\

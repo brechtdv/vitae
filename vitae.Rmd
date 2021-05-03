@@ -309,8 +309,13 @@ Nepali   | +        | +       | +
 * **Applied biomedical statistics**, 2013--2014   
     MSc Veterinary Medicine, Ghent University
 
-### PhD students (5)
+### PhD students (6)
 
+* **Martina Otavova**, 2020--2024   
+    PhD Social Sciences (Demography), Université catholique de Louvain  
+    Development and application of a Belgian Index of Multiple Deprivation  
+    Promoters: Bruno Masquelier, **Brecht Devleesschauwer**  
+    
 * **Vanessa Gorasso**, 2020--2024   
     PhD Public Health, Ghent University  
     Health impact assesssment of excess weight status prevention policies  
@@ -321,7 +326,7 @@ Nepali   | +        | +       | +
     Integrating environmental and nutritional aspects of diets  
     Promoters: Jo Dewulf, **Brecht Devleesschauwer**  
     
-* **Lisa Van wilder**, 2018--2022   
+* **Lisa Van Wilder**, 2018--2022   
     PhD Public Health, Ghent University  
     Quality of life in patients with chronic disease  
     Promoters: Delphine De Smedt, Els Clays, **Brecht Devleesschauwer**  
