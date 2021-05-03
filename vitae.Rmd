@@ -137,6 +137,12 @@ cat(sanitize_specials(paste(sort(journals), collapse = ", "), "html"))
 
 ### Participation in international projects
 
+* **WP member**, 2021--present   
+    WP4 Data analysis, Unravelling Data for Rapid Evidence-Based Response to COVID-19---[www.uncover-eu.net](https://www.uncover-eu.net)
+
+* **WP member**, 2021--present   
+    WP5 Research methodologies to assess the impact of COVID-19, The Population Health Information Research Infrastructure---[www.phiri.eu](https://www.phiri.eu)
+
 * **Human Health Theme co-lead**, 2021--present   
     Global Burden of Animal Diseases programme---[www.animalhealthmetrics.org](https://www.animalhealthmetrics.org)
 

@@ -130,6 +130,12 @@ cat(sanitize_specials(paste(sort(journals), collapse = ", "), "latex"))
 
 \subsection{Participation in national projects}
 \begin{itemize}
+  \item \textbf{HELICON – Unravelling the long-term and indirect health impact of the coronavirus crisis in Belgium}, 2020--2025 \hfill \\
+  \emph{HELICON is a BELSPO BRAIN-be project that aims to unravel the social inequalities and the long-term and indirect health effects of the COVID-19 crisis in Belgium.}
+  
+    \item \textbf{AHEAD – Towards the development of a national health data platform}, 2020--2023 \hfill \\
+  \emph{AHEAD is a BELSPO BRAIN-be project that aims to increase the visibility of the Belgian health information landscape, and explore the technical, ethical and legal bottlenecks towards a more integrated national health information system.}
+  
   \item \textbf{ELLIS – Monitoring and mitigating environmental health inequalities in Belgium}, 2019--2023 \hfill \\
   \emph{ELLIS is a BELSPO BRAIN-be project that aims to develop policy-relevant tools to monitor and mitigate environmental health inequalities in Belgium.}
   
@@ -156,6 +162,15 @@ cat(sanitize_specials(paste(sort(journals), collapse = ", "), "latex"))
 
 \subsection{Participation in international projects}
 \begin{itemize}
+  \item \textbf{WP Member}, 2021--present \hfill \\
+    WP4 Data analysis, Unravelling Data for Rapid Evidence-Based Response to COVID-19---\href{https://www.uncover-eu.net}{www.uncover-eu.net}
+    
+  \item \textbf{WP member}, 2021--present \hfill \\
+    WP5 Research methodologies to assess the impact of COVID-19, The Population Health Information Research Infrastructure---\href{https://www.phiri.eu}{www.phiri.eu}
+    
+  \item \textbf{Human Health Theme co-lead}, 2021--present \hfill \\
+    Global Burden of Animal Diseases programme---\href{https://www.animalhealthmetrics.org}{www.animalhealthmetrics.org}
+        
   \item \textbf{Main Action Proposer and Chair}, 2019--present \hfill \\
     COST Action CA18218 ``European Burden of Disease Network''---\href{https://www.burden-eu.net}{www.burden-eu.net}
     
