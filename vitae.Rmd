@@ -11,7 +11,6 @@ source("vitae-md.R")
 Senior epidemiologist, PhD DVM MVSc MStat
 
 _Sciensano, Department of Epidemiology and Public Health_  
-_Center for Burden and Risk Assessment_---[www.cbra.be](http://www.cbra.be)
 
 brecht.devleesschauwer@sciensano.be | Skype: <a href="skype:brecht.devleesschauwer?call">brecht.devleesschauwer</a>  
 Rue Juliette Wytsman 14, 1050 Brussels, Belgium | +32 2 642 5035
@@ -200,35 +199,20 @@ cat(sanitize_specials(paste(sort(journals), collapse = ", "), "html"))
 
 * FAO/WHO Expert Meeting on Risk-based examples for Control of _Trichinella_ spp. and _Taenia saginata_ in meat. World Health Organization, Geneva, Switzerland; 2013--2014.
 
-### Logistic responsibilities
+### Institutional responsibilities
 
-#### Institutional responsibilities
-
-* **Workgroup leader**, 2017--present  
-    Sciensano Translational Research Working Group
+* **Coordinator**, 2021--present  
+    Sciensano R Introduction Course
+    
+* **Founder**, 2018--present  
+    Sciensano R User Group
     
 * **Member**, 2017--present  
     Sciensano Redactional Council
 
-#### Management of research centers
-
-* **Founding member**, 2014--present  
-    Center for Burden and Risk Assessment, [www.cbra.be](http://www.cbra.be)
-
-#### Organisation of national and international conferences
-
-* **Member of scientific committee**  
-    1st International CYSTINET Conference, 3--4 November 2015, Belgrade, Serbia
-
-#### Other
-
-* **Event organizer**, 2012--2014  
-    RBelgium, the Belgian R user group
+* **Workgroup leader**, 2017--2019  
+    Sciensano Translational Research Working Group
     
-* **Rapporteur**, November 2010  
-    Fourth meeting of the Foodborne Disease Burden Epidemiology Reference Group  
-    WHO Headquarters, Geneva, Switzerland
-
 ## Skills
 
 ### Languages
@@ -237,7 +221,7 @@ Language | Speaking | Reading | Writing
 -------- | -------- | ------- | -------
 Dutch    | +++      | +++     | +++
 English  | +++      | +++     | +++
-French   | ++       | +++     | ++
+French   | +++      | +++     | ++
 German   | +        | ++      | + 
 Nepali   | +        | +       | + 
 
@@ -262,6 +246,12 @@ Nepali   | +        | +       | +
     ANS 6932 / FOS 6936, University of Florida, February 26--March 4 2016  
 
 ### Workshops
+
+* **General Concepts of Burden of Disease**, 28 May--11 June 2021  
+    European Burden of Disease Network---[www.burden-eu.net/training](https://www.burden-eu.net/training)
+
+* **R Introduction Course, 1st edition**, 19--30 April 2021   
+    Sciensano, Brussels, Belgium
 
 * **Burden of Disease and the DALY metric, 2nd edition**, 11--12 October 2017   
     WIV-ISP, Brussels, Belgium

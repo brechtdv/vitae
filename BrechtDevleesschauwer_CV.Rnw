@@ -22,7 +22,6 @@
 \noindent
 \textbf{Senior epidemiologist, PhD DVM MVSc MStat}\\
 \textit{Sciensano, Department of Epidemiology and Public Health}\\
-\textit{Center for Burden and Risk Assessment---\href{http://www.cbra.be}{www.cbra.be}}\\
 \href{mailto:brecht.devleesschauwer@sciensano.be}{brecht.devleesschauwer@sciensano.be} $\mid$ Skype: \href{skype:brecht.devleesschauwer?call>}{brecht.devleesschauwer}\\
 Rue Juliette Wytsman 14, 1050 Brussels, Belgium $\mid$ +32 2 642 5035
 
@@ -232,35 +231,16 @@ cat(sanitize_specials(paste(sort(journals), collapse = ", "), "latex"))
   \item FAO/WHO expert meeting on risk-based examples for control of \emph{Trichinella} spp. and \emph{Taenia saginata} in meat. World Health Organization, Geneva, Switzerland; 2013--2014.
 \end{itemize}
 
-\subsection{Logistic responsibilities}
-
-\subsubsection{Institutional responsibilities}
+\subsection{Institutional responsibilities}
 \begin{itemize}
-  \item \textbf{Project leader}, 2017--present\hfill \\
-    Sciesano Translational Research Working Group
+  \item \textbf{Coordinator}, 2021--present\hfill \\
+    Sciensano R Introduction Course
+  \item \textbf{Founder}, 2018--present\hfill \\
+    Sciensano R User Group
   \item \textbf{Member}, 2017--present\hfill \\
     Sciensano Redactional Council
-\end{itemize}
-
-\subsubsection{Management of research centers}
-\begin{itemize}
-  \item \textbf{Founding member}, 2014--present\hfill \\
-  Center for Burden and Risk Assessment, \href{http://www.cbra.be/}{www.cbra.be}
-\end{itemize}
-
-\subsubsection{Organisation of national and international conferences}
-\begin{itemize}
-  \item \textbf{Member of scientific committee}\hfill \\
-    1st International CYSTINET Conference, 3--4 November 2015, Belgrade, Serbia
-\end{itemize}
-
-\subsubsection{Other}
-\begin{itemize}
-  \item \textbf{Event organizer}, 2012--2014\hfill \\
-    RBelgium, the Belgian R user group
-  \item \textbf{Rapporteur}, November 2010\hfill \\
-    Fourth meeting of the Foodborne Disease Burden Epidemiology Reference Group\hfill \\
-    WHO Headquarters, Geneva, Switzerland
+  \item \textbf{Project leader}, 2017--2019\hfill \\
+    Sciesano Translational Research Working Group
 \end{itemize}
 
 %% SKILLS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -278,7 +258,7 @@ cat(sanitize_specials(paste(sort(journals), collapse = ", "), "latex"))
     \end{tabular}
   \item
     \begin{tabular}{@{}p{0.8in}p{1in}p{1in}p{1in}}
-    \textbf{French}  & speaking$++$  & reading$+++$ & writing$++$ \\
+    \textbf{French}  & speaking$+++$  & reading$+++$ & writing$++$ \\
     \end{tabular}
   \item
     \begin{tabular}{@{}p{0.8in}p{1in}p{1in}p{1in}}
@@ -316,6 +296,10 @@ cat(sanitize_specials(paste(sort(journals), collapse = ", "), "latex"))
 \subsection{Workshops}
 \begin{itemize}
   \setlength\itemsep{0em}
+  \item \textbf{General Concepts of Burden of Disease}, 28 May--11 June 2021 \hfill \\
+    European Burden of Disease Network---\href{https://www.burden-eu.net/training}{www.burden-eu.net/training}
+  \item \textbf{R Introduction Course, 1st edition}, 19--30 April 2021 \hfill \\
+    Sciensano, Brussels, Belgium
   \item \textbf{Burden of Disease and the DALY metric, 2nd edition}, 11--12 October 2017 \hfill \\
     WIV-ISP, Brussels, Belgium
   \item \textbf{Burden of Disease and the DALY metric, 1st edition}, 5--6 October 2016 \hfill \\
@@ -397,40 +381,44 @@ db_msc <- db_msc[order(db_msc$year, decreasing = TRUE), ]
 
 cat("\\subsection{MSc students (", nrow(db_msc), ")}\n", sep = "")
 
+cat("\\emph{Past 5 years shown only --- for a complete list, please visit \\url{https://brecht.cbra.be}}")
+
+db_msc <- subset(db_msc, year >= as.numeric(format(Sys.Date(), "%Y"))-5)
+
 cat("\\begin{itemize}\n")
 cat("\\setlength\\itemsep{0em}\n")
 for (i in seq(nrow(db_msc)))
   print_student(db_msc[i, ], nrow(db_msc) - i + 1)
 cat("\\end{itemize}\n")
 
-db_bsc <- db[db$grade == "BSc", ]
-db_bsc <- db_bsc[order(db_bsc$year, decreasing = TRUE), ]
+#db_bsc <- db[db$grade == "BSc", ]
+#db_bsc <- db_bsc[order(db_bsc$year, decreasing = TRUE), ]
 
-cat("\\subsection{BSc students (", nrow(db_bsc), ")}\n", sep = "")
+#cat("\\subsection{BSc students (", nrow(db_bsc), ")}\n", sep = "")
 
-cat("\\begin{itemize}\n")
-cat("\\setlength\\itemsep{0em}\n")
-for (i in seq(nrow(db_bsc)))
-  print_student(db_bsc[i, ], nrow(db_bsc) - i + 1)
-cat("\\end{itemize}\n")
+#cat("\\begin{itemize}\n")
+#cat("\\setlength\\itemsep{0em}\n")
+#for (i in seq(nrow(db_bsc)))
+#  print_student(db_bsc[i, ], nrow(db_bsc) - i + 1)
+#cat("\\end{itemize}\n")
 @
 
-\subsection{Short-term scientific missions (4)}
-\begin{itemize}
-  \setlength\itemsep{0em}
-  \item \textbf{Fabian Dupont}, October 2015 \hfill \\
-    MSc Medicine, Technische Universit\"{a}t M\"{u}nchen \hfill \\
-    Health and economic impact of \emph{Taenia solium} neurocysticercosis in Uganda
-  \item \textbf{Uffe Christian Braae}, December 2014 \hfill \\
-    PhD Veterinary Medicine, University of Copenhagen \hfill \\
-    Development of a \emph{Taenia solium} transmission model
-  \item \textbf{Hardy Richter}, September 2014 \hfill \\
-    Research associate, Munich Global Neurology Group \hfill \\
-    Landscape analysis of \emph{Taenia solium} neurocysticercosis in Europe
-  \item \textbf{Chiara Trevisan}, July 2014 \hfill \\
-    PhD Veterinary Medicine, University of Copenhagen \hfill \\
-    Burden assessment of \emph{Taenia solium} cysticercosis in Tanzania
-\end{itemize}
+%\subsection{Short-term scientific missions (4)}
+%\begin{itemize}
+%  \setlength\itemsep{0em}
+%  \item \textbf{Fabian Dupont}, October 2015 \hfill \\
+%    MSc Medicine, Technische Universit\"{a}t M\"{u}nchen \hfill \\
+%    Health and economic impact of \emph{Taenia solium} neurocysticercosis in Uganda
+%  \item \textbf{Uffe Christian Braae}, December 2014 \hfill \\
+%    PhD Veterinary Medicine, University of Copenhagen \hfill \\
+%    Development of a \emph{Taenia solium} transmission model
+%  \item \textbf{Hardy Richter}, September 2014 \hfill \\
+%    Research associate, Munich Global Neurology Group \hfill \\
+%    Landscape analysis of \emph{Taenia solium} neurocysticercosis in Europe
+%  \item \textbf{Chiara Trevisan}, July 2014 \hfill \\
+%    PhD Veterinary Medicine, University of Copenhagen \hfill \\
+%    Burden assessment of \emph{Taenia solium} cysticercosis in Tanzania
+%\end{itemize}
 
 \subsection{PhD examination committees (4)}
 \begin{itemize}
