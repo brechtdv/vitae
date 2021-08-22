@@ -161,6 +161,10 @@ cat(sanitize_specials(paste(sort(journals), collapse = ", "), "latex"))
 
 \subsection{Participation in international projects}
 \begin{itemize}
+  \item \textbf{Computational Task Force Chair}, 2021--2025\hfill \\
+    \textbf{Impact Measurement Task Force member}, 2021--2025\hfill \\
+    Foodborne Disease Burden Epidemiology Reference Group, WHO
+    
   \item \textbf{WP Member}, 2021--present \hfill \\
     WP4 Data analysis, Unravelling Data for Rapid Evidence-Based Response to COVID-19---\href{https://www.uncover-eu.net}{www.uncover-eu.net}
     

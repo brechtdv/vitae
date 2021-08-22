@@ -136,6 +136,11 @@ cat(sanitize_specials(paste(sort(journals), collapse = ", "), "html"))
 
 ### Participation in international projects
 
+
+* **Computational Task Force Chair**, 2021--2025  
+    **Impact Measurement Task Force member**, 2021--2025  
+    [Foodborne Disease Burden Epidemiology Reference Group](https://www.who.int/activities/estimating-the-burden-of-foodborne-diseases), WHO  
+    
 * **WP member**, 2021--present   
     WP4 Data analysis, Unravelling Data for Rapid Evidence-Based Response to COVID-19---[www.uncover-eu.net](https://www.uncover-eu.net)
 
@@ -167,7 +172,7 @@ cat(sanitize_specials(paste(sort(journals), collapse = ", "), "html"))
 
 * **Computational Task Force member**, 2011--2015  
     **Country Studies Task Force member**, 2011--2015  
-    [Foodborne Disease Burden Epidemiology Reference Group](http://www.who.int/foodsafety/areas_work/foodborne-diseases/ferg/en/), WHO  
+    [Foodborne Disease Burden Epidemiology Reference Group](https://www.who.int/activities/estimating-the-burden-of-foodborne-diseases), WHO  
     
 * **VLIR-UOS Institutional University Cooperation with Jimma University, Ethiopia**, 2012--2015 
     _Collaboration between Jimma University and different Flemish universities to strenghten institutional capacity_
