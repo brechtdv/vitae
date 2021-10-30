@@ -137,7 +137,7 @@ cat(sanitize_specials(paste(sort(journals), collapse = ", "), "html"))
 ### Participation in international projects
 
 
-* **Computational Task Force Chair**, 2021--2025  
+* **Computational Task Force member**, 2021--2025  
     **Impact Measurement Task Force member**, 2021--2025  
     [Foodborne Disease Burden Epidemiology Reference Group](https://www.who.int/activities/estimating-the-burden-of-foodborne-diseases), WHO  
     
