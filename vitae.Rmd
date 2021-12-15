@@ -426,7 +426,7 @@ db <- db[order(!is.na(db$volume)), ]
 cat(sprintf("### Peer-reviewed papers (%d)", nrow(db)))
 ```
 
-**[Google Scholar](https://scholar.google.com/citations?user=AFSxtd0AAAAJ) metrics: `r gs$total_cites` citations &middot; h-index `r gs$h_index` &middot; i10-index `r gs$i10_index`**
+**[Google Scholar](https://scholar.google.com/citations?user=AFSxtd0AAAAJ) metrics: `r formatC(gs$total_cites, format = "fg", big.mark = ",")` citations &middot; h-index `r gs$h_index` &middot; i10-index `r gs$i10_index`**
 
 ```{r, echo=FALSE, results='asis', message=FALSE}
 for (i in seq(nrow(db))) print_article(db[i, ], nrow(db) - i + 1)
