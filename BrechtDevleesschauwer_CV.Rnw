@@ -424,9 +424,20 @@ cat("\\end{itemize}\n")
 %    Burden assessment of \emph{Taenia solium} cysticercosis in Tanzania
 %\end{itemize}
 
-\subsection{PhD examination committees (4)}
+\subsection{PhD examination committees (6)}
 \begin{itemize}
   \setlength\itemsep{0em}
+
+  \item \textbf{Nadine Kayiba Kalendan}, October 2021 \hfill \\
+    PhD Public Health, Université catholique de Louvain \hfill \\
+    Mise en place d’un système de surveillance moléculaire de la résistance aux antipaludiques en République Démocratique du Congo : Rôle, avantage et défis \hfill \\
+    Promoters: Niko Speybroeck, Paul Lusamba Dikassa
+
+  \item \textbf{Nanna Weye}, August 2021 \hfill \\
+    PhD Health, Aarhus University \hfill \\
+    The burden of disease of mental and substance use disorders \hfill \\
+    Promoters: John McGrath, Oleguer Plana-Ripoll, Kim Moesgaard Iburg, Harvey Whiteford
+
   \item \textbf{Lea Sletting Jakobsen}, November 2017 \hfill \\
     PhD Nutrition, National Food Institute, Danish Technical University \hfill \\
     Method development in the study of burden of disease of foodborne chemicals \hfill \\

@@ -355,6 +355,7 @@ for (i in seq(nrow(db_bsc)))
   print_student(db_bsc[i, ], nrow(db_bsc) - i + 1)
 ```
 
+<!--
 ### Short-term scientific missions (4)
 
 * **Fabian Dupont**, October 2015   
@@ -372,9 +373,20 @@ for (i in seq(nrow(db_bsc)))
 * **Chiara Trevisan**, July 2014   
     PhD Veterinary Medicine, University of Copenhagen   
     Burden assessment of _Taenia solium_ cysticercosis in Tanzania
-    
-### PhD examination committees (4)
+-->
 
+### PhD examination committees (6)
+
+* **Nadine Kayiba Kalenda**, October 2021   
+    PhD Public Health, Université catholique de Louvain   
+    Mise en place d’un système de surveillance moléculaire de la résistance aux antipaludiques en République Démocratique du Congo : Rôle, avantage et défis  
+    Promoters: Niko Speybroeck, Paul Lusamba Dikassa
+
+* **Nanna Weye**, August 2021   
+    PhD Health, Aarhus University   
+    The burden of disease of mental and substance use disorders  
+    Promoters: John McGrath, Oleguer Plana-Ripoll, Kim Moesgaard Iburg, Harvey Whiteford
+    
 * **Lea Sletting Jakobsen**, November 2017   
     PhD Nutrition, National Food Institute, Danish Technical University   
     Method development in the study of burden of disease of foodborne chemicals  
