@@ -494,7 +494,10 @@ cat(sprintf("### Poster presentations (%d)", nrow(db)))
 for (i in seq(nrow(db))) print_proceeding(db[i, ], nrow(db) - i + 1)
 ```
 
-### Reports (13)
+### Reports (14)
+
+* Maertens de Noordhout C, Detollenaere J, Primus-de Jong C, Kohn L, **Devleesschauwer B**, Charafeddine R,
+Cleemput I. Identifying Patient needs: methodological approach and application. Health Services Research (HSR) Brussels: Belgian Health Care Knowledge Centre (KCE). 2021. KCE Reports 348. D/2021/10.273/51. https://kce.fgov.be/en/identifying-patient-needs-methodological-approach-and-application
 
 * Food and Agriculture Organization of the United Nations, World Health Organization (2019) Attributing illness caused by Shiga toxin-producing _Escherichia coli_ (STEC) to specific foods. JEMRA Microbiological Risk Assessment Series. http://www.fao.org/publications/card/en/c/CA5758EN
 

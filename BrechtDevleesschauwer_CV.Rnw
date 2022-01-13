@@ -544,6 +544,7 @@ for (i in seq(nrow(db))) {
 \subsection{Reports}
 \begin{itemize}
   \setlength\itemsep{0em}
+    \item[{[14]}] Maertens de Noordhout C, Detollenaere J, Primus-de Jong C, Kohn L, \textbf{Devleesschauwer B}, Charafeddine R, Cleemput I. Identifying Patient needs: methodological approach and application. Health Services Research (HSR) Brussels: Belgian Health Care Knowledge Centre (KCE). 2021. KCE Reports 348. D/2021/10.273/51.. \url{https://kce.fgov.be/en/identifying-patient-needs-methodological-approach-and-application}
   \item[{[13]}] Food and Agriculture Organization of the United Nations, World Health Organization (2019) Attributing illness caused by Shiga toxin-producing \emph{Escherichia coli} (STEC) to specific foods. JEMRA Microbiological Risk Assessment Series. \url{http://www.fao.org/publications/card/en/c/CA5758EN}
   \item[{[12]}] Devos C, Cordon A, Lef\`{e}vre M, Obyn C, Renard F, Bouckaert N, Gerkens S, Maertens de Noordhout C, \textbf{Devleesschauwer B}, Haelterman M, L\'{e}onard C, Meeus P. Performance of the Belgian health system -- report 2019. Health Services Research (HSR) Brussels: Belgian Health Care Knowledge Centre (KCE). 2019. KCE Reports 313. D/2019/10.273/34. \url{https://kce.fgov.be/en/performance-of-the-belgian-health-system-%E2%80%93-report-2019}
   \item[{[11]}] Renard F, \textbf{Devleesschauwer B} (2019) Health Status Report 2019: De gezondheidstoestand in Belgi\"{e}. Brussels, Belgium: Sciensano; 48p. Report number D/2019/14.440/4. \url{https://doi.org/10.25608/reh4-ty02}
