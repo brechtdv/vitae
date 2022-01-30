@@ -113,8 +113,8 @@ for (i in seq(nrow(db))) {
   \setlength\itemsep{0em}
   \item \textbf{Guest Editor}, 2019--present\hfill \\
     Archives of Public Health: burden of disease article collection
-  \item \textbf{Academic Editor}, 2017--present\hfill \\
-    Food and Waterborne Parasitology
+  %\item \textbf{Academic Editor}, 2017--present\hfill \\
+  %  Food and Waterborne Parasitology
   \item \textbf{Academic Editor}, 2017--present\hfill \\
     PLOS ONE
   \item \textbf{Associate Editor}, 2017--2019\hfill \\
@@ -290,7 +290,7 @@ cat(sanitize_specials(paste(sort(journals), collapse = ", "), "latex"))
 \begin{itemize}
   \setlength\itemsep{0em}
   \item \textbf{Advanced epidemiology} \hfill \\
-    WFSP2238, Universit\'{e} catholique de Louvain, 2018--present
+    WFSP2238, Universit\'{e} catholique de Louvain, 2018--2019
   \item \textbf{Health economic evaluations} \hfill \\
     WFSP2103, Universit\'{e} catholique de Louvain, 2016--2018
   \item \textbf{Quantitative microbial risk assessment of pathogens in food systems} \hfill \\
@@ -300,7 +300,9 @@ cat(sanitize_specials(paste(sort(journals), collapse = ", "), "latex"))
 \subsection{Workshops}
 \begin{itemize}
   \setlength\itemsep{0em}
-  \item \textbf{General Concepts of Burden of Disease}, 28 May--11 June 2021 \hfill \\
+  \item \textbf{R Introduction Course, 2nd edition}, 11--25 October 2021 \hfill \\
+    Sciensano, Brussels, Belgium
+    \item \textbf{General Concepts of Burden of Disease}, 28 May--11 June 2021 \hfill \\
     European Burden of Disease Network---\href{https://www.burden-eu.net/training}{www.burden-eu.net/training}
   \item \textbf{R Introduction Course, 1st edition}, 19--30 April 2021 \hfill \\
     Sciensano, Brussels, Belgium
@@ -481,7 +483,7 @@ library(scholar)
 id <- "AFSxtd0AAAAJ"
 gs <- get_profile(id)
 @
-\textbf{Google Scholar metrics: \Sexpr{gs$total_cites} citations $\cdot$ h-index \Sexpr{gs$h_index} $\cdot$ i10-index \Sexpr{gs$i10_index}}
+\textbf{Google Scholar metrics: \Sexpr{formatC(gs$total_cites, format = "fg", big.mark = " ")} citations $\cdot$ h-index \Sexpr{gs$h_index} $\cdot$ i10-index \Sexpr{gs$i10_index}}
 %\textbf{Google Scholar metrics: 162 citations $\cdot$ h-index 8 $\cdot$ i10-index 5}
 
 \begin{itemize}
@@ -511,10 +513,11 @@ for (i in seq(nrow(db))) print_article(db[i, ], nrow(db) - i + 1)
 \end{itemize}
 
 %% TALKS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{Oral presentations}
-\begin{itemize}
-  \setlength\itemsep{0em}
-<<echo=FALSE, results='asis', message=FALSE>>=
+\subsection{Oral and poster presentations}
+I have presented my work at numerous national and international conferences and meetings.
+%\begin{itemize}
+%  \setlength\itemsep{0em}
+<<echo=FALSE, results='asis', message=FALSE,include=FALSE>>=
 db <- read_excel("presentations.xlsx", "oral", na = "NA")
 class(db) <- "data.frame"
 db <- db[order(db$title), ]
@@ -524,12 +527,12 @@ for (i in seq(nrow(db))) {
   print_proceeding(db[i, ], nrow(db) - i + 1)
 }
 @
-\end{itemize}
+%\end{itemize}
 
-\subsection{Poster presentations}
-\begin{itemize}
-  \setlength\itemsep{0em}
-<<echo=FALSE,results='asis',message=FALSE>>=
+%\subsection{Poster presentations}
+%\begin{itemize}
+%  \setlength\itemsep{0em}
+<<echo=FALSE,results='asis',message=FALSE,include=FALSE>>=
 db <- read_excel("presentations.xlsx", "poster", na = "NA")
 class(db) <- "data.frame"
 db <- db[order(db$title), ]
@@ -539,16 +542,21 @@ for (i in seq(nrow(db))) {
   print_proceeding(db[i, ], nrow(db) - i + 1)
 }
 @
-\end{itemize}
+%\end{itemize}
 
 \subsection{Reports}
 \begin{itemize}
   \setlength\itemsep{0em}
-    \item[{[14]}] Maertens de Noordhout C, Detollenaere J, Primus-de Jong C, Kohn L, \textbf{Devleesschauwer B}, Charafeddine R, Cleemput I. Identifying Patient needs: methodological approach and application. Health Services Research (HSR) Brussels: Belgian Health Care Knowledge Centre (KCE). 2021. KCE Reports 348. D/2021/10.273/51.. \url{https://kce.fgov.be/en/identifying-patient-needs-methodological-approach-and-application}
+    \item[{[19]}] Maertens de Noordhout C, Detollenaere J, Primus-de Jong C, Kohn L, \textbf{Devleesschauwer B}, Charafeddine R, Cleemput I. Identifying Patient needs: methodological approach and application. Health Services Research (HSR) Brussels: Belgian Health Care Knowledge Centre (KCE). 2021. KCE Reports 348. D/2021/10.273/51.. \url{https://kce.fgov.be/en/identifying-patient-needs-methodological-approach-and-application}
+  \item[{[18]}] Cornez A, Gorasso V, \textbf{Devleesschauwer B} (2021) Belgian national burden of disease study. Guidelines for the calculation of DALYs in Belgium. Brussels, Belgium: Sciensano; 225pp. \url{https://www.sciensano.be/nl/biblio/belgian-national-burden-disease-study-guidelines-calculation-dalys-belgium-0}
+  \item[{[17]}] Schutte N, Van der Heyden J, \textbf{Devleesschauwer B}, De Ridder K, Van Oyen H (2020) BELCOHORT: Opportunities for a population-based cohort in Belgium. Brussels, Belgium: Sciensano; 58pp. Report number: D/2020/14.440/84. \url{https://www.sciensano.be/en/biblio/belcohort-opportunities-a-population-based-cohort-belgium}
+  \item[{[16]}] Cornez A, \textbf{Devleesschauwer B} (2020) Belgian national burden of disease study. Guidelines for the calculation of DALYs in Belgium. Brussels, Belgium: Sciensano; 94pp. \url{https://www.sciensano.be/nl/biblio/belgian-national-burden-disease-study-guidelines-calculation-dalys-belgium}
+  \item[{[15]}] Schutte N, Raes L, \textbf{Devleesschauwer B} (2020) Morbidity Statistics. 2019 Pilot Data Collection Belgium, Final Report. Brussels, Belgium: Sciensano; 52pp. Report number: D/2020/14.440/86. \url{https://www.sciensano.be/en/biblio/morbidity-statistics-2019-pilot-data-collection-belgium-final-report}
+  \item[{[14]}] Raes L, \textbf{Devleesschauwer B} (2019) Morbidity Statistics. 2019 Pilot Data Collection Belgium, Intermediary Report. Brussels, Belgium: Sciensano; 50pp. \url{https://www.sciensano.be/en/biblio/morbidity-statistics-2019-pilot-data-collection-belgium-intermediary-report}
   \item[{[13]}] Food and Agriculture Organization of the United Nations, World Health Organization (2019) Attributing illness caused by Shiga toxin-producing \emph{Escherichia coli} (STEC) to specific foods. JEMRA Microbiological Risk Assessment Series. \url{http://www.fao.org/publications/card/en/c/CA5758EN}
   \item[{[12]}] Devos C, Cordon A, Lef\`{e}vre M, Obyn C, Renard F, Bouckaert N, Gerkens S, Maertens de Noordhout C, \textbf{Devleesschauwer B}, Haelterman M, L\'{e}onard C, Meeus P. Performance of the Belgian health system -- report 2019. Health Services Research (HSR) Brussels: Belgian Health Care Knowledge Centre (KCE). 2019. KCE Reports 313. D/2019/10.273/34. \url{https://kce.fgov.be/en/performance-of-the-belgian-health-system-%E2%80%93-report-2019}
-  \item[{[11]}] Renard F, \textbf{Devleesschauwer B} (2019) Health Status Report 2019: De gezondheidstoestand in Belgi\"{e}. Brussels, Belgium: Sciensano; 48p. Report number D/2019/14.440/4. \url{https://doi.org/10.25608/reh4-ty02}
-  \item[{[10]}] Renard F, \textbf{Devleesschauwer B} (2019) Health Status Report 2019: L'\'{e}tat de sant\'{e} en Belgique. Brussels, Belgium: Sciensano; 48p. Report number D/2019/14.440/3. \url{https://doi.org/10.25608/a42z-ah78}
+  \item[{[11]}] Renard F, \textbf{Devleesschauwer B} (2019) Health Status Report 2019: De gezondheidstoestand in Belgi\"{e}. Brussels, Belgium: Sciensano; 48pp. Report number D/2019/14.440/4. \url{https://doi.org/10.25608/reh4-ty02}
+  \item[{[10]}] Renard F, \textbf{Devleesschauwer B} (2019) Health Status Report 2019: L'\'{e}tat de sant\'{e} en Belgique. Brussels, Belgium: Sciensano; 48pp. Report number D/2019/14.440/3. \url{https://doi.org/10.25608/a42z-ah78}
   \item[{[9]}] Federal Agency for the Safety of the Food Chain (2019) The FASFC analyses program regarding process contaminants (dossier SciCom 2018/03). \url{http://www.afsca.be/scientificcommittee/opinions/2019/_documents/Advice02-2019.pdf}
   \item[{[8]}] Federal Agency for the Safety of the Food Chain (2018) The analysis program regarding microbiological analyses in prepared products, fish products, vegetables, fruit, herbs, vegetable oil, fertilizers, beverages and water not intended for drinks (dossier SciCom 2017/24). \url{http://www.afsca.be/scientificcommittee/opinions/2018/_documents/Advice15-2018.pdf}
   \item[{[7]}] Food and Agriculture Organization of the United Nations, World Health Organization (2018) Shiga toxin-producing \emph{Escherichia coli} (STEC) and food: attribution, characterization, and monitoring. JEMRA Microbiological Risk Assessment Series. \url{http://www.fao.org/documents/card/en/c/CA0032EN}
@@ -575,8 +583,9 @@ for (i in seq(nrow(db))) {
 \subsection{Vulgarizing articles}
 \begin{itemize}
   \setlength\itemsep{0em}
-  \item[{[6]}] \textit{In a tobacco-free world, life expectancy increases by 2 years.} Sciensano news, 11 December 2019. \url{https://www.sciensano.be/en/press-corner/a-tobacco-free-world-life-expectancy-increases-2-years}
-  \item[{[6]}] \textit{Acute gastroenteritis cost the Belgian economy hundreds of millions euros every year.} Sciensano news, 26 June 2019. \url{https://www.sciensano.be/en/press-corner/acute-gastroenteritis-cost-belgian-economy-hundreds-millions-euros-every-year}
+  \item[{[9]}] \textit{Hoe overgewicht op de gezondheidszorg weegt.} EOS Blogs, 2 December 2021. \url{https://www.eoswetenschap.eu/gezondheid/hoe-overgewicht-op-de-gezondheidszorg-weegt}
+  \item[{[8]}] \textit{In a tobacco-free world, life expectancy increases by 2 years.} Sciensano news, 11 December 2019. \url{https://www.sciensano.be/en/press-corner/a-tobacco-free-world-life-expectancy-increases-2-years}
+  \item[{[7]}] \textit{Acute gastroenteritis cost the Belgian economy hundreds of millions euros every year.} Sciensano news, 26 June 2019. \url{https://www.sciensano.be/en/press-corner/acute-gastroenteritis-cost-belgian-economy-hundreds-millions-euros-every-year}
   \item[{[6]}] \textit{New! Belgian Health Status Report available online.} Sciensano news, 22 February 2019. \url{https://www.sciensano.be/en/press-corner/new-belgian-health-status-report-available-online}
   \item[{[5]}] \textit{Belgium drops from 8th to 15th place on the European ladder of healthy life years.} Sciensano news, 16 July 2018. \url{https://www.sciensano.be/en/press-corner/belgium-drops-8th-15th-place-european-ladder-healthy-life-years}
   \item[{[4]}] \textit{One in 10 globally suffer from foodborne diseases, WHO study finds.} EPI News, 3 December 2015. \url{http://news.ufl.edu/articles/2015/12/one-in-10-globally-suffer-from-foodborne-diseases-who-study-finds.php}
