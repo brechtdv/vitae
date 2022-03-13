@@ -85,6 +85,16 @@ print_article <-
     } else {
       doi_string <- ""
     }
+    
+    ## reformat DOI preprint string
+    doi_preprint_string <- item$doi_preprint
+    if (!is.null(doi_preprint_string) && !is.na(doi_preprint_string)){
+      doi_preprint_string <-
+        paste0(". preprint: \\href{https://doi.org/",
+               doi_preprint_string, "}{", doi_preprint_string, "}")
+    } else {
+      doi_preprint_string <- ""
+    }
 
     cat("\\item[{[", id, "]}] ", sep = "")
     cat(paste(authors_string, collapse = ", "))
@@ -93,6 +103,7 @@ print_article <-
     cat(journal_string)
     cat(vp_string)
     cat(doi_string)
+    cat(doi_preprint_string)
   }
 
 

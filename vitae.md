@@ -2,8 +2,6 @@
 output: bd::html_body
 ---
 
-
-
 # Brecht Devleesschauwer
 
 Senior epidemiologist, PhD DVM MVSc MStat
