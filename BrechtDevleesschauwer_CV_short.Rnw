@@ -27,7 +27,7 @@
 \noindent
 {\LARGE \textbf{Brecht Devleesschauwer}}~~{\large PhD DVM MVSc MStat}\\
 \noindent
-\textit{Senior epidemiologist $\cdot$ Coordinator national burden of disease studies}\\
+\textit{Head of Service Lifestyle and Chronic Diseases}\\
 \textit{Sciensano, Department of Epidemiology and Public Health}\\
 \href{mailto:brecht.devleesschauwer@sciensano.be}{brecht.devleesschauwer@sciensano.be} $\mid$ \href{http://brecht.cbra.be}{brecht.cbra.be}\\
 Rue Juliette Wytsman 14, 1050 Brussels, Belgium $\mid$ +32 2 642 5035
@@ -35,9 +35,9 @@ Rue Juliette Wytsman 14, 1050 Brussels, Belgium $\mid$ +32 2 642 5035
 %% PERSONAL STATEMENT %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section*{Personal statement}
 
-The common goal of my research activities is to quantify the true impact of diseases and health inequalities, and to make model-based evaluations of prevention and control. I have developed and implemented the computational framework for the WHO/FERG estimates of the global burden of foodborne disease. Currently, I am implementing the Belgian national burden of disease study and am chairing the COST Action CA18218 ``European Burden of Disease Network''.
+The common goal of my research activities is to quantify the true impact of diseases and health inequalities, and to make model-based evaluations of prevention and control. Currently, I am coordinating the Belgian national burden of disease study and am chairing the COST Action CA18218 ``European Burden of Disease Network''.
 
-My research activities have led to more than 130 peer-reviewed scientific publications in national and international journals. My scientific expertise in burden assessment, risk assessment and health economics has been recognized through invitations to various national and international expert groups, including the Belgian Superior Health Council, the Belgian Food Safety Authority, and EFSA, WHO and FAO.
+My research activities have led to close to 200 peer-reviewed scientific publications in national and international journals. My scientific expertise in burden assessment, risk assessment and health economics has been recognized through invitations to various national and international expert groups, including the Belgian Superior Health Council, the Belgian Food Safety Authority, and the World Health Organization.
 
 %% EDUCATION %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section*{Education}
@@ -63,6 +63,7 @@ My research activities have led to more than 130 peer-reviewed scientific public
 
 \begin{table}[!htbp]
 \begin{tabular}{ll}
+\textbf{2022-} & Head of Service; Sciensano, Brussels, BE \\
 \textbf{2018-} & Visiting professor, risk analysis; UGent, Merelbeke, BE \\
 \textbf{2016-} & Senior epidemiologist; Sciensano, Brussels, BE \\
 \textbf{2018-19} & Visiting professor, advanced epidemiology; UCL, Brussels, BE \\
@@ -80,7 +81,7 @@ My research activities have led to more than 130 peer-reviewed scientific public
 \section*{Mentoring and supervision}
 
 \noindent
-3 PhD students $\cdot$ 36 MSc students $\cdot$ 8 BSc students
+10 PhD students $\cdot$ 55 MSc students $\cdot$ 8 BSc students
 
 %% PUBLICATIONS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section*{Scientific output}
@@ -100,7 +101,7 @@ id <- "AFSxtd0AAAAJ"
 gs <- get_profile(id)
 @
 \noindent
-\href{https://scholar.google.be/citations?user=AFSxtd0AAAAJ}{Google Scholar} metrics: \Sexpr{gs$total_cites} citations $\cdot$ h-index \Sexpr{gs$h_index} $\cdot$ i10-index \Sexpr{gs$i10_index}
+\href{https://scholar.google.be/citations?user=AFSxtd0AAAAJ}{Google Scholar} metrics: \Sexpr{formatC(gs$total_cites, format="f", big.mark=" ", digits=0)} citations $\cdot$ h-index \Sexpr{gs$h_index} $\cdot$ i10-index \Sexpr{gs$i10_index}
 
 \vspace{0.5cm}
 
