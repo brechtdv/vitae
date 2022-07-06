@@ -2,6 +2,7 @@ Aeromonas
 Anopheles
 arabiensis
 Echinococcus granulosus
+Fasciola
 Giardia
 Helicobacter pylori
 Opisthorchis
