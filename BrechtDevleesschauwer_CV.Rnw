@@ -118,7 +118,7 @@ for (i in seq(nrow(db))) {
     Archives of Public Health: burden of disease article collection
   %\item \textbf{Academic Editor}, 2017--present\hfill \\
   %  Food and Waterborne Parasitology
-  \item \textbf{Academic Editor}, 2017--present\hfill \\
+  \item \textbf{Academic Editor}, 2017--2022\hfill \\
     PLOS ONE
   \item \textbf{Associate Editor}, 2017--2019\hfill \\
     BMC Veterinary Research, Parasitology section
