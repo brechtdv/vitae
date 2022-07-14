@@ -92,14 +92,14 @@ for (i in seq(nrow(db))) {
 ## Professional experiences
 
 ### Contributions to peer review
-    
-* **Academic/Associate Editor**  
-    PLOS ONE (2017--present)  
-    Food and Waterborne Parasitology (2017--present)  
-    BMC Veterinary Research, Parasitology section (2017--2019)
 
 * **Guest Editor**  
     Archives of Public Health: [burden of disease article collection](https://www.biomedcentral.com/collections/burden-of-disease) (2019--present)
+    
+* **Academic/Associate Editor**  
+    Food and Waterborne Parasitology (2017--present)  
+    PLOS ONE (2017--2022)  
+    BMC Veterinary Research, Parasitology section (2017--2019)
 
 * **Reviewer for international scientific journals**, e.g.:  
 ```{r, echo=FALSE, results='asis', message=FALSE}
