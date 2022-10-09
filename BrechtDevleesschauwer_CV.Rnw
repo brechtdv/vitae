@@ -23,7 +23,7 @@
 \textbf{Senior epidemiologist, PhD DVM MVSc MStat}\\
 \textbf{Head of Service Lifestyle and chronic diseases}\\
 \textit{Sciensano, Department of Epidemiology and Public Health}\\
-\href{mailto:brecht.devleesschauwer@sciensano.be}{brecht.devleesschauwer@sciensano.be} $\mid$ Skype: \href{skype:brecht.devleesschauwer?call>}{brecht.devleesschauwer}\\
+\href{mailto:brecht.devleesschauwer@sciensano.be}{brecht.devleesschauwer@sciensano.be}\\
 Rue Juliette Wytsman 14, 1050 Brussels, Belgium $\mid$ +32 2 642 5035
 
 \noindent
