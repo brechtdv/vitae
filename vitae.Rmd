@@ -8,7 +8,7 @@ source("vitae-md.R")
 
 # Brecht Devleesschauwer
 
-Senior epidemiologist & Head of Service Lifestyle and chronic diseases, PhD DVM MVSc MStat
+Senior epidemiologist & Head of Service Health information, PhD DVM MVSc MStat
 
 _Sciensano, Department of Epidemiology and Public Health_  
 
@@ -23,13 +23,16 @@ Rue Juliette Wytsman 14, 1050 Brussels, Belgium | +32 2 642 5035
 
 ## Employment
 
-* **Head of Service, Lifestyle and chronic diseases**, 02/2022--present  
+* **Head of Service, Health information**, 01/2023--present  
     Sciensano, Brussels, Belgium
-
+    
 * **Visiting professor, risk analysis**, 04/2018--present  
     Ghent University, Merelbeke, Belgium
 
 * **Senior epidemiologist, coordinator national burden of disease studies**, 04/2016--present  
+    Sciensano, Brussels, Belgium
+
+* **Head of Service, Lifestyle and chronic diseases**, 02/2022--12/2022  
     Sciensano, Brussels, Belgium
 
 * **Visiting professor, advanced epidemiology**, 10/2018--09/2019  

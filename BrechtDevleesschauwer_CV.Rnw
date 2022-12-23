@@ -21,7 +21,7 @@
 \vspace{0.1in}
 \noindent
 \textbf{Senior epidemiologist, PhD DVM MVSc MStat}\\
-\textbf{Head of Service Lifestyle and chronic diseases}\\
+\textbf{Head of Service Health information}\\
 \textit{Sciensano, Department of Epidemiology and Public Health}\\
 \href{mailto:brecht.devleesschauwer@sciensano.be}{brecht.devleesschauwer@sciensano.be}\\
 Rue Juliette Wytsman 14, 1050 Brussels, Belgium $\mid$ +32 2 642 5035
@@ -42,11 +42,13 @@ Rue Juliette Wytsman 14, 1050 Brussels, Belgium $\mid$ +32 2 642 5035
 \section{Employment}
 \begin{itemize}
   \setlength\itemsep{0em}
-  \item \textbf{Head of Service, Lifestyle and chronic diseases}, 02/2022--present \hfill \\
+  \item \textbf{Head of Service, Health information}, 01/2023--present \hfill \\
     Sciensano, Brussels, Belgium
   \item \textbf{Visiting professor, risk analysis}, 04/2018--present \hfill \\
     Ghent University, Merelbeke, Belgium
   \item \textbf{Senior epidemiologist}, 04/2016--present \hfill \\
+    Sciensano, Brussels, Belgium
+  \item \textbf{Head of Service, Lifestyle and chronic diseases}, 02/2022--12/2022 \hfill \\
     Sciensano, Brussels, Belgium
   \item \textbf{Visiting professor, advanced epidemiology}, 10/2018--09/2019 \hfill \\
     Universit\'{e} catholique de Louvain, Brussels, Belgium
